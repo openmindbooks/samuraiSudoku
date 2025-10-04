@@ -1,0 +1,41 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Summorai Sudoku</title>
+  <meta property="og:type" content="website" />
+  <meta property="og:title" content="Summorai Sudoku" />
+  <meta property="og:description" content="Play and share your Sudoku results. How fast can you solve it?" />
+  <!-- og:image removed - will be set dynamically only when needed -->
+  <meta property="og:url" content="https://openmindbooks.github.io/samuraiSudoku/play" />
+  <link rel="icon" href="/samuraiSudoku/docs/logo.jpg" />
+  
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-02EWSZY9TD"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);} 
+    gtag('js', new Date());
+
+    gtag('config', 'G-02EWSZY9TD');
+  </script>
+    <script type="module" crossorigin src="/samuraiSudoku/assets/index-N_vQYvHW.js"></script>
+    <link rel="stylesheet" crossorigin href="/samuraiSudoku/assets/index-D4qRAN1X.css">
+  
+    <script>
+      // GitHub Pages SPA redirect handling
+      // Captures the URL path and redirects to index.html with path as query parameter
+      (function() {
+        var redirect = sessionStorage.redirect;
+        delete sessionStorage.redirect;
+        if (redirect && redirect !== location.href) {
+          history.replaceState(null, null, redirect);
+        }
+      })();
+    </script>
+  </head>
+  <body>
+    <div id="root"></div>
+  </body>
+</html>
