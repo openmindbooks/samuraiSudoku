@@ -1,0 +1,116 @@
+{
+  "id": 515,
+  "difficulty": "medium",
+  "puzzle": [
+    [
+      7,
+      4,
+      3,
+      6,
+      0,
+      0,
+      5,
+      0,
+      0
+    ],
+    [
+      0,
+      9,
+      0,
+      5,
+      2,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      5,
+      0,
+      0,
+      0,
+      4,
+      0,
+      9,
+      0
+    ],
+    [
+      0,
+      0,
+      9,
+      0,
+      4,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      8,
+      0,
+      2,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      6,
+      1,
+      8,
+      0,
+      4
+    ],
+    [
+      0,
+      0,
+      7,
+      2,
+      9,
+      3,
+      0,
+      4,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      5,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  ],
+  "strategies": [
+    "naked singles",
+    "hidden singles",
+    "naked pairs",
+    "hidden pairs",
+    "pointing pairs",
+    "hidden triples"
+  ],
+  "quotes": [
+    "Leadership and Influence: BE HUMBLE IN POSITION OF POWER"
+  ]
+}

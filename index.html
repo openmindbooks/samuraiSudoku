@@ -1,0 +1,89 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Summorai Sudoku</title>
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Summorai Sudoku" />
+    <meta property="og:description" content="Play and share your Sudoku results. How fast can you solve it?" />
+    <meta property="og:url" content="https://openmindbooks.github.io/samuraiSudoku/play" />
+    <link rel="icon" href="/samuraiSudoku/docs/logo.jpg" />
+    <link rel="icon" type="image/svg+xml" href="/samuraiSudoku/assets/numbers/1.svg" />
+    <script>
+      // Early maintenance guard to defeat stale-cache issues.
+      // Uses Vite HTML env replacement: %VITE_MAINTENANCE% (string 'true'|'false').
+      (function(){
+        var MAINT = '%VITE_MAINTENANCE%';
+        if (MAINT && MAINT.toLowerCase() === 'true') {
+          var root = document.getElementById('root');
+          if (root) {
+            root.innerHTML = '<div style="min-height:100vh;display:flex;align-items:center;justify-content:center;background:#f7fafc;text-align:center;padding:48px">\n'
+              + '<div style="max-width:640px">\n'
+              + '<h1 style="font-size:24px;margin-bottom:8px;color:#1a202c">⚔️ The Dojo Rests ⚔️</h1>\n'
+              + '<p style="font-size:18px;margin:0 0 16px;color:#2d3748;font-weight:600">Our blades are being sharpened.<br> The site is under maintenance and shall return soon — stronger, swifter, and wiser.</p>\n'
+              + '<p style="font-size:16px;color:#4a5568">In the meantime, continue your training with the\n'
+              + ' <a href="https://www.amazon.com/dp/B0FGV4J3GZ" target="_blank" rel="noopener noreferrer" style="color:#3182ce;text-decoration:underline;font-weight:600">Samurai Sudoku Book</a> — and keep your mind sharp even offline.</p>\n'
+              + '</div>\n</div>';
+          }
+          // Prevent further JS execution to minimize side effects during maintenance.
+          // Stop here so app bundle (if cached) won’t initialize cookies/analytics.
+          throw new Error('Maintenance mode active');
+        }
+      })();
+    </script>
+    <script type="module" crossorigin src="/samuraiSudoku/assets/index-D68K8vrq.js"></script>
+    <link rel="modulepreload" crossorigin href="/samuraiSudoku/assets/vendor-react-0dsmVQgu.js">
+    <link rel="modulepreload" crossorigin href="/samuraiSudoku/assets/vendor-other-DzItJgT-.js">
+    <link rel="stylesheet" crossorigin href="/samuraiSudoku/assets/index-Cgj4PItc.css">
+  
+    <script>
+      // GitHub Pages SPA redirect handling
+      // Captures the URL path and redirects to index.html with path as query parameter
+      (function() {
+        var redirect = sessionStorage.redirect;
+        delete sessionStorage.redirect;
+        if (redirect && redirect !== location.href) {
+          history.replaceState(null, null, redirect);
+        }
+      })();
+    </script>
+  </head>
+  <body>
+    <div id="root"></div>
+  </body>
+</html>
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Summorai Sudoku</title>
+  <meta property="og:type" content="website" />
+  <meta property="og:title" content="Summorai Sudoku" />
+  <meta property="og:description" content="Play and share your Sudoku results. How fast can you solve it?" />
+  <!-- og:image removed - will be set dynamically only when needed -->
+  <meta property="og:url" content="https://openmindbooks.github.io/samuraiSudoku/play" />
+  <link rel="icon" href="/samuraiSudoku/docs/logo.jpg" />
+
+  <!-- Preload number images for keypad (bug-7) -->
+  <link rel="preload" href="/samuraiSudoku/assets/numbers/1.svg" as="image" type="image/svg+xml" />
+  <link rel="preload" href="/samuraiSudoku/assets/numbers/2.svg" as="image" type="image/svg+xml" />
+  <link rel="preload" href="/samuraiSudoku/assets/numbers/3.svg" as="image" type="image/svg+xml" />
+  <link rel="preload" href="/samuraiSudoku/assets/numbers/4.svg" as="image" type="image/svg+xml" />
+  <link rel="preload" href="/samuraiSudoku/assets/numbers/5.svg" as="image" type="image/svg+xml" />
+  <link rel="preload" href="/samuraiSudoku/assets/numbers/6.svg" as="image" type="image/svg+xml" />
+  <link rel="preload" href="/samuraiSudoku/assets/numbers/7.svg" as="image" type="image/svg+xml" />
+  <link rel="preload" href="/samuraiSudoku/assets/numbers/8.svg" as="image" type="image/svg+xml" />
+  <link rel="preload" href="/samuraiSudoku/assets/numbers/9.svg" as="image" type="image/svg+xml" />
+
+  <!-- Cookie Consent CSS -->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.css" />
+  <!-- Cookie Consent JS -->
+  <script src="https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.js"></script>
+  <!-- Google Analytics will be loaded conditionally in main.tsx after consent -->
+  </head>
+  <body>
+    <div id="root"></div>
+  </body>
+</html>
