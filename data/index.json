@@ -1,0 +1,8011 @@
+{
+  "puzzles": [
+    {
+      "id": 1,
+      "difficulty": "easy",
+      "strategies": [
+        "naked singles"
+      ],
+      "quotes": [
+        "Balance and Harmony: WALK THE MIDDLE PATH DAILY"
+      ]
+    },
+    {
+      "id": 2,
+      "difficulty": "medium",
+      "strategies": [
+        "hidden singles",
+        "naked singles",
+        "naked pairs",
+        "hidden pairs",
+        "pointing pairs",
+        "hidden triples",
+        "naked triples"
+      ],
+      "quotes": [
+        "Balance and Harmony: BALANCE ACTION WITH CONTEMPLATION"
+      ]
+    },
+    {
+      "id": 3,
+      "difficulty": "hard",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "hidden pairs",
+        "skyscraper",
+        "xy wing"
+      ],
+      "quotes": [
+        "Balance and Harmony: HARMONY BEGINS WITHIN YOURSELF"
+      ]
+    },
+    {
+      "id": 4,
+      "difficulty": "easy",
+      "strategies": [
+        "naked singles"
+      ],
+      "quotes": [
+        "Balance and Harmony: AVOID EXTREMES IN THOUGHT OR ACT"
+      ]
+    },
+    {
+      "id": 5,
+      "difficulty": "medium",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "naked pairs",
+        "hidden pairs",
+        "pointing pairs",
+        "naked triples"
+      ],
+      "quotes": [
+        "Balance and Harmony: GIVE TIME TO BOTH WORK AND REST"
+      ]
+    },
+    {
+      "id": 6,
+      "difficulty": "hard",
+      "strategies": [
+        "hidden singles",
+        "naked singles",
+        "swordfish",
+        "xy wing",
+        "skyscraper"
+      ],
+      "quotes": [
+        "Balance and Harmony: RESPECT BOTH OPPOSITES AND UNITY"
+      ]
+    },
+    {
+      "id": 7,
+      "difficulty": "easy",
+      "strategies": [
+        "naked singles"
+      ],
+      "quotes": [
+        "Balance and Harmony: CREATE ORDER FROM SURROUNDING CHAOS"
+      ]
+    },
+    {
+      "id": 8,
+      "difficulty": "medium",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "pointing pairs",
+        "naked triples",
+        "hidden triples"
+      ],
+      "quotes": [
+        "Balance and Harmony: BRING PEACE TO EVERY CONVERSATION"
+      ]
+    },
+    {
+      "id": 9,
+      "difficulty": "hard",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "naked pairs",
+        "hidden pairs",
+        "pointing pairs",
+        "hidden triples",
+        "x wing",
+        "swordfish",
+        "skyscraper",
+        "xy wing"
+      ],
+      "quotes": [
+        "Balance and Harmony: ALIGN YOUR VALUES AND CHOICES"
+      ]
+    },
+    {
+      "id": 10,
+      "difficulty": "easy",
+      "strategies": [
+        "naked singles",
+        "hidden singles"
+      ],
+      "quotes": [
+        "Balance and Harmony: LET NATURE BE YOUR TEACHER"
+      ]
+    },
+    {
+      "id": 11,
+      "difficulty": "medium",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "naked pairs",
+        "hidden pairs",
+        "pointing pairs",
+        "naked triples",
+        "hidden triples"
+      ],
+      "quotes": [
+        "Gratitude and Simplicity: BE THANKFUL WITHOUT EXPECTATION"
+      ]
+    },
+    {
+      "id": 12,
+      "difficulty": "hard",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "naked pairs",
+        "hidden pairs",
+        "pointing pairs",
+        "x wing",
+        "xy wing",
+        "skyscraper"
+      ],
+      "quotes": [
+        "Gratitude and Simplicity: VALUE SMALL ACTS AND MOMENTS"
+      ]
+    },
+    {
+      "id": 13,
+      "difficulty": "easy",
+      "strategies": [
+        "naked singles"
+      ],
+      "quotes": [
+        "Gratitude and Simplicity: SIMPLICITY IS THE TRUE LUXURY"
+      ]
+    },
+    {
+      "id": 14,
+      "difficulty": "medium",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "naked pairs",
+        "hidden pairs",
+        "pointing pairs",
+        "hidden triples"
+      ],
+      "quotes": [
+        "Gratitude and Simplicity: DO NOT DESIRE BEYOND YOUR NEEDS"
+      ]
+    },
+    {
+      "id": 15,
+      "difficulty": "hard",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "naked pairs",
+        "xy wing",
+        "skyscraper",
+        "x wing",
+        "pointing pairs"
+      ],
+      "quotes": [
+        "Gratitude and Simplicity: GIVE FREELY WITHOUT COUNTING COST"
+      ]
+    },
+    {
+      "id": 16,
+      "difficulty": "easy",
+      "strategies": [
+        "naked singles"
+      ],
+      "quotes": [
+        "Gratitude and Simplicity: ENJOY LIFE WITHOUT OWNING IT"
+      ]
+    },
+    {
+      "id": 17,
+      "difficulty": "medium",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "naked pairs",
+        "hidden pairs",
+        "pointing pairs",
+        "naked triples",
+        "hidden triples"
+      ],
+      "quotes": [
+        "Gratitude and Simplicity: GRATITUDE STRENGTHENS THE SPIRIT"
+      ]
+    },
+    {
+      "id": 18,
+      "difficulty": "hard",
+      "strategies": [
+        "hidden singles",
+        "naked singles",
+        "xy wing",
+        "skyscraper"
+      ],
+      "quotes": [
+        "Gratitude and Simplicity: LIVE LIGHTLY AND TRAVEL FAR"
+      ]
+    },
+    {
+      "id": 19,
+      "difficulty": "easy",
+      "strategies": [
+        "naked singles"
+      ],
+      "quotes": [
+        "Gratitude and Simplicity: SPEAK KIND WORDS DAILY"
+      ]
+    },
+    {
+      "id": 20,
+      "difficulty": "medium",
+      "strategies": [
+        "hidden singles",
+        "naked singles",
+        "naked pairs",
+        "hidden pairs",
+        "pointing pairs",
+        "naked triples",
+        "hidden triples"
+      ],
+      "quotes": [
+        "Gratitude and Simplicity: APPRECIATE THE PRESENT FULLY"
+      ]
+    },
+    {
+      "id": 21,
+      "difficulty": "hard",
+      "strategies": [
+        "hidden singles",
+        "naked singles",
+        "naked pairs",
+        "pointing pairs",
+        "skyscraper",
+        "xy wing"
+      ],
+      "quotes": [
+        "Kindness and Compassion: ACT WITH KINDNESS IN ALL THINGS"
+      ]
+    },
+    {
+      "id": 22,
+      "difficulty": "easy",
+      "strategies": [
+        "naked singles"
+      ],
+      "quotes": [
+        "Kindness and Compassion: SEE OTHERS WITH COMPASSIONATE EYES"
+      ]
+    },
+    {
+      "id": 23,
+      "difficulty": "medium",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "naked pairs",
+        "naked triples",
+        "hidden triples"
+      ],
+      "quotes": [
+        "Kindness and Compassion: OFFER HELP WITHOUT SEEKING PRAISE"
+      ]
+    },
+    {
+      "id": 24,
+      "difficulty": "hard",
+      "strategies": [
+        "hidden singles",
+        "pointing pairs",
+        "naked singles",
+        "hidden pairs",
+        "naked pairs",
+        "swordfish",
+        "skyscraper"
+      ],
+      "quotes": [
+        "Kindness and Compassion: LISTEN WITH THE INTENT TO UNDERSTAND"
+      ]
+    },
+    {
+      "id": 25,
+      "difficulty": "easy",
+      "strategies": [
+        "naked singles"
+      ],
+      "quotes": [
+        "Kindness and Compassion: LIFT OTHERS WITHOUT EXPECTING RETURN"
+      ]
+    },
+    {
+      "id": 26,
+      "difficulty": "medium",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "naked pairs",
+        "hidden pairs",
+        "pointing pairs",
+        "naked triples",
+        "hidden triples"
+      ],
+      "quotes": [
+        "Kindness and Compassion: GIVE MERCY WHERE YOU HOLD POWER"
+      ]
+    },
+    {
+      "id": 27,
+      "difficulty": "hard",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "pointing pairs",
+        "xy wing",
+        "skyscraper",
+        "naked pairs",
+        "hidden pairs"
+      ],
+      "quotes": [
+        "Kindness and Compassion: CHOOSE UNDERSTANDING OVER JUDGEMENT"
+      ]
+    },
+    {
+      "id": 28,
+      "difficulty": "easy",
+      "strategies": [
+        "naked singles"
+      ],
+      "quotes": [
+        "Kindness and Compassion: BE A SOURCE OF WARMTH DAILY"
+      ]
+    },
+    {
+      "id": 29,
+      "difficulty": "medium",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "naked pairs",
+        "hidden pairs",
+        "pointing pairs",
+        "hidden triples"
+      ],
+      "quotes": [
+        "Kindness and Compassion: HEAL RIFTS THROUGH PATIENCE"
+      ]
+    },
+    {
+      "id": 30,
+      "difficulty": "hard",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "hidden pairs",
+        "pointing pairs",
+        "naked pairs",
+        "naked triples",
+        "hidden triples",
+        "x wing",
+        "swordfish",
+        "skyscraper"
+      ],
+      "quotes": [
+        "Kindness and Compassion: CARRY A GENTLE SPIRIT INSIDE"
+      ]
+    },
+    {
+      "id": 31,
+      "difficulty": "easy",
+      "strategies": [
+        "naked singles"
+      ],
+      "quotes": [
+        "Community and Service: SERVE YOUR COMMUNITY WITH PRIDE"
+      ]
+    },
+    {
+      "id": 32,
+      "difficulty": "medium",
+      "strategies": [
+        "hidden singles",
+        "pointing pairs",
+        "naked triples",
+        "naked singles",
+        "naked pairs",
+        "hidden pairs",
+        "hidden triples"
+      ],
+      "quotes": [
+        "Community and Service: PUT OTHERS AHEAD OF YOURSELF"
+      ]
+    },
+    {
+      "id": 33,
+      "difficulty": "hard",
+      "strategies": [
+        "hidden singles",
+        "naked singles",
+        "xy wing",
+        "skyscraper"
+      ],
+      "quotes": [
+        "Community and Service: ACT FOR THE GOOD OF MANY"
+      ]
+    },
+    {
+      "id": 34,
+      "difficulty": "easy",
+      "strategies": [
+        "naked singles"
+      ],
+      "quotes": [
+        "Community and Service: OFFER YOUR STRENGTH TO THE WEAK"
+      ]
+    },
+    {
+      "id": 35,
+      "difficulty": "medium",
+      "strategies": [
+        "hidden singles",
+        "naked pairs",
+        "hidden pairs",
+        "pointing pairs",
+        "naked triples",
+        "hidden triples",
+        "naked singles"
+      ],
+      "quotes": [
+        "Community and Service: STAND TOGETHER IN UNITY"
+      ]
+    },
+    {
+      "id": 36,
+      "difficulty": "hard",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "naked pairs",
+        "hidden pairs",
+        "pointing pairs",
+        "xy wing",
+        "skyscraper"
+      ],
+      "quotes": [
+        "Community and Service: SUPPORT THOSE WHO STRUGGLE"
+      ]
+    },
+    {
+      "id": 37,
+      "difficulty": "easy",
+      "strategies": [
+        "naked singles"
+      ],
+      "quotes": [
+        "Community and Service: GROW THROUGH SHARED PURPOSE"
+      ]
+    },
+    {
+      "id": 38,
+      "difficulty": "medium",
+      "strategies": [
+        "hidden singles",
+        "naked pairs",
+        "pointing pairs",
+        "naked triples",
+        "hidden triples",
+        "naked singles"
+      ],
+      "quotes": [
+        "Community and Service: CONTRIBUTE MORE THAN YOU TAKE"
+      ]
+    },
+    {
+      "id": 39,
+      "difficulty": "hard",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "naked pairs",
+        "pointing pairs",
+        "xy wing"
+      ],
+      "quotes": [
+        "Community and Service: TAKE CARE OF YOUR NEIGHBOURS"
+      ]
+    },
+    {
+      "id": 40,
+      "difficulty": "easy",
+      "strategies": [
+        "naked singles"
+      ],
+      "quotes": [
+        "Community and Service: SEE HUMANITY AS ONE FAMILY"
+      ]
+    },
+    {
+      "id": 41,
+      "difficulty": "medium",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "naked pairs",
+        "hidden pairs",
+        "pointing pairs",
+        "naked triples"
+      ],
+      "quotes": [
+        "Integrity and Truth: NEVER HIDE FROM THE TRUTH"
+      ]
+    },
+    {
+      "id": 42,
+      "difficulty": "hard",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "hidden pairs",
+        "naked pairs",
+        "x wing",
+        "skyscraper",
+        "xy wing"
+      ],
+      "quotes": [
+        "Integrity and Truth: BE WHO YOU CLAIM TO BE"
+      ]
+    },
+    {
+      "id": 43,
+      "difficulty": "easy",
+      "strategies": [
+        "naked singles"
+      ],
+      "quotes": [
+        "Integrity and Truth: LET YOUR WORD MATCH YOUR ACTION"
+      ]
+    },
+    {
+      "id": 44,
+      "difficulty": "medium",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "naked pairs",
+        "hidden pairs",
+        "pointing pairs",
+        "naked triples",
+        "hidden triples"
+      ],
+      "quotes": [
+        "Integrity and Truth: STAY TRUE EVEN IN DIFFICULTY"
+      ]
+    },
+    {
+      "id": 45,
+      "difficulty": "hard",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "naked pairs",
+        "hidden pairs",
+        "pointing pairs",
+        "x wing",
+        "swordfish",
+        "skyscraper"
+      ],
+      "quotes": [
+        "Integrity and Truth: DO NOT TWIST WORDS FOR GAIN"
+      ]
+    },
+    {
+      "id": 46,
+      "difficulty": "easy",
+      "strategies": [
+        "naked singles"
+      ],
+      "quotes": [
+        "Integrity and Truth: ACT THE SAME IN LIGHT AND DARK"
+      ]
+    },
+    {
+      "id": 47,
+      "difficulty": "medium",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "naked pairs",
+        "hidden pairs",
+        "pointing pairs",
+        "naked triples",
+        "hidden triples"
+      ],
+      "quotes": [
+        "Integrity and Truth: CORRECT YOURSELF QUICKLY"
+      ]
+    },
+    {
+      "id": 48,
+      "difficulty": "hard",
+      "strategies": [
+        "hidden singles",
+        "naked pairs",
+        "hidden pairs",
+        "pointing pairs",
+        "x wing",
+        "skyscraper",
+        "naked singles"
+      ],
+      "quotes": [
+        "Integrity and Truth: LIVE AS IF THE WORLD IS WATCHING"
+      ]
+    },
+    {
+      "id": 49,
+      "difficulty": "easy",
+      "strategies": [
+        "naked singles"
+      ],
+      "quotes": [
+        "Integrity and Truth: TRUST BUILDS THROUGH HONESTY"
+      ]
+    },
+    {
+      "id": 50,
+      "difficulty": "medium",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "hidden pairs",
+        "pointing pairs",
+        "naked triples",
+        "hidden triples"
+      ],
+      "quotes": [
+        "Integrity and Truth: UPHOLD WHAT IS RIGHT NOT EASY"
+      ]
+    },
+    {
+      "id": 51,
+      "difficulty": "hard",
+      "strategies": [
+        "hidden singles",
+        "naked singles",
+        "naked pairs",
+        "xy wing",
+        "skyscraper"
+      ],
+      "quotes": [
+        "Growth and Curiosity: ASK QUESTIONS WITHOUT PRIDE"
+      ]
+    },
+    {
+      "id": 52,
+      "difficulty": "easy",
+      "strategies": [
+        "naked singles"
+      ],
+      "quotes": [
+        "Growth and Curiosity: STAY CURIOUS THROUGH ALL AGES"
+      ]
+    },
+    {
+      "id": 53,
+      "difficulty": "medium",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "naked pairs",
+        "pointing pairs",
+        "hidden triples"
+      ],
+      "quotes": [
+        "Growth and Curiosity: EXPLORE IDEAS OUTSIDE YOUR FIELD"
+      ]
+    },
+    {
+      "id": 54,
+      "difficulty": "hard",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "naked pairs",
+        "hidden pairs",
+        "pointing pairs",
+        "skyscraper"
+      ],
+      "quotes": [
+        "Growth and Curiosity: LEARN FROM FAILURE WITHOUT SHAME"
+      ]
+    },
+    {
+      "id": 55,
+      "difficulty": "easy",
+      "strategies": [
+        "naked singles"
+      ],
+      "quotes": [
+        "Growth and Curiosity: CELEBRATE OTHERS’ WISDOM OPENLY"
+      ]
+    },
+    {
+      "id": 56,
+      "difficulty": "medium",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "hidden pairs",
+        "pointing pairs",
+        "hidden triples"
+      ],
+      "quotes": [
+        "Growth and Curiosity: BE WILLING TO UNLEARN TOO"
+      ]
+    },
+    {
+      "id": 57,
+      "difficulty": "hard",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "naked pairs",
+        "hidden pairs",
+        "pointing pairs",
+        "skyscraper",
+        "xy wing"
+      ],
+      "quotes": [
+        "Growth and Curiosity: GROW THROUGH CHALLENGES NOT COMFORT"
+      ]
+    },
+    {
+      "id": 58,
+      "difficulty": "easy",
+      "strategies": [
+        "naked singles"
+      ],
+      "quotes": [
+        "Growth and Curiosity: READ DAILY FOR INSIGHT"
+      ]
+    },
+    {
+      "id": 59,
+      "difficulty": "medium",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "pointing pairs",
+        "naked triples",
+        "hidden triples"
+      ],
+      "quotes": [
+        "Growth and Curiosity: LEARN IN SILENCE AND SPEECH"
+      ]
+    },
+    {
+      "id": 60,
+      "difficulty": "hard",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "naked pairs",
+        "xy wing",
+        "skyscraper",
+        "hidden pairs",
+        "naked triples"
+      ],
+      "quotes": [
+        "Growth and Curiosity: LET HUMILITY DRIVE YOUR GROWTH"
+      ]
+    },
+    {
+      "id": 61,
+      "difficulty": "easy",
+      "strategies": [
+        "naked singles"
+      ],
+      "quotes": [
+        "Patience and Timing: WAIT FOR THE RIGHT MOMENT"
+      ]
+    },
+    {
+      "id": 62,
+      "difficulty": "medium",
+      "strategies": [
+        "hidden singles",
+        "naked singles",
+        "naked pairs",
+        "pointing pairs",
+        "hidden triples"
+      ],
+      "quotes": [
+        "Patience and Timing: DO NOT RUSH WHAT NEEDS TIME"
+      ]
+    },
+    {
+      "id": 63,
+      "difficulty": "hard",
+      "strategies": [
+        "hidden singles",
+        "naked singles",
+        "naked pairs",
+        "x wing",
+        "xy wing",
+        "skyscraper"
+      ],
+      "quotes": [
+        "Patience and Timing: OBSERVE BEFORE YOU ACT"
+      ]
+    },
+    {
+      "id": 64,
+      "difficulty": "easy",
+      "strategies": [
+        "naked singles"
+      ],
+      "quotes": [
+        "Patience and Timing: LET IMPULSE PASS LIKE WIND"
+      ]
+    },
+    {
+      "id": 65,
+      "difficulty": "medium",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "naked pairs",
+        "hidden pairs",
+        "pointing pairs",
+        "naked triples"
+      ],
+      "quotes": [
+        "Patience and Timing: RECOGNISE WHEN TO STEP BACK"
+      ]
+    },
+    {
+      "id": 66,
+      "difficulty": "hard",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "naked pairs",
+        "pointing pairs",
+        "xy wing",
+        "skyscraper"
+      ],
+      "quotes": [
+        "Patience and Timing: STAY GROUNDED IN DELAY"
+      ]
+    },
+    {
+      "id": 67,
+      "difficulty": "easy",
+      "strategies": [
+        "naked singles"
+      ],
+      "quotes": [
+        "Patience and Timing: TIME REVEALS TRUE INTENTIONS"
+      ]
+    },
+    {
+      "id": 68,
+      "difficulty": "medium",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "naked pairs",
+        "hidden pairs",
+        "hidden triples"
+      ],
+      "quotes": [
+        "Patience and Timing: BE PATIENT WITH OTHERS’ PACE"
+      ]
+    },
+    {
+      "id": 69,
+      "difficulty": "hard",
+      "strategies": [
+        "hidden singles",
+        "naked singles",
+        "naked pairs",
+        "hidden pairs",
+        "pointing pairs",
+        "skyscraper",
+        "xy wing"
+      ],
+      "quotes": [
+        "Patience and Timing: EVERY SEASON HAS ITS PURPOSE"
+      ]
+    },
+    {
+      "id": 70,
+      "difficulty": "easy",
+      "strategies": [
+        "naked singles"
+      ],
+      "quotes": [
+        "Patience and Timing: WISDOM WAITS WITHOUT ANGER"
+      ]
+    },
+    {
+      "id": 71,
+      "difficulty": "medium",
+      "strategies": [
+        "hidden singles",
+        "naked pairs",
+        "hidden pairs",
+        "pointing pairs",
+        "naked triples",
+        "hidden triples",
+        "naked singles"
+      ],
+      "quotes": [
+        "Creativity and Expression: CREATE SOMETHING WITH YOUR HANDS"
+      ]
+    },
+    {
+      "id": 72,
+      "difficulty": "hard",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "naked pairs",
+        "hidden pairs",
+        "pointing pairs",
+        "xy wing",
+        "skyscraper"
+      ],
+      "quotes": [
+        "Creativity and Expression: EXPRESS YOUR TRUTH THROUGH ART"
+      ]
+    },
+    {
+      "id": 73,
+      "difficulty": "easy",
+      "strategies": [
+        "naked singles"
+      ],
+      "quotes": [
+        "Creativity and Expression: SEE LIFE AS A WORK OF BEAUTY"
+      ]
+    },
+    {
+      "id": 74,
+      "difficulty": "medium",
+      "strategies": [
+        "hidden singles",
+        "naked pairs",
+        "hidden pairs",
+        "pointing pairs",
+        "naked triples",
+        "hidden triples",
+        "naked singles"
+      ],
+      "quotes": [
+        "Creativity and Expression: SHARE IDEAS BOLDLY AND KINDLY"
+      ]
+    },
+    {
+      "id": 75,
+      "difficulty": "hard",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "naked pairs",
+        "hidden pairs",
+        "pointing pairs",
+        "naked triples",
+        "xy wing",
+        "skyscraper"
+      ],
+      "quotes": [
+        "Creativity and Expression: FIND INSPIRATION IN SMALL PLACES"
+      ]
+    },
+    {
+      "id": 76,
+      "difficulty": "easy",
+      "strategies": [
+        "naked singles"
+      ],
+      "quotes": [
+        "Creativity and Expression: MAKE TIME FOR CREATIVE JOY"
+      ]
+    },
+    {
+      "id": 77,
+      "difficulty": "medium",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "naked pairs",
+        "hidden pairs",
+        "naked triples",
+        "hidden triples"
+      ],
+      "quotes": [
+        "Creativity and Expression: USE IMAGINATION AS A TOOL"
+      ]
+    },
+    {
+      "id": 78,
+      "difficulty": "hard",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "naked pairs",
+        "hidden pairs",
+        "pointing pairs",
+        "xy wing",
+        "skyscraper"
+      ],
+      "quotes": [
+        "Creativity and Expression: REFLECT YOUR SOUL IN YOUR CRAFT"
+      ]
+    },
+    {
+      "id": 79,
+      "difficulty": "easy",
+      "strategies": [
+        "naked singles"
+      ],
+      "quotes": [
+        "Creativity and Expression: CELEBRATE OTHERS' CREATIONS"
+      ]
+    },
+    {
+      "id": 80,
+      "difficulty": "medium",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "naked pairs",
+        "hidden triples"
+      ],
+      "quotes": [
+        "Creativity and Expression: MAKE LIFE AN ARTISTIC PRACTICE"
+      ]
+    },
+    {
+      "id": 81,
+      "difficulty": "hard",
+      "strategies": [
+        "hidden singles",
+        "naked singles",
+        "naked pairs",
+        "hidden pairs",
+        "xy wing",
+        "skyscraper"
+      ],
+      "quotes": [
+        "Joy and Lightness: SMILE FREELY WITHOUT REASON"
+      ]
+    },
+    {
+      "id": 82,
+      "difficulty": "easy",
+      "strategies": [
+        "naked singles"
+      ],
+      "quotes": [
+        "Joy and Lightness: LAUGH OFTEN WITH OPEN HEART"
+      ]
+    },
+    {
+      "id": 83,
+      "difficulty": "medium",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "naked pairs",
+        "hidden pairs",
+        "pointing pairs",
+        "naked triples",
+        "hidden triples"
+      ],
+      "quotes": [
+        "Joy and Lightness: BRING JOY WHEREVER YOU GO"
+      ]
+    },
+    {
+      "id": 84,
+      "difficulty": "hard",
+      "strategies": [
+        "hidden singles",
+        "hidden pairs",
+        "naked pairs",
+        "pointing pairs",
+        "naked singles",
+        "skyscraper",
+        "xy wing"
+      ],
+      "quotes": [
+        "Joy and Lightness: DANCE EVEN WITHOUT MUSIC"
+      ]
+    },
+    {
+      "id": 85,
+      "difficulty": "easy",
+      "strategies": [
+        "naked singles"
+      ],
+      "quotes": [
+        "Joy and Lightness: LET LIGHTNESS LIFT YOUR SPIRIT"
+      ]
+    },
+    {
+      "id": 86,
+      "difficulty": "medium",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "naked pairs",
+        "pointing pairs",
+        "hidden triples"
+      ],
+      "quotes": [
+        "Joy and Lightness: CELEBRATE SMALL VICTORIES DAILY"
+      ]
+    },
+    {
+      "id": 87,
+      "difficulty": "hard",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "hidden pairs",
+        "naked pairs",
+        "pointing pairs",
+        "x wing",
+        "skyscraper"
+      ],
+      "quotes": [
+        "Joy and Lightness: SHARE HAPPINESS WITHOUT LIMIT"
+      ]
+    },
+    {
+      "id": 88,
+      "difficulty": "easy",
+      "strategies": [
+        "naked singles"
+      ],
+      "quotes": [
+        "Joy and Lightness: CARRY HUMOUR AS A COMPASS"
+      ]
+    },
+    {
+      "id": 89,
+      "difficulty": "medium",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "pointing pairs",
+        "hidden triples"
+      ],
+      "quotes": [
+        "Joy and Lightness: FIND PLAY IN ORDINARY MOMENTS"
+      ]
+    },
+    {
+      "id": 90,
+      "difficulty": "hard",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "naked pairs",
+        "hidden pairs",
+        "pointing pairs",
+        "skyscraper"
+      ],
+      "quotes": [
+        "Joy and Lightness: BRIGHTEN THE ROOM WITH PRESENCE"
+      ]
+    },
+    {
+      "id": 91,
+      "difficulty": "easy",
+      "strategies": [
+        "naked singles"
+      ],
+      "quotes": [
+        "Environment and Nature: WALK AMONG TREES REGULARLY"
+      ]
+    },
+    {
+      "id": 92,
+      "difficulty": "medium",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "naked pairs",
+        "hidden pairs",
+        "pointing pairs",
+        "naked triples",
+        "hidden triples"
+      ],
+      "quotes": [
+        "Environment and Nature: RESPECT THE EARTH AS SACRED"
+      ]
+    },
+    {
+      "id": 93,
+      "difficulty": "hard",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "naked pairs",
+        "pointing pairs",
+        "x wing",
+        "xy wing",
+        "skyscraper"
+      ],
+      "quotes": [
+        "Environment and Nature: LEAVE NO TRACE BEHIND"
+      ]
+    },
+    {
+      "id": 94,
+      "difficulty": "easy",
+      "strategies": [
+        "naked singles"
+      ],
+      "quotes": [
+        "Environment and Nature: LISTEN TO THE WIND FOR WISDOM"
+      ]
+    },
+    {
+      "id": 95,
+      "difficulty": "medium",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "naked pairs",
+        "hidden pairs",
+        "pointing pairs",
+        "naked triples",
+        "hidden triples"
+      ],
+      "quotes": [
+        "Environment and Nature: CARE FOR ANIMALS WITHOUT NEED"
+      ]
+    },
+    {
+      "id": 96,
+      "difficulty": "hard",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "hidden pairs",
+        "pointing pairs",
+        "xy wing",
+        "skyscraper"
+      ],
+      "quotes": [
+        "Environment and Nature: DO NOT WASTE WATER OR FIRE"
+      ]
+    },
+    {
+      "id": 97,
+      "difficulty": "easy",
+      "strategies": [
+        "naked singles",
+        "hidden singles"
+      ],
+      "quotes": [
+        "Environment and Nature: HONOUR CYCLES OF THE MOON"
+      ]
+    },
+    {
+      "id": 98,
+      "difficulty": "medium",
+      "strategies": [
+        "hidden singles",
+        "naked singles",
+        "naked pairs",
+        "pointing pairs",
+        "naked triples",
+        "hidden triples"
+      ],
+      "quotes": [
+        "Environment and Nature: PLANT WHEREVER YOU HAVE SPACE"
+      ]
+    },
+    {
+      "id": 99,
+      "difficulty": "hard",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "naked pairs",
+        "xy wing",
+        "skyscraper"
+      ],
+      "quotes": [
+        "Environment and Nature: FEEL THE SEASONS IN YOUR BONES"
+      ]
+    },
+    {
+      "id": 100,
+      "difficulty": "easy",
+      "strategies": [
+        "naked singles"
+      ],
+      "quotes": [
+        "Environment and Nature: LEARN FROM NATURE’S BALANCE"
+      ]
+    },
+    {
+      "id": 101,
+      "difficulty": "medium",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "naked pairs",
+        "pointing pairs",
+        "hidden triples"
+      ],
+      "quotes": [
+        "Resilience and Endurance: STAND FIRM IN DIFFICULT TIMES"
+      ]
+    },
+    {
+      "id": 102,
+      "difficulty": "hard",
+      "strategies": [
+        "hidden singles",
+        "naked singles",
+        "hidden pairs",
+        "skyscraper",
+        "xy wing"
+      ],
+      "quotes": [
+        "Resilience and Endurance: DO NOT YIELD TO DISCOURAGEMENT"
+      ]
+    },
+    {
+      "id": 103,
+      "difficulty": "easy",
+      "strategies": [
+        "naked singles"
+      ],
+      "quotes": [
+        "Resilience and Endurance: ENDURE WITHOUT COMPLAINT OR PRIDE"
+      ]
+    },
+    {
+      "id": 104,
+      "difficulty": "medium",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "naked pairs",
+        "pointing pairs"
+      ],
+      "quotes": [
+        "Resilience and Endurance: RISING AGAIN IS TRUE STRENGTH"
+      ]
+    },
+    {
+      "id": 105,
+      "difficulty": "hard",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "hidden pairs",
+        "pointing pairs",
+        "xy wing",
+        "skyscraper"
+      ],
+      "quotes": [
+        "Resilience and Endurance: SEE CHALLENGES AS STEPPING STONES"
+      ]
+    },
+    {
+      "id": 106,
+      "difficulty": "easy",
+      "strategies": [
+        "naked singles",
+        "hidden singles"
+      ],
+      "quotes": [
+        "Resilience and Endurance: LET YOUR RESOLVE BE UNBREAKABLE"
+      ]
+    },
+    {
+      "id": 107,
+      "difficulty": "medium",
+      "strategies": [
+        "hidden singles",
+        "naked singles",
+        "pointing pairs",
+        "naked triples",
+        "hidden triples"
+      ],
+      "quotes": [
+        "Resilience and Endurance: KEEP GOING EVEN WHEN SMALL"
+      ]
+    },
+    {
+      "id": 108,
+      "difficulty": "hard",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "pointing pairs",
+        "skyscraper",
+        "hidden pairs",
+        "xy wing"
+      ],
+      "quotes": [
+        "Resilience and Endurance: STRENGTH GROWS THROUGH STRUGGLE"
+      ]
+    },
+    {
+      "id": 109,
+      "difficulty": "easy",
+      "strategies": [
+        "naked singles"
+      ],
+      "quotes": [
+        "Resilience and Endurance: FIND POWER IN CONSISTENCY"
+      ]
+    },
+    {
+      "id": 110,
+      "difficulty": "medium",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "naked pairs",
+        "pointing pairs",
+        "naked triples",
+        "hidden triples"
+      ],
+      "quotes": [
+        "Resilience and Endurance: MOVE FORWARD ONE STEP AT A TIME"
+      ]
+    },
+    {
+      "id": 111,
+      "difficulty": "hard",
+      "strategies": [
+        "hidden singles",
+        "naked singles",
+        "hidden pairs",
+        "naked pairs",
+        "skyscraper"
+      ],
+      "quotes": [
+        "Leadership and Influence: LEAD THROUGH YOUR ACTIONS"
+      ]
+    },
+    {
+      "id": 112,
+      "difficulty": "easy",
+      "strategies": [
+        "naked singles"
+      ],
+      "quotes": [
+        "Leadership and Influence: SERVE THOSE YOU WISH TO GUIDE"
+      ]
+    },
+    {
+      "id": 113,
+      "difficulty": "medium",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "naked pairs",
+        "hidden pairs",
+        "pointing pairs",
+        "hidden triples"
+      ],
+      "quotes": [
+        "Leadership and Influence: INSPIRE NOT THROUGH WORDS ALONE"
+      ]
+    },
+    {
+      "id": 114,
+      "difficulty": "hard",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "pointing pairs",
+        "xy wing",
+        "skyscraper"
+      ],
+      "quotes": [
+        "Leadership and Influence: LISTEN TO YOUR FOLLOWERS' VOICES"
+      ]
+    },
+    {
+      "id": 115,
+      "difficulty": "easy",
+      "strategies": [
+        "naked singles"
+      ],
+      "quotes": [
+        "Leadership and Influence: BE HUMBLE IN POSITION OF POWER"
+      ]
+    },
+    {
+      "id": 116,
+      "difficulty": "medium",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "naked pairs",
+        "hidden pairs",
+        "pointing pairs",
+        "hidden triples"
+      ],
+      "quotes": [
+        "Leadership and Influence: MODEL THE BEHAVIOUR YOU EXPECT"
+      ]
+    },
+    {
+      "id": 117,
+      "difficulty": "hard",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "naked pairs",
+        "skyscraper"
+      ],
+      "quotes": [
+        "Leadership and Influence: STRENGTHEN OTHERS TO STAND STRONG"
+      ]
+    },
+    {
+      "id": 118,
+      "difficulty": "easy",
+      "strategies": [
+        "naked singles"
+      ],
+      "quotes": [
+        "Leadership and Influence: EARN TRUST THROUGH CONSISTENCY"
+      ]
+    },
+    {
+      "id": 119,
+      "difficulty": "medium",
+      "strategies": [
+        "hidden singles",
+        "naked singles",
+        "naked pairs",
+        "hidden pairs",
+        "pointing pairs",
+        "hidden triples"
+      ],
+      "quotes": [
+        "Leadership and Influence: MAKE DECISIONS WITH WISDOM"
+      ]
+    },
+    {
+      "id": 120,
+      "difficulty": "hard",
+      "strategies": [
+        "hidden singles",
+        "naked singles",
+        "x wing",
+        "xy wing",
+        "skyscraper"
+      ],
+      "quotes": [
+        "Leadership and Influence: SHARE SUCCESS WITH YOUR TEAM"
+      ]
+    },
+    {
+      "id": 121,
+      "difficulty": "easy",
+      "strategies": [
+        "naked singles"
+      ],
+      "quotes": [
+        "Mindfulness and Awareness: BE AWARE OF YOUR BREATH ALWAYS"
+      ]
+    },
+    {
+      "id": 122,
+      "difficulty": "medium",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "pointing pairs",
+        "naked pairs",
+        "hidden pairs",
+        "naked triples",
+        "hidden triples"
+      ],
+      "quotes": [
+        "Mindfulness and Awareness: NOTICE SMALL CHANGES IN RHYTHM"
+      ]
+    },
+    {
+      "id": 123,
+      "difficulty": "hard",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "pointing pairs",
+        "naked pairs",
+        "xy wing",
+        "skyscraper"
+      ],
+      "quotes": [
+        "Mindfulness and Awareness: PAUSE BEFORE EVERY DECISION"
+      ]
+    },
+    {
+      "id": 124,
+      "difficulty": "easy",
+      "strategies": [
+        "naked singles",
+        "hidden singles"
+      ],
+      "quotes": [
+        "Mindfulness and Awareness: FEEL THE GROUND BENEATH YOUR FEET"
+      ]
+    },
+    {
+      "id": 125,
+      "difficulty": "medium",
+      "strategies": [
+        "hidden singles",
+        "naked pairs",
+        "hidden pairs",
+        "pointing pairs",
+        "hidden triples",
+        "naked singles"
+      ],
+      "quotes": [
+        "Mindfulness and Awareness: WATCH WITHOUT NEEDING TO JUDGE"
+      ]
+    },
+    {
+      "id": 126,
+      "difficulty": "hard",
+      "strategies": [
+        "hidden singles",
+        "naked pairs",
+        "pointing pairs",
+        "x wing",
+        "skyscraper",
+        "naked singles"
+      ],
+      "quotes": [
+        "Mindfulness and Awareness: HEAR THE UNSAID IN CONVERSATION"
+      ]
+    },
+    {
+      "id": 127,
+      "difficulty": "easy",
+      "strategies": [
+        "naked singles"
+      ],
+      "quotes": [
+        "Mindfulness and Awareness: SEE WHAT IS HIDDEN IN PLAIN VIEW"
+      ]
+    },
+    {
+      "id": 128,
+      "difficulty": "medium",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "naked pairs",
+        "hidden pairs",
+        "pointing pairs",
+        "naked triples",
+        "hidden triples"
+      ],
+      "quotes": [
+        "Mindfulness and Awareness: KNOW YOUR EMOTIONS WITHOUT HIDING"
+      ]
+    },
+    {
+      "id": 129,
+      "difficulty": "hard",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "naked pairs",
+        "pointing pairs",
+        "hidden triples",
+        "x wing",
+        "skyscraper"
+      ],
+      "quotes": [
+        "Mindfulness and Awareness: RETURN TO THE PRESENT WHEN LOST"
+      ]
+    },
+    {
+      "id": 130,
+      "difficulty": "easy",
+      "strategies": [
+        "naked singles"
+      ],
+      "quotes": [
+        "Mindfulness and Awareness: ATTENTION IS THE ROOT OF WISDOM"
+      ]
+    },
+    {
+      "id": 131,
+      "difficulty": "medium",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "naked pairs",
+        "hidden pairs",
+        "naked triples",
+        "hidden triples"
+      ],
+      "quotes": [
+        "Forgiveness and Letting Go: FORGIVE EVEN WHEN NOT ASKED"
+      ]
+    },
+    {
+      "id": 132,
+      "difficulty": "hard",
+      "strategies": [
+        "hidden singles",
+        "naked singles",
+        "pointing pairs",
+        "x wing",
+        "skyscraper",
+        "xy wing"
+      ],
+      "quotes": [
+        "Forgiveness and Letting Go: DO NOT CARRY OLD GRUDGES"
+      ]
+    },
+    {
+      "id": 133,
+      "difficulty": "easy",
+      "strategies": [
+        "naked singles"
+      ],
+      "quotes": [
+        "Forgiveness and Letting Go: RELEASE WHAT NO LONGER SERVES"
+      ]
+    },
+    {
+      "id": 134,
+      "difficulty": "medium",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "naked pairs",
+        "pointing pairs",
+        "naked triples",
+        "hidden triples"
+      ],
+      "quotes": [
+        "Forgiveness and Letting Go: LET GO TO GAIN TRUE PEACE"
+      ]
+    },
+    {
+      "id": 135,
+      "difficulty": "hard",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "swordfish",
+        "xy wing",
+        "skyscraper"
+      ],
+      "quotes": [
+        "Forgiveness and Letting Go: MAKE PEACE WITH PAST MISTAKES"
+      ]
+    },
+    {
+      "id": 136,
+      "difficulty": "easy",
+      "strategies": [
+        "naked singles"
+      ],
+      "quotes": [
+        "Forgiveness and Letting Go: UNDERSTAND BEFORE YOU CONDEMN"
+      ]
+    },
+    {
+      "id": 137,
+      "difficulty": "medium",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "naked pairs",
+        "pointing pairs",
+        "hidden triples"
+      ],
+      "quotes": [
+        "Forgiveness and Letting Go: OFFER YOURSELF COMPASSION TOO"
+      ]
+    },
+    {
+      "id": 138,
+      "difficulty": "hard",
+      "strategies": [
+        "hidden singles",
+        "naked singles",
+        "pointing pairs",
+        "xy wing",
+        "skyscraper"
+      ],
+      "quotes": [
+        "Forgiveness and Letting Go: CLEAR YOUR HEART OF HEAVINESS"
+      ]
+    },
+    {
+      "id": 139,
+      "difficulty": "easy",
+      "strategies": [
+        "naked singles"
+      ],
+      "quotes": [
+        "Forgiveness and Letting Go: FORGIVENESS IS A SIGN OF STRENGTH"
+      ]
+    },
+    {
+      "id": 140,
+      "difficulty": "medium",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "naked pairs",
+        "hidden pairs",
+        "pointing pairs",
+        "naked triples",
+        "hidden triples"
+      ],
+      "quotes": [
+        "Forgiveness and Letting Go: START EACH DAY WITH A CLEAN SLATE"
+      ]
+    },
+    {
+      "id": 141,
+      "difficulty": "hard",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "naked pairs",
+        "hidden pairs",
+        "skyscraper"
+      ],
+      "quotes": [
+        "Clarity and Simplicity in Thought: THINK IN SIMPLE STRAIGHT LINES"
+      ]
+    },
+    {
+      "id": 142,
+      "difficulty": "easy",
+      "strategies": [
+        "naked singles"
+      ],
+      "quotes": [
+        "Clarity and Simplicity in Thought: REMOVE UNNECESSARY THOUGHTS"
+      ]
+    },
+    {
+      "id": 143,
+      "difficulty": "medium",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "naked pairs",
+        "hidden pairs",
+        "pointing pairs",
+        "naked triples",
+        "hidden triples"
+      ],
+      "quotes": [
+        "Clarity and Simplicity in Thought: SPEAK ONLY WHEN NEEDED"
+      ]
+    },
+    {
+      "id": 144,
+      "difficulty": "hard",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "naked pairs",
+        "xy wing"
+      ],
+      "quotes": [
+        "Clarity and Simplicity in Thought: MAKE YOUR WORDS CLEAR AND CLEAN"
+      ]
+    },
+    {
+      "id": 145,
+      "difficulty": "easy",
+      "strategies": [
+        "naked singles"
+      ],
+      "quotes": [
+        "Clarity and Simplicity in Thought: SEE THROUGH COMPLEXITY TO TRUTH"
+      ]
+    },
+    {
+      "id": 146,
+      "difficulty": "medium",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "naked pairs",
+        "hidden pairs",
+        "pointing pairs",
+        "hidden triples"
+      ],
+      "quotes": [
+        "Clarity and Simplicity in Thought: FOCUS ON ONE IDEA AT A TIME"
+      ]
+    },
+    {
+      "id": 147,
+      "difficulty": "hard",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "pointing pairs",
+        "swordfish",
+        "skyscraper",
+        "x wing",
+        "xy wing"
+      ],
+      "quotes": [
+        "Clarity and Simplicity in Thought: SIMPLIFY YOUR PLANS AND INTENTIONS"
+      ]
+    },
+    {
+      "id": 148,
+      "difficulty": "easy",
+      "strategies": [
+        "naked singles"
+      ],
+      "quotes": [
+        "Clarity and Simplicity in Thought: REDUCE TO WHAT IS ESSENTIAL"
+      ]
+    },
+    {
+      "id": 149,
+      "difficulty": "medium",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "naked pairs",
+        "hidden pairs",
+        "pointing pairs",
+        "naked triples",
+        "hidden triples"
+      ],
+      "quotes": [
+        "Clarity and Simplicity in Thought: CLARITY IS BORN OF STILLNESS"
+      ]
+    },
+    {
+      "id": 150,
+      "difficulty": "hard",
+      "strategies": [
+        "hidden singles",
+        "naked singles",
+        "pointing pairs",
+        "skyscraper",
+        "xy wing"
+      ],
+      "quotes": [
+        "Clarity and Simplicity in Thought: LET YOUR MIND BE LIKE CLEAR WATER"
+      ]
+    },
+    {
+      "id": 151,
+      "difficulty": "easy",
+      "strategies": [
+        "naked singles"
+      ],
+      "quotes": [
+        "Time and Rhythm: MOVE WITH NATURAL RHYTHMS"
+      ]
+    },
+    {
+      "id": 152,
+      "difficulty": "medium",
+      "strategies": [
+        "hidden singles",
+        "naked pairs",
+        "pointing pairs",
+        "hidden triples",
+        "naked singles"
+      ],
+      "quotes": [
+        "Time and Rhythm: KNOW THE RIGHT TIME TO ACT"
+      ]
+    },
+    {
+      "id": 153,
+      "difficulty": "hard",
+      "strategies": [
+        "hidden singles",
+        "naked singles",
+        "hidden pairs",
+        "xy wing",
+        "skyscraper"
+      ],
+      "quotes": [
+        "Time and Rhythm: DO NOT RUSH YOUR DESTINY"
+      ]
+    },
+    {
+      "id": 154,
+      "difficulty": "easy",
+      "strategies": [
+        "naked singles"
+      ],
+      "quotes": [
+        "Time and Rhythm: PRACTISE WITH DAILY CONSISTENCY"
+      ]
+    },
+    {
+      "id": 155,
+      "difficulty": "medium",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "naked pairs",
+        "hidden pairs",
+        "pointing pairs",
+        "naked triples",
+        "hidden triples"
+      ],
+      "quotes": [
+        "Time and Rhythm: FIND FLOW IN REPETITION"
+      ]
+    },
+    {
+      "id": 156,
+      "difficulty": "hard",
+      "strategies": [
+        "hidden singles",
+        "naked pairs",
+        "pointing pairs",
+        "xy wing",
+        "skyscraper",
+        "naked singles"
+      ],
+      "quotes": [
+        "Time and Rhythm: RESTORE BALANCE THROUGH ROUTINE"
+      ]
+    },
+    {
+      "id": 157,
+      "difficulty": "easy",
+      "strategies": [
+        "naked singles"
+      ],
+      "quotes": [
+        "Time and Rhythm: ADJUST TO THE PACE OF OTHERS"
+      ]
+    },
+    {
+      "id": 158,
+      "difficulty": "medium",
+      "strategies": [
+        "hidden singles",
+        "naked singles",
+        "naked pairs",
+        "hidden pairs",
+        "pointing pairs",
+        "hidden triples"
+      ],
+      "quotes": [
+        "Time and Rhythm: SYNCHRONISE MIND AND MOVEMENT"
+      ]
+    },
+    {
+      "id": 159,
+      "difficulty": "hard",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "hidden pairs",
+        "x wing",
+        "xy wing",
+        "skyscraper"
+      ],
+      "quotes": [
+        "Time and Rhythm: DO NOT FIGHT THE CLOCK"
+      ]
+    },
+    {
+      "id": 160,
+      "difficulty": "easy",
+      "strategies": [
+        "naked singles"
+      ],
+      "quotes": [
+        "Time and Rhythm: HONOUR TIME AS A TEACHER"
+      ]
+    },
+    {
+      "id": 161,
+      "difficulty": "medium",
+      "strategies": [
+        "hidden singles",
+        "naked singles",
+        "naked pairs",
+        "hidden pairs",
+        "naked triples",
+        "hidden triples",
+        "pointing pairs"
+      ],
+      "quotes": [
+        "Silence and Listening: FIND WISDOM IN SILENCE"
+      ]
+    },
+    {
+      "id": 162,
+      "difficulty": "hard",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "hidden pairs",
+        "naked pairs",
+        "pointing pairs",
+        "naked triples",
+        "skyscraper"
+      ],
+      "quotes": [
+        "Silence and Listening: LISTEN MORE THAN YOU SPEAK"
+      ]
+    },
+    {
+      "id": 163,
+      "difficulty": "easy",
+      "strategies": [
+        "naked singles"
+      ],
+      "quotes": [
+        "Silence and Listening: HEAR WITHOUT NEEDING TO ANSWER"
+      ]
+    },
+    {
+      "id": 164,
+      "difficulty": "medium",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "hidden pairs",
+        "pointing pairs",
+        "hidden triples"
+      ],
+      "quotes": [
+        "Silence and Listening: RESPECT THE PAUSE BETWEEN WORDS"
+      ]
+    },
+    {
+      "id": 165,
+      "difficulty": "hard",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "hidden pairs",
+        "naked pairs",
+        "pointing pairs",
+        "skyscraper"
+      ],
+      "quotes": [
+        "Silence and Listening: GIVE FULL ATTENTION TO OTHERS"
+      ]
+    },
+    {
+      "id": 166,
+      "difficulty": "easy",
+      "strategies": [
+        "naked singles",
+        "hidden singles"
+      ],
+      "quotes": [
+        "Silence and Listening: REFLECT BEFORE YOU REPLY"
+      ]
+    },
+    {
+      "id": 167,
+      "difficulty": "medium",
+      "strategies": [
+        "hidden singles",
+        "naked pairs",
+        "hidden pairs",
+        "pointing pairs",
+        "naked triples",
+        "hidden triples",
+        "naked singles"
+      ],
+      "quotes": [
+        "Silence and Listening: SPEAK ONLY WHAT ADDS VALUE"
+      ]
+    },
+    {
+      "id": 168,
+      "difficulty": "hard",
+      "strategies": [
+        "hidden singles",
+        "naked pairs",
+        "pointing pairs",
+        "skyscraper",
+        "xy wing",
+        "naked singles"
+      ],
+      "quotes": [
+        "Silence and Listening: SILENCE IS STRONGER THAN NOISE"
+      ]
+    },
+    {
+      "id": 169,
+      "difficulty": "easy",
+      "strategies": [
+        "naked singles"
+      ],
+      "quotes": [
+        "Silence and Listening: BE COMFORTABLE IN QUIET SPACES"
+      ]
+    },
+    {
+      "id": 170,
+      "difficulty": "medium",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "pointing pairs"
+      ],
+      "quotes": [
+        "Silence and Listening: LISTEN TO YOUR INNER VOICE"
+      ]
+    },
+    {
+      "id": 171,
+      "difficulty": "hard",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "xy wing",
+        "skyscraper"
+      ],
+      "quotes": [
+        "Order and Cleanliness: KEEP YOUR SPACE TIDY ALWAYS"
+      ]
+    },
+    {
+      "id": 172,
+      "difficulty": "easy",
+      "strategies": [
+        "naked singles"
+      ],
+      "quotes": [
+        "Order and Cleanliness: ORGANISE YOUR TOOLS DAILY"
+      ]
+    },
+    {
+      "id": 173,
+      "difficulty": "medium",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "naked pairs",
+        "hidden pairs",
+        "pointing pairs",
+        "hidden triples"
+      ],
+      "quotes": [
+        "Order and Cleanliness: MAKE TIME FOR CLEANING MINDFULLY"
+      ]
+    },
+    {
+      "id": 174,
+      "difficulty": "hard",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "naked pairs",
+        "pointing pairs",
+        "skyscraper",
+        "xy wing",
+        "swordfish"
+      ],
+      "quotes": [
+        "Order and Cleanliness: RETURN EVERYTHING TO ITS PLACE"
+      ]
+    },
+    {
+      "id": 175,
+      "difficulty": "easy",
+      "strategies": [
+        "naked singles"
+      ],
+      "quotes": [
+        "Order and Cleanliness: REMOVE WHAT YOU DO NOT NEED"
+      ]
+    },
+    {
+      "id": 176,
+      "difficulty": "medium",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "naked pairs",
+        "hidden pairs",
+        "pointing pairs",
+        "hidden triples"
+      ],
+      "quotes": [
+        "Order and Cleanliness: CLEANLINESS REFLECTS SELF-RESPECT"
+      ]
+    },
+    {
+      "id": 177,
+      "difficulty": "hard",
+      "strategies": [
+        "hidden singles",
+        "naked singles",
+        "naked pairs",
+        "hidden pairs",
+        "pointing pairs",
+        "naked triples",
+        "x wing",
+        "xy wing",
+        "skyscraper"
+      ],
+      "quotes": [
+        "Order and Cleanliness: ORDER CREATES INNER PEACE"
+      ]
+    },
+    {
+      "id": 178,
+      "difficulty": "easy",
+      "strategies": [
+        "naked singles"
+      ],
+      "quotes": [
+        "Order and Cleanliness: CULTIVATE SIMPLICITY THROUGH ORDER"
+      ]
+    },
+    {
+      "id": 179,
+      "difficulty": "medium",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "naked pairs",
+        "pointing pairs",
+        "hidden triples"
+      ],
+      "quotes": [
+        "Order and Cleanliness: CARE FOR BELONGINGS WITH PRIDE"
+      ]
+    },
+    {
+      "id": 180,
+      "difficulty": "hard",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "hidden pairs",
+        "xy wing",
+        "skyscraper"
+      ],
+      "quotes": [
+        "Order and Cleanliness: BEGIN AND END EACH DAY CLEAN"
+      ]
+    },
+    {
+      "id": 181,
+      "difficulty": "easy",
+      "strategies": [
+        "naked singles"
+      ],
+      "quotes": [
+        "Trust and Faith: TRUST YOUR INNER COMPASS"
+      ]
+    },
+    {
+      "id": 182,
+      "difficulty": "medium",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "naked pairs",
+        "pointing pairs",
+        "hidden triples"
+      ],
+      "quotes": [
+        "Trust and Faith: HAVE FAITH IN THE UNSEEN"
+      ]
+    },
+    {
+      "id": 183,
+      "difficulty": "hard",
+      "strategies": [
+        "hidden singles",
+        "naked singles",
+        "naked pairs",
+        "pointing pairs",
+        "xy wing",
+        "skyscraper"
+      ],
+      "quotes": [
+        "Trust and Faith: BELIEVE IN OTHERS' GOOD INTENT"
+      ]
+    },
+    {
+      "id": 184,
+      "difficulty": "easy",
+      "strategies": [
+        "naked singles"
+      ],
+      "quotes": [
+        "Trust and Faith: ACT WITH CONFIDENCE NOT DOUBT"
+      ]
+    },
+    {
+      "id": 185,
+      "difficulty": "medium",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "naked pairs",
+        "hidden pairs",
+        "hidden triples"
+      ],
+      "quotes": [
+        "Trust and Faith: RELY ON YOUR TRAINING FULLY"
+      ]
+    },
+    {
+      "id": 186,
+      "difficulty": "hard",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "xy wing",
+        "skyscraper"
+      ],
+      "quotes": [
+        "Trust and Faith: LET GO AND TRUST THE FLOW"
+      ]
+    },
+    {
+      "id": 187,
+      "difficulty": "easy",
+      "strategies": [
+        "naked singles"
+      ],
+      "quotes": [
+        "Trust and Faith: REMAIN CALM IN UNKNOWN TERRITORY"
+      ]
+    },
+    {
+      "id": 188,
+      "difficulty": "medium",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "naked pairs",
+        "pointing pairs",
+        "naked triples",
+        "hidden triples"
+      ],
+      "quotes": [
+        "Trust and Faith: BE STEADY IN BELIEF"
+      ]
+    },
+    {
+      "id": 189,
+      "difficulty": "hard",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "naked pairs",
+        "hidden pairs",
+        "pointing pairs",
+        "xy wing",
+        "skyscraper"
+      ],
+      "quotes": [
+        "Trust and Faith: CULTIVATE TRUST THROUGH ACTION"
+      ]
+    },
+    {
+      "id": 190,
+      "difficulty": "easy",
+      "strategies": [
+        "naked singles"
+      ],
+      "quotes": [
+        "Trust and Faith: FAITH GROWS THROUGH EXPERIENCE"
+      ]
+    },
+    {
+      "id": 191,
+      "difficulty": "medium",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "naked pairs",
+        "hidden pairs",
+        "pointing pairs",
+        "hidden triples"
+      ],
+      "quotes": [
+        "Joy in Effort: ENJOY THE WORK ITSELF"
+      ]
+    },
+    {
+      "id": 192,
+      "difficulty": "hard",
+      "strategies": [
+        "hidden singles",
+        "naked singles",
+        "xy wing",
+        "skyscraper"
+      ],
+      "quotes": [
+        "Joy in Effort: FIND PLEASURE IN SMALL TASKS"
+      ]
+    },
+    {
+      "id": 193,
+      "difficulty": "easy",
+      "strategies": [
+        "naked singles"
+      ],
+      "quotes": [
+        "Joy in Effort: TAKE PRIDE IN DAILY EFFORT"
+      ]
+    },
+    {
+      "id": 194,
+      "difficulty": "medium",
+      "strategies": [
+        "hidden singles",
+        "naked singles",
+        "naked pairs",
+        "hidden pairs",
+        "pointing pairs",
+        "naked triples",
+        "hidden triples"
+      ],
+      "quotes": [
+        "Joy in Effort: SAVOUR THE STRUGGLE FOR GROWTH"
+      ]
+    },
+    {
+      "id": 195,
+      "difficulty": "hard",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "pointing pairs",
+        "naked triples",
+        "skyscraper",
+        "xy wing"
+      ],
+      "quotes": [
+        "Joy in Effort: SMILE THROUGH HARD MOMENTS"
+      ]
+    },
+    {
+      "id": 196,
+      "difficulty": "easy",
+      "strategies": [
+        "naked singles",
+        "hidden singles"
+      ],
+      "quotes": [
+        "Joy in Effort: SEE PROGRESS IN EVERY STEP"
+      ]
+    },
+    {
+      "id": 197,
+      "difficulty": "medium",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "naked pairs",
+        "hidden pairs",
+        "pointing pairs",
+        "hidden triples"
+      ],
+      "quotes": [
+        "Joy in Effort: LOVE THE PROCESS MORE THAN THE PRIZE"
+      ]
+    },
+    {
+      "id": 198,
+      "difficulty": "hard",
+      "strategies": [
+        "hidden singles",
+        "naked singles",
+        "naked pairs",
+        "hidden pairs",
+        "skyscraper",
+        "xy wing"
+      ],
+      "quotes": [
+        "Joy in Effort: MAKE WORK AN EXPRESSION OF SPIRIT"
+      ]
+    },
+    {
+      "id": 199,
+      "difficulty": "easy",
+      "strategies": [
+        "naked singles"
+      ],
+      "quotes": [
+        "Joy in Effort: LET JOY RISE IN MOTION"
+      ]
+    },
+    {
+      "id": 200,
+      "difficulty": "medium",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "naked pairs",
+        "pointing pairs",
+        "naked triples",
+        "hidden triples"
+      ],
+      "quotes": [
+        "Joy in Effort: EFFORT IS A GIFT TO YOURSELF"
+      ]
+    },
+    {
+      "id": 201,
+      "difficulty": "hard",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "hidden pairs",
+        "naked pairs",
+        "pointing pairs",
+        "xy wing",
+        "skyscraper"
+      ],
+      "quotes": [
+        "Balance and Harmony: WALK THE MIDDLE PATH DAILY"
+      ]
+    },
+    {
+      "id": 202,
+      "difficulty": "easy",
+      "strategies": [
+        "naked singles"
+      ],
+      "quotes": [
+        "Balance and Harmony: BALANCE ACTION WITH CONTEMPLATION"
+      ]
+    },
+    {
+      "id": 203,
+      "difficulty": "medium",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "naked pairs",
+        "pointing pairs",
+        "naked triples",
+        "hidden triples"
+      ],
+      "quotes": [
+        "Balance and Harmony: HARMONY BEGINS WITHIN YOURSELF"
+      ]
+    },
+    {
+      "id": 204,
+      "difficulty": "hard",
+      "strategies": [
+        "hidden singles",
+        "naked singles",
+        "pointing pairs",
+        "skyscraper"
+      ],
+      "quotes": [
+        "Balance and Harmony: AVOID EXTREMES IN THOUGHT OR ACT"
+      ]
+    },
+    {
+      "id": 205,
+      "difficulty": "easy",
+      "strategies": [
+        "naked singles"
+      ],
+      "quotes": [
+        "Balance and Harmony: GIVE TIME TO BOTH WORK AND REST"
+      ]
+    },
+    {
+      "id": 206,
+      "difficulty": "medium",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "hidden pairs",
+        "pointing pairs",
+        "naked triples",
+        "hidden triples"
+      ],
+      "quotes": [
+        "Balance and Harmony: RESPECT BOTH OPPOSITES AND UNITY"
+      ]
+    },
+    {
+      "id": 207,
+      "difficulty": "hard",
+      "strategies": [
+        "hidden singles",
+        "naked singles",
+        "naked pairs",
+        "xy wing",
+        "skyscraper"
+      ],
+      "quotes": [
+        "Balance and Harmony: CREATE ORDER FROM SURROUNDING CHAOS"
+      ]
+    },
+    {
+      "id": 208,
+      "difficulty": "easy",
+      "strategies": [
+        "naked singles"
+      ],
+      "quotes": [
+        "Balance and Harmony: BRING PEACE TO EVERY CONVERSATION"
+      ]
+    },
+    {
+      "id": 209,
+      "difficulty": "medium",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "naked pairs",
+        "hidden pairs",
+        "naked triples"
+      ],
+      "quotes": [
+        "Balance and Harmony: ALIGN YOUR VALUES AND CHOICES"
+      ]
+    },
+    {
+      "id": 210,
+      "difficulty": "hard",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "hidden pairs",
+        "pointing pairs",
+        "xy wing",
+        "skyscraper"
+      ],
+      "quotes": [
+        "Balance and Harmony: LET NATURE BE YOUR TEACHER"
+      ]
+    },
+    {
+      "id": 211,
+      "difficulty": "easy",
+      "strategies": [
+        "naked singles"
+      ],
+      "quotes": [
+        "Gratitude and Simplicity: BE THANKFUL WITHOUT EXPECTATION"
+      ]
+    },
+    {
+      "id": 212,
+      "difficulty": "medium",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "naked pairs",
+        "hidden pairs",
+        "naked triples",
+        "hidden triples"
+      ],
+      "quotes": [
+        "Gratitude and Simplicity: VALUE SMALL ACTS AND MOMENTS"
+      ]
+    },
+    {
+      "id": 213,
+      "difficulty": "hard",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "hidden pairs",
+        "x wing",
+        "skyscraper"
+      ],
+      "quotes": [
+        "Gratitude and Simplicity: SIMPLICITY IS THE TRUE LUXURY"
+      ]
+    },
+    {
+      "id": 214,
+      "difficulty": "easy",
+      "strategies": [
+        "naked singles"
+      ],
+      "quotes": [
+        "Gratitude and Simplicity: DO NOT DESIRE BEYOND YOUR NEEDS"
+      ]
+    },
+    {
+      "id": 215,
+      "difficulty": "medium",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "naked pairs",
+        "naked triples",
+        "hidden triples"
+      ],
+      "quotes": [
+        "Gratitude and Simplicity: GIVE FREELY WITHOUT COUNTING COST"
+      ]
+    },
+    {
+      "id": 216,
+      "difficulty": "hard",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "naked pairs",
+        "hidden pairs",
+        "pointing pairs",
+        "x wing",
+        "swordfish",
+        "xy wing",
+        "skyscraper"
+      ],
+      "quotes": [
+        "Gratitude and Simplicity: ENJOY LIFE WITHOUT OWNING IT"
+      ]
+    },
+    {
+      "id": 217,
+      "difficulty": "easy",
+      "strategies": [
+        "naked singles"
+      ],
+      "quotes": [
+        "Gratitude and Simplicity: GRATITUDE STRENGTHENS THE SPIRIT"
+      ]
+    },
+    {
+      "id": 218,
+      "difficulty": "medium",
+      "strategies": [
+        "hidden singles",
+        "pointing pairs",
+        "naked singles"
+      ],
+      "quotes": [
+        "Gratitude and Simplicity: LIVE LIGHTLY AND TRAVEL FAR"
+      ]
+    },
+    {
+      "id": 219,
+      "difficulty": "hard",
+      "strategies": [
+        "hidden singles",
+        "naked singles",
+        "pointing pairs",
+        "skyscraper",
+        "naked pairs",
+        "swordfish",
+        "xy wing"
+      ],
+      "quotes": [
+        "Gratitude and Simplicity: SPEAK KIND WORDS DAILY"
+      ]
+    },
+    {
+      "id": 220,
+      "difficulty": "easy",
+      "strategies": [
+        "naked singles",
+        "hidden singles"
+      ],
+      "quotes": [
+        "Gratitude and Simplicity: APPRECIATE THE PRESENT FULLY"
+      ]
+    },
+    {
+      "id": 221,
+      "difficulty": "medium",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "naked pairs",
+        "hidden pairs",
+        "pointing pairs",
+        "naked triples",
+        "hidden triples"
+      ],
+      "quotes": [
+        "Kindness and Compassion: ACT WITH KINDNESS IN ALL THINGS"
+      ]
+    },
+    {
+      "id": 222,
+      "difficulty": "hard",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "x wing",
+        "xy wing",
+        "skyscraper",
+        "naked pairs",
+        "pointing pairs"
+      ],
+      "quotes": [
+        "Kindness and Compassion: SEE OTHERS WITH COMPASSIONATE EYES"
+      ]
+    },
+    {
+      "id": 223,
+      "difficulty": "easy",
+      "strategies": [
+        "naked singles"
+      ],
+      "quotes": [
+        "Kindness and Compassion: OFFER HELP WITHOUT SEEKING PRAISE"
+      ]
+    },
+    {
+      "id": 224,
+      "difficulty": "medium",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "naked pairs",
+        "hidden pairs",
+        "pointing pairs",
+        "naked triples",
+        "hidden triples"
+      ],
+      "quotes": [
+        "Kindness and Compassion: LISTEN WITH THE INTENT TO UNDERSTAND"
+      ]
+    },
+    {
+      "id": 225,
+      "difficulty": "hard",
+      "strategies": [
+        "hidden singles",
+        "naked singles",
+        "pointing pairs",
+        "xy wing",
+        "skyscraper"
+      ],
+      "quotes": [
+        "Kindness and Compassion: LIFT OTHERS WITHOUT EXPECTING RETURN"
+      ]
+    },
+    {
+      "id": 226,
+      "difficulty": "easy",
+      "strategies": [
+        "naked singles"
+      ],
+      "quotes": [
+        "Kindness and Compassion: GIVE MERCY WHERE YOU HOLD POWER"
+      ]
+    },
+    {
+      "id": 227,
+      "difficulty": "medium",
+      "strategies": [
+        "hidden singles",
+        "naked singles",
+        "naked pairs",
+        "hidden pairs",
+        "pointing pairs",
+        "naked triples",
+        "hidden triples"
+      ],
+      "quotes": [
+        "Kindness and Compassion: CHOOSE UNDERSTANDING OVER JUDGEMENT"
+      ]
+    },
+    {
+      "id": 228,
+      "difficulty": "hard",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "naked pairs",
+        "skyscraper",
+        "xy wing"
+      ],
+      "quotes": [
+        "Kindness and Compassion: BE A SOURCE OF WARMTH DAILY"
+      ]
+    },
+    {
+      "id": 229,
+      "difficulty": "easy",
+      "strategies": [
+        "naked singles",
+        "hidden singles"
+      ],
+      "quotes": [
+        "Kindness and Compassion: HEAL RIFTS THROUGH PATIENCE"
+      ]
+    },
+    {
+      "id": 230,
+      "difficulty": "medium",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "hidden pairs",
+        "pointing pairs",
+        "hidden triples"
+      ],
+      "quotes": [
+        "Kindness and Compassion: CARRY A GENTLE SPIRIT INSIDE"
+      ]
+    },
+    {
+      "id": 231,
+      "difficulty": "hard",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "pointing pairs",
+        "swordfish",
+        "xy wing",
+        "skyscraper"
+      ],
+      "quotes": [
+        "Community and Service: SERVE YOUR COMMUNITY WITH PRIDE"
+      ]
+    },
+    {
+      "id": 232,
+      "difficulty": "easy",
+      "strategies": [
+        "naked singles",
+        "hidden singles"
+      ],
+      "quotes": [
+        "Community and Service: PUT OTHERS AHEAD OF YOURSELF"
+      ]
+    },
+    {
+      "id": 233,
+      "difficulty": "medium",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "naked pairs",
+        "pointing pairs"
+      ],
+      "quotes": [
+        "Community and Service: ACT FOR THE GOOD OF MANY"
+      ]
+    },
+    {
+      "id": 234,
+      "difficulty": "hard",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "naked pairs",
+        "pointing pairs",
+        "x wing",
+        "skyscraper"
+      ],
+      "quotes": [
+        "Community and Service: OFFER YOUR STRENGTH TO THE WEAK"
+      ]
+    },
+    {
+      "id": 235,
+      "difficulty": "easy",
+      "strategies": [
+        "naked singles"
+      ],
+      "quotes": [
+        "Community and Service: STAND TOGETHER IN UNITY"
+      ]
+    },
+    {
+      "id": 236,
+      "difficulty": "medium",
+      "strategies": [
+        "hidden singles",
+        "naked pairs",
+        "hidden pairs",
+        "pointing pairs",
+        "naked triples",
+        "hidden triples",
+        "naked singles"
+      ],
+      "quotes": [
+        "Community and Service: SUPPORT THOSE WHO STRUGGLE"
+      ]
+    },
+    {
+      "id": 237,
+      "difficulty": "hard",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "xy wing",
+        "skyscraper"
+      ],
+      "quotes": [
+        "Community and Service: GROW THROUGH SHARED PURPOSE"
+      ]
+    },
+    {
+      "id": 238,
+      "difficulty": "easy",
+      "strategies": [
+        "naked singles"
+      ],
+      "quotes": [
+        "Community and Service: CONTRIBUTE MORE THAN YOU TAKE"
+      ]
+    },
+    {
+      "id": 239,
+      "difficulty": "medium",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "naked pairs",
+        "hidden pairs",
+        "pointing pairs",
+        "hidden triples"
+      ],
+      "quotes": [
+        "Community and Service: TAKE CARE OF YOUR NEIGHBOURS"
+      ]
+    },
+    {
+      "id": 240,
+      "difficulty": "hard",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "naked pairs",
+        "skyscraper",
+        "hidden pairs"
+      ],
+      "quotes": [
+        "Community and Service: SEE HUMANITY AS ONE FAMILY"
+      ]
+    },
+    {
+      "id": 241,
+      "difficulty": "easy",
+      "strategies": [
+        "naked singles"
+      ],
+      "quotes": [
+        "Integrity and Truth: NEVER HIDE FROM THE TRUTH"
+      ]
+    },
+    {
+      "id": 242,
+      "difficulty": "medium",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "naked pairs",
+        "hidden pairs",
+        "pointing pairs",
+        "hidden triples"
+      ],
+      "quotes": [
+        "Integrity and Truth: BE WHO YOU CLAIM TO BE"
+      ]
+    },
+    {
+      "id": 243,
+      "difficulty": "hard",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "naked pairs",
+        "hidden pairs",
+        "pointing pairs",
+        "swordfish",
+        "xy wing",
+        "skyscraper"
+      ],
+      "quotes": [
+        "Integrity and Truth: LET YOUR WORD MATCH YOUR ACTION"
+      ]
+    },
+    {
+      "id": 244,
+      "difficulty": "easy",
+      "strategies": [
+        "naked singles"
+      ],
+      "quotes": [
+        "Integrity and Truth: STAY TRUE EVEN IN DIFFICULTY"
+      ]
+    },
+    {
+      "id": 245,
+      "difficulty": "medium",
+      "strategies": [
+        "hidden singles",
+        "naked pairs",
+        "hidden pairs",
+        "pointing pairs",
+        "hidden triples",
+        "naked singles"
+      ],
+      "quotes": [
+        "Integrity and Truth: DO NOT TWIST WORDS FOR GAIN"
+      ]
+    },
+    {
+      "id": 246,
+      "difficulty": "hard",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "pointing pairs",
+        "xy wing",
+        "skyscraper"
+      ],
+      "quotes": [
+        "Integrity and Truth: ACT THE SAME IN LIGHT AND DARK"
+      ]
+    },
+    {
+      "id": 247,
+      "difficulty": "easy",
+      "strategies": [
+        "naked singles",
+        "hidden singles"
+      ],
+      "quotes": [
+        "Integrity and Truth: CORRECT YOURSELF QUICKLY"
+      ]
+    },
+    {
+      "id": 248,
+      "difficulty": "medium",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "naked pairs",
+        "hidden pairs",
+        "pointing pairs",
+        "naked triples",
+        "hidden triples"
+      ],
+      "quotes": [
+        "Integrity and Truth: LIVE AS IF THE WORLD IS WATCHING"
+      ]
+    },
+    {
+      "id": 249,
+      "difficulty": "hard",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "pointing pairs",
+        "skyscraper"
+      ],
+      "quotes": [
+        "Integrity and Truth: TRUST BUILDS THROUGH HONESTY"
+      ]
+    },
+    {
+      "id": 250,
+      "difficulty": "easy",
+      "strategies": [
+        "naked singles"
+      ],
+      "quotes": [
+        "Integrity and Truth: UPHOLD WHAT IS RIGHT NOT EASY"
+      ]
+    },
+    {
+      "id": 251,
+      "difficulty": "medium",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "naked pairs",
+        "hidden pairs",
+        "pointing pairs",
+        "naked triples",
+        "hidden triples"
+      ],
+      "quotes": [
+        "Growth and Curiosity: ASK QUESTIONS WITHOUT PRIDE"
+      ]
+    },
+    {
+      "id": 252,
+      "difficulty": "hard",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "pointing pairs",
+        "skyscraper",
+        "naked triples",
+        "hidden pairs",
+        "xy wing"
+      ],
+      "quotes": [
+        "Growth and Curiosity: STAY CURIOUS THROUGH ALL AGES"
+      ]
+    },
+    {
+      "id": 253,
+      "difficulty": "easy",
+      "strategies": [
+        "naked singles"
+      ],
+      "quotes": [
+        "Growth and Curiosity: EXPLORE IDEAS OUTSIDE YOUR FIELD"
+      ]
+    },
+    {
+      "id": 254,
+      "difficulty": "medium",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "naked pairs",
+        "pointing pairs",
+        "naked triples",
+        "hidden triples"
+      ],
+      "quotes": [
+        "Growth and Curiosity: LEARN FROM FAILURE WITHOUT SHAME"
+      ]
+    },
+    {
+      "id": 255,
+      "difficulty": "hard",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "naked pairs",
+        "pointing pairs",
+        "skyscraper",
+        "swordfish",
+        "xy wing"
+      ],
+      "quotes": [
+        "Growth and Curiosity: CELEBRATE OTHERS’ WISDOM OPENLY"
+      ]
+    },
+    {
+      "id": 256,
+      "difficulty": "easy",
+      "strategies": [
+        "naked singles"
+      ],
+      "quotes": [
+        "Growth and Curiosity: BE WILLING TO UNLEARN TOO"
+      ]
+    },
+    {
+      "id": 257,
+      "difficulty": "medium",
+      "strategies": [
+        "hidden singles",
+        "naked singles",
+        "naked pairs",
+        "hidden pairs",
+        "pointing pairs",
+        "hidden triples"
+      ],
+      "quotes": [
+        "Growth and Curiosity: GROW THROUGH CHALLENGES NOT COMFORT"
+      ]
+    },
+    {
+      "id": 258,
+      "difficulty": "hard",
+      "strategies": [
+        "hidden singles",
+        "naked singles",
+        "naked pairs",
+        "xy wing",
+        "skyscraper"
+      ],
+      "quotes": [
+        "Growth and Curiosity: READ DAILY FOR INSIGHT"
+      ]
+    },
+    {
+      "id": 259,
+      "difficulty": "easy",
+      "strategies": [
+        "naked singles"
+      ],
+      "quotes": [
+        "Growth and Curiosity: LEARN IN SILENCE AND SPEECH"
+      ]
+    },
+    {
+      "id": 260,
+      "difficulty": "medium",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "hidden pairs",
+        "pointing pairs",
+        "naked triples",
+        "hidden triples"
+      ],
+      "quotes": [
+        "Growth and Curiosity: LET HUMILITY DRIVE YOUR GROWTH"
+      ]
+    },
+    {
+      "id": 261,
+      "difficulty": "hard",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "naked pairs",
+        "hidden pairs",
+        "xy wing",
+        "skyscraper"
+      ],
+      "quotes": [
+        "Patience and Timing: WAIT FOR THE RIGHT MOMENT"
+      ]
+    },
+    {
+      "id": 262,
+      "difficulty": "easy",
+      "strategies": [
+        "naked singles"
+      ],
+      "quotes": [
+        "Patience and Timing: DO NOT RUSH WHAT NEEDS TIME"
+      ]
+    },
+    {
+      "id": 263,
+      "difficulty": "medium",
+      "strategies": [
+        "hidden singles",
+        "hidden pairs",
+        "pointing pairs",
+        "naked triples",
+        "hidden triples",
+        "naked singles",
+        "naked pairs"
+      ],
+      "quotes": [
+        "Patience and Timing: OBSERVE BEFORE YOU ACT"
+      ]
+    },
+    {
+      "id": 264,
+      "difficulty": "hard",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "naked pairs",
+        "pointing pairs",
+        "skyscraper",
+        "xy wing"
+      ],
+      "quotes": [
+        "Patience and Timing: LET IMPULSE PASS LIKE WIND"
+      ]
+    },
+    {
+      "id": 265,
+      "difficulty": "easy",
+      "strategies": [
+        "naked singles"
+      ],
+      "quotes": [
+        "Patience and Timing: RECOGNISE WHEN TO STEP BACK"
+      ]
+    },
+    {
+      "id": 266,
+      "difficulty": "medium",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "naked pairs",
+        "hidden pairs",
+        "pointing pairs",
+        "naked triples",
+        "hidden triples"
+      ],
+      "quotes": [
+        "Patience and Timing: STAY GROUNDED IN DELAY"
+      ]
+    },
+    {
+      "id": 267,
+      "difficulty": "hard",
+      "strategies": [
+        "hidden singles",
+        "naked singles",
+        "pointing pairs",
+        "xy wing",
+        "skyscraper"
+      ],
+      "quotes": [
+        "Patience and Timing: TIME REVEALS TRUE INTENTIONS"
+      ]
+    },
+    {
+      "id": 268,
+      "difficulty": "easy",
+      "strategies": [
+        "naked singles"
+      ],
+      "quotes": [
+        "Patience and Timing: BE PATIENT WITH OTHERS’ PACE"
+      ]
+    },
+    {
+      "id": 269,
+      "difficulty": "medium",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "naked pairs",
+        "hidden pairs",
+        "pointing pairs",
+        "hidden triples",
+        "naked triples"
+      ],
+      "quotes": [
+        "Patience and Timing: EVERY SEASON HAS ITS PURPOSE"
+      ]
+    },
+    {
+      "id": 270,
+      "difficulty": "hard",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "pointing pairs",
+        "naked pairs",
+        "skyscraper",
+        "hidden pairs",
+        "swordfish",
+        "xy wing"
+      ],
+      "quotes": [
+        "Patience and Timing: WISDOM WAITS WITHOUT ANGER"
+      ]
+    },
+    {
+      "id": 271,
+      "difficulty": "easy",
+      "strategies": [
+        "naked singles",
+        "hidden singles"
+      ],
+      "quotes": [
+        "Creativity and Expression: CREATE SOMETHING WITH YOUR HANDS"
+      ]
+    },
+    {
+      "id": 272,
+      "difficulty": "medium",
+      "strategies": [
+        "hidden singles",
+        "naked singles",
+        "naked pairs",
+        "hidden pairs",
+        "naked triples"
+      ],
+      "quotes": [
+        "Creativity and Expression: EXPRESS YOUR TRUTH THROUGH ART"
+      ]
+    },
+    {
+      "id": 273,
+      "difficulty": "hard",
+      "strategies": [
+        "hidden singles",
+        "naked singles",
+        "hidden pairs",
+        "pointing pairs",
+        "x wing",
+        "swordfish",
+        "skyscraper"
+      ],
+      "quotes": [
+        "Creativity and Expression: SEE LIFE AS A WORK OF BEAUTY"
+      ]
+    },
+    {
+      "id": 274,
+      "difficulty": "easy",
+      "strategies": [
+        "naked singles"
+      ],
+      "quotes": [
+        "Creativity and Expression: SHARE IDEAS BOLDLY AND KINDLY"
+      ]
+    },
+    {
+      "id": 275,
+      "difficulty": "medium",
+      "strategies": [
+        "hidden singles",
+        "naked pairs",
+        "hidden pairs",
+        "pointing pairs",
+        "naked triples",
+        "hidden triples",
+        "naked singles"
+      ],
+      "quotes": [
+        "Creativity and Expression: FIND INSPIRATION IN SMALL PLACES"
+      ]
+    },
+    {
+      "id": 276,
+      "difficulty": "hard",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "naked pairs",
+        "hidden pairs",
+        "pointing pairs",
+        "x wing",
+        "skyscraper",
+        "xy wing"
+      ],
+      "quotes": [
+        "Creativity and Expression: MAKE TIME FOR CREATIVE JOY"
+      ]
+    },
+    {
+      "id": 277,
+      "difficulty": "easy",
+      "strategies": [
+        "naked singles"
+      ],
+      "quotes": [
+        "Creativity and Expression: USE IMAGINATION AS A TOOL"
+      ]
+    },
+    {
+      "id": 278,
+      "difficulty": "medium",
+      "strategies": [
+        "hidden singles",
+        "naked singles",
+        "naked pairs",
+        "hidden pairs",
+        "pointing pairs",
+        "hidden triples"
+      ],
+      "quotes": [
+        "Creativity and Expression: REFLECT YOUR SOUL IN YOUR CRAFT"
+      ]
+    },
+    {
+      "id": 279,
+      "difficulty": "hard",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "naked pairs",
+        "hidden pairs",
+        "skyscraper",
+        "xy wing"
+      ],
+      "quotes": [
+        "Creativity and Expression: CELEBRATE OTHERS' CREATIONS"
+      ]
+    },
+    {
+      "id": 280,
+      "difficulty": "easy",
+      "strategies": [
+        "naked singles"
+      ],
+      "quotes": [
+        "Creativity and Expression: MAKE LIFE AN ARTISTIC PRACTICE"
+      ]
+    },
+    {
+      "id": 281,
+      "difficulty": "medium",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "naked pairs",
+        "pointing pairs",
+        "naked triples",
+        "hidden triples",
+        "hidden pairs"
+      ],
+      "quotes": [
+        "Joy and Lightness: SMILE FREELY WITHOUT REASON"
+      ]
+    },
+    {
+      "id": 282,
+      "difficulty": "hard",
+      "strategies": [
+        "hidden singles",
+        "naked singles",
+        "naked pairs",
+        "hidden pairs",
+        "pointing pairs",
+        "xy wing",
+        "skyscraper"
+      ],
+      "quotes": [
+        "Joy and Lightness: LAUGH OFTEN WITH OPEN HEART"
+      ]
+    },
+    {
+      "id": 283,
+      "difficulty": "easy",
+      "strategies": [
+        "naked singles"
+      ],
+      "quotes": [
+        "Joy and Lightness: BRING JOY WHEREVER YOU GO"
+      ]
+    },
+    {
+      "id": 284,
+      "difficulty": "medium",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "naked pairs",
+        "hidden pairs",
+        "pointing pairs",
+        "naked triples",
+        "hidden triples"
+      ],
+      "quotes": [
+        "Joy and Lightness: DANCE EVEN WITHOUT MUSIC"
+      ]
+    },
+    {
+      "id": 285,
+      "difficulty": "hard",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "pointing pairs",
+        "xy wing",
+        "skyscraper",
+        "naked pairs"
+      ],
+      "quotes": [
+        "Joy and Lightness: LET LIGHTNESS LIFT YOUR SPIRIT"
+      ]
+    },
+    {
+      "id": 286,
+      "difficulty": "easy",
+      "strategies": [
+        "naked singles"
+      ],
+      "quotes": [
+        "Joy and Lightness: CELEBRATE SMALL VICTORIES DAILY"
+      ]
+    },
+    {
+      "id": 287,
+      "difficulty": "medium",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "pointing pairs",
+        "naked triples",
+        "hidden triples"
+      ],
+      "quotes": [
+        "Joy and Lightness: SHARE HAPPINESS WITHOUT LIMIT"
+      ]
+    },
+    {
+      "id": 288,
+      "difficulty": "hard",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "naked pairs",
+        "swordfish",
+        "skyscraper",
+        "hidden pairs",
+        "xy wing",
+        "x wing"
+      ],
+      "quotes": [
+        "Joy and Lightness: CARRY HUMOUR AS A COMPASS"
+      ]
+    },
+    {
+      "id": 289,
+      "difficulty": "easy",
+      "strategies": [
+        "naked singles"
+      ],
+      "quotes": [
+        "Joy and Lightness: FIND PLAY IN ORDINARY MOMENTS"
+      ]
+    },
+    {
+      "id": 290,
+      "difficulty": "medium",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "naked triples",
+        "hidden triples"
+      ],
+      "quotes": [
+        "Joy and Lightness: BRIGHTEN THE ROOM WITH PRESENCE"
+      ]
+    },
+    {
+      "id": 291,
+      "difficulty": "hard",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "skyscraper",
+        "xy wing"
+      ],
+      "quotes": [
+        "Environment and Nature: WALK AMONG TREES REGULARLY"
+      ]
+    },
+    {
+      "id": 292,
+      "difficulty": "easy",
+      "strategies": [
+        "naked singles"
+      ],
+      "quotes": [
+        "Environment and Nature: RESPECT THE EARTH AS SACRED"
+      ]
+    },
+    {
+      "id": 293,
+      "difficulty": "medium",
+      "strategies": [
+        "hidden singles",
+        "naked singles",
+        "naked pairs",
+        "hidden pairs",
+        "pointing pairs",
+        "naked triples",
+        "hidden triples"
+      ],
+      "quotes": [
+        "Environment and Nature: LEAVE NO TRACE BEHIND"
+      ]
+    },
+    {
+      "id": 294,
+      "difficulty": "hard",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "naked pairs",
+        "xy wing",
+        "skyscraper"
+      ],
+      "quotes": [
+        "Environment and Nature: LISTEN TO THE WIND FOR WISDOM"
+      ]
+    },
+    {
+      "id": 295,
+      "difficulty": "easy",
+      "strategies": [
+        "naked singles"
+      ],
+      "quotes": [
+        "Environment and Nature: CARE FOR ANIMALS WITHOUT NEED"
+      ]
+    },
+    {
+      "id": 296,
+      "difficulty": "medium",
+      "strategies": [
+        "hidden singles",
+        "naked singles",
+        "naked pairs",
+        "hidden pairs",
+        "pointing pairs",
+        "naked triples",
+        "hidden triples"
+      ],
+      "quotes": [
+        "Environment and Nature: DO NOT WASTE WATER OR FIRE"
+      ]
+    },
+    {
+      "id": 297,
+      "difficulty": "hard",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "naked pairs",
+        "xy wing",
+        "skyscraper"
+      ],
+      "quotes": [
+        "Environment and Nature: HONOUR CYCLES OF THE MOON"
+      ]
+    },
+    {
+      "id": 298,
+      "difficulty": "easy",
+      "strategies": [
+        "naked singles"
+      ],
+      "quotes": [
+        "Environment and Nature: PLANT WHEREVER YOU HAVE SPACE"
+      ]
+    },
+    {
+      "id": 299,
+      "difficulty": "medium",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "naked pairs",
+        "hidden pairs",
+        "pointing pairs",
+        "hidden triples"
+      ],
+      "quotes": [
+        "Environment and Nature: FEEL THE SEASONS IN YOUR BONES"
+      ]
+    },
+    {
+      "id": 300,
+      "difficulty": "hard",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "hidden pairs",
+        "pointing pairs",
+        "xy wing",
+        "skyscraper"
+      ],
+      "quotes": [
+        "Environment and Nature: LEARN FROM NATURE’S BALANCE"
+      ]
+    },
+    {
+      "id": 301,
+      "difficulty": "easy",
+      "strategies": [
+        "naked singles"
+      ],
+      "quotes": [
+        "Resilience and Endurance: STAND FIRM IN DIFFICULT TIMES"
+      ]
+    },
+    {
+      "id": 302,
+      "difficulty": "medium",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "naked pairs",
+        "hidden pairs",
+        "pointing pairs",
+        "naked triples",
+        "hidden triples"
+      ],
+      "quotes": [
+        "Resilience and Endurance: DO NOT YIELD TO DISCOURAGEMENT"
+      ]
+    },
+    {
+      "id": 303,
+      "difficulty": "hard",
+      "strategies": [
+        "hidden singles",
+        "naked singles",
+        "naked pairs",
+        "pointing pairs",
+        "skyscraper"
+      ],
+      "quotes": [
+        "Resilience and Endurance: ENDURE WITHOUT COMPLAINT OR PRIDE"
+      ]
+    },
+    {
+      "id": 304,
+      "difficulty": "easy",
+      "strategies": [
+        "naked singles"
+      ],
+      "quotes": [
+        "Resilience and Endurance: RISING AGAIN IS TRUE STRENGTH"
+      ]
+    },
+    {
+      "id": 305,
+      "difficulty": "medium",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "naked pairs",
+        "hidden pairs",
+        "pointing pairs",
+        "naked triples",
+        "hidden triples"
+      ],
+      "quotes": [
+        "Resilience and Endurance: SEE CHALLENGES AS STEPPING STONES"
+      ]
+    },
+    {
+      "id": 306,
+      "difficulty": "hard",
+      "strategies": [
+        "hidden singles",
+        "naked pairs",
+        "naked singles",
+        "hidden pairs",
+        "pointing pairs",
+        "skyscraper",
+        "naked triples"
+      ],
+      "quotes": [
+        "Resilience and Endurance: LET YOUR RESOLVE BE UNBREAKABLE"
+      ]
+    },
+    {
+      "id": 307,
+      "difficulty": "easy",
+      "strategies": [
+        "naked singles"
+      ],
+      "quotes": [
+        "Resilience and Endurance: KEEP GOING EVEN WHEN SMALL"
+      ]
+    },
+    {
+      "id": 308,
+      "difficulty": "medium",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "naked pairs",
+        "hidden pairs",
+        "pointing pairs",
+        "naked triples",
+        "hidden triples"
+      ],
+      "quotes": [
+        "Resilience and Endurance: STRENGTH GROWS THROUGH STRUGGLE"
+      ]
+    },
+    {
+      "id": 309,
+      "difficulty": "hard",
+      "strategies": [
+        "hidden singles",
+        "naked singles",
+        "naked pairs",
+        "pointing pairs",
+        "skyscraper",
+        "xy wing"
+      ],
+      "quotes": [
+        "Resilience and Endurance: FIND POWER IN CONSISTENCY"
+      ]
+    },
+    {
+      "id": 310,
+      "difficulty": "easy",
+      "strategies": [
+        "naked singles"
+      ],
+      "quotes": [
+        "Resilience and Endurance: MOVE FORWARD ONE STEP AT A TIME"
+      ]
+    },
+    {
+      "id": 311,
+      "difficulty": "medium",
+      "strategies": [
+        "hidden singles",
+        "hidden pairs",
+        "pointing pairs",
+        "naked triples",
+        "hidden triples",
+        "naked singles"
+      ],
+      "quotes": [
+        "Leadership and Influence: LEAD THROUGH YOUR ACTIONS"
+      ]
+    },
+    {
+      "id": 312,
+      "difficulty": "hard",
+      "strategies": [
+        "hidden singles",
+        "pointing pairs",
+        "naked singles",
+        "naked pairs",
+        "hidden pairs",
+        "xy wing",
+        "skyscraper"
+      ],
+      "quotes": [
+        "Leadership and Influence: SERVE THOSE YOU WISH TO GUIDE"
+      ]
+    },
+    {
+      "id": 313,
+      "difficulty": "easy",
+      "strategies": [
+        "naked singles"
+      ],
+      "quotes": [
+        "Leadership and Influence: INSPIRE NOT THROUGH WORDS ALONE"
+      ]
+    },
+    {
+      "id": 314,
+      "difficulty": "medium",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "naked pairs",
+        "hidden pairs",
+        "pointing pairs",
+        "naked triples",
+        "hidden triples"
+      ],
+      "quotes": [
+        "Leadership and Influence: LISTEN TO YOUR FOLLOWERS' VOICES"
+      ]
+    },
+    {
+      "id": 315,
+      "difficulty": "hard",
+      "strategies": [
+        "hidden singles",
+        "naked pairs",
+        "hidden pairs",
+        "pointing pairs",
+        "skyscraper",
+        "xy wing",
+        "naked singles"
+      ],
+      "quotes": [
+        "Leadership and Influence: BE HUMBLE IN POSITION OF POWER"
+      ]
+    },
+    {
+      "id": 316,
+      "difficulty": "easy",
+      "strategies": [
+        "naked singles",
+        "hidden singles"
+      ],
+      "quotes": [
+        "Leadership and Influence: MODEL THE BEHAVIOUR YOU EXPECT"
+      ]
+    },
+    {
+      "id": 317,
+      "difficulty": "medium",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "naked pairs",
+        "hidden pairs",
+        "pointing pairs",
+        "naked triples",
+        "hidden triples"
+      ],
+      "quotes": [
+        "Leadership and Influence: STRENGTHEN OTHERS TO STAND STRONG"
+      ]
+    },
+    {
+      "id": 318,
+      "difficulty": "hard",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "pointing pairs",
+        "x wing",
+        "xy wing",
+        "skyscraper"
+      ],
+      "quotes": [
+        "Leadership and Influence: EARN TRUST THROUGH CONSISTENCY"
+      ]
+    },
+    {
+      "id": 319,
+      "difficulty": "easy",
+      "strategies": [
+        "naked singles"
+      ],
+      "quotes": [
+        "Leadership and Influence: MAKE DECISIONS WITH WISDOM"
+      ]
+    },
+    {
+      "id": 320,
+      "difficulty": "medium",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "naked pairs",
+        "hidden pairs",
+        "pointing pairs",
+        "naked triples"
+      ],
+      "quotes": [
+        "Leadership and Influence: SHARE SUCCESS WITH YOUR TEAM"
+      ]
+    },
+    {
+      "id": 321,
+      "difficulty": "hard",
+      "strategies": [
+        "hidden singles",
+        "naked singles",
+        "naked pairs",
+        "pointing pairs",
+        "skyscraper",
+        "xy wing"
+      ],
+      "quotes": [
+        "Mindfulness and Awareness: BE AWARE OF YOUR BREATH ALWAYS"
+      ]
+    },
+    {
+      "id": 322,
+      "difficulty": "easy",
+      "strategies": [
+        "naked singles"
+      ],
+      "quotes": [
+        "Mindfulness and Awareness: NOTICE SMALL CHANGES IN RHYTHM"
+      ]
+    },
+    {
+      "id": 323,
+      "difficulty": "medium",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "naked pairs",
+        "hidden pairs",
+        "pointing pairs",
+        "naked triples",
+        "hidden triples"
+      ],
+      "quotes": [
+        "Mindfulness and Awareness: PAUSE BEFORE EVERY DECISION"
+      ]
+    },
+    {
+      "id": 324,
+      "difficulty": "hard",
+      "strategies": [
+        "hidden singles",
+        "naked singles",
+        "naked pairs",
+        "pointing pairs",
+        "swordfish",
+        "skyscraper",
+        "xy wing"
+      ],
+      "quotes": [
+        "Mindfulness and Awareness: FEEL THE GROUND BENEATH YOUR FEET"
+      ]
+    },
+    {
+      "id": 325,
+      "difficulty": "easy",
+      "strategies": [
+        "naked singles"
+      ],
+      "quotes": [
+        "Mindfulness and Awareness: WATCH WITHOUT NEEDING TO JUDGE"
+      ]
+    },
+    {
+      "id": 326,
+      "difficulty": "medium",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "naked pairs",
+        "pointing pairs"
+      ],
+      "quotes": [
+        "Mindfulness and Awareness: HEAR THE UNSAID IN CONVERSATION"
+      ]
+    },
+    {
+      "id": 327,
+      "difficulty": "hard",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "x wing",
+        "skyscraper",
+        "naked pairs"
+      ],
+      "quotes": [
+        "Mindfulness and Awareness: SEE WHAT IS HIDDEN IN PLAIN VIEW"
+      ]
+    },
+    {
+      "id": 328,
+      "difficulty": "easy",
+      "strategies": [
+        "naked singles"
+      ],
+      "quotes": [
+        "Mindfulness and Awareness: KNOW YOUR EMOTIONS WITHOUT HIDING"
+      ]
+    },
+    {
+      "id": 329,
+      "difficulty": "medium",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "naked pairs",
+        "hidden pairs",
+        "pointing pairs",
+        "naked triples",
+        "hidden triples"
+      ],
+      "quotes": [
+        "Mindfulness and Awareness: RETURN TO THE PRESENT WHEN LOST"
+      ]
+    },
+    {
+      "id": 330,
+      "difficulty": "hard",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "pointing pairs",
+        "x wing",
+        "xy wing",
+        "skyscraper",
+        "naked pairs",
+        "hidden pairs"
+      ],
+      "quotes": [
+        "Mindfulness and Awareness: ATTENTION IS THE ROOT OF WISDOM"
+      ]
+    },
+    {
+      "id": 331,
+      "difficulty": "easy",
+      "strategies": [
+        "naked singles",
+        "hidden singles"
+      ],
+      "quotes": [
+        "Forgiveness and Letting Go: FORGIVE EVEN WHEN NOT ASKED"
+      ]
+    },
+    {
+      "id": 332,
+      "difficulty": "medium",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "naked pairs",
+        "hidden pairs",
+        "pointing pairs",
+        "naked triples",
+        "hidden triples"
+      ],
+      "quotes": [
+        "Forgiveness and Letting Go: DO NOT CARRY OLD GRUDGES"
+      ]
+    },
+    {
+      "id": 333,
+      "difficulty": "hard",
+      "strategies": [
+        "hidden singles",
+        "naked singles",
+        "naked pairs",
+        "skyscraper",
+        "hidden pairs",
+        "xy wing"
+      ],
+      "quotes": [
+        "Forgiveness and Letting Go: RELEASE WHAT NO LONGER SERVES"
+      ]
+    },
+    {
+      "id": 334,
+      "difficulty": "easy",
+      "strategies": [
+        "naked singles"
+      ],
+      "quotes": [
+        "Forgiveness and Letting Go: LET GO TO GAIN TRUE PEACE"
+      ]
+    },
+    {
+      "id": 335,
+      "difficulty": "medium",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "pointing pairs",
+        "hidden triples",
+        "naked pairs",
+        "naked triples"
+      ],
+      "quotes": [
+        "Forgiveness and Letting Go: MAKE PEACE WITH PAST MISTAKES"
+      ]
+    },
+    {
+      "id": 336,
+      "difficulty": "hard",
+      "strategies": [
+        "hidden singles",
+        "naked pairs",
+        "hidden pairs",
+        "naked singles",
+        "pointing pairs",
+        "skyscraper",
+        "xy wing"
+      ],
+      "quotes": [
+        "Forgiveness and Letting Go: UNDERSTAND BEFORE YOU CONDEMN"
+      ]
+    },
+    {
+      "id": 337,
+      "difficulty": "easy",
+      "strategies": [
+        "naked singles"
+      ],
+      "quotes": [
+        "Forgiveness and Letting Go: OFFER YOURSELF COMPASSION TOO"
+      ]
+    },
+    {
+      "id": 338,
+      "difficulty": "medium",
+      "strategies": [
+        "hidden singles",
+        "naked singles",
+        "naked pairs",
+        "hidden pairs",
+        "pointing pairs",
+        "naked triples",
+        "hidden triples"
+      ],
+      "quotes": [
+        "Forgiveness and Letting Go: CLEAR YOUR HEART OF HEAVINESS"
+      ]
+    },
+    {
+      "id": 339,
+      "difficulty": "hard",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "pointing pairs",
+        "naked triples",
+        "naked pairs",
+        "skyscraper"
+      ],
+      "quotes": [
+        "Forgiveness and Letting Go: FORGIVENESS IS A SIGN OF STRENGTH"
+      ]
+    },
+    {
+      "id": 340,
+      "difficulty": "easy",
+      "strategies": [
+        "naked singles"
+      ],
+      "quotes": [
+        "Forgiveness and Letting Go: START EACH DAY WITH A CLEAN SLATE"
+      ]
+    },
+    {
+      "id": 341,
+      "difficulty": "medium",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "naked pairs",
+        "hidden pairs",
+        "pointing pairs",
+        "naked triples"
+      ],
+      "quotes": [
+        "Clarity and Simplicity in Thought: THINK IN SIMPLE STRAIGHT LINES"
+      ]
+    },
+    {
+      "id": 342,
+      "difficulty": "hard",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "naked pairs",
+        "xy wing",
+        "skyscraper"
+      ],
+      "quotes": [
+        "Clarity and Simplicity in Thought: REMOVE UNNECESSARY THOUGHTS"
+      ]
+    },
+    {
+      "id": 343,
+      "difficulty": "easy",
+      "strategies": [
+        "naked singles",
+        "hidden singles"
+      ],
+      "quotes": [
+        "Clarity and Simplicity in Thought: SPEAK ONLY WHEN NEEDED"
+      ]
+    },
+    {
+      "id": 344,
+      "difficulty": "medium",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "naked pairs",
+        "hidden pairs",
+        "pointing pairs"
+      ],
+      "quotes": [
+        "Clarity and Simplicity in Thought: MAKE YOUR WORDS CLEAR AND CLEAN"
+      ]
+    },
+    {
+      "id": 345,
+      "difficulty": "hard",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "hidden pairs",
+        "skyscraper",
+        "xy wing"
+      ],
+      "quotes": [
+        "Clarity and Simplicity in Thought: SEE THROUGH COMPLEXITY TO TRUTH"
+      ]
+    },
+    {
+      "id": 346,
+      "difficulty": "easy",
+      "strategies": [
+        "naked singles"
+      ],
+      "quotes": [
+        "Clarity and Simplicity in Thought: FOCUS ON ONE IDEA AT A TIME"
+      ]
+    },
+    {
+      "id": 347,
+      "difficulty": "medium",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "naked pairs",
+        "pointing pairs",
+        "hidden triples"
+      ],
+      "quotes": [
+        "Clarity and Simplicity in Thought: SIMPLIFY YOUR PLANS AND INTENTIONS"
+      ]
+    },
+    {
+      "id": 348,
+      "difficulty": "hard",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "xy wing",
+        "skyscraper"
+      ],
+      "quotes": [
+        "Clarity and Simplicity in Thought: REDUCE TO WHAT IS ESSENTIAL"
+      ]
+    },
+    {
+      "id": 349,
+      "difficulty": "easy",
+      "strategies": [
+        "naked singles"
+      ],
+      "quotes": [
+        "Clarity and Simplicity in Thought: CLARITY IS BORN OF STILLNESS"
+      ]
+    },
+    {
+      "id": 350,
+      "difficulty": "medium",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "pointing pairs",
+        "hidden triples"
+      ],
+      "quotes": [
+        "Clarity and Simplicity in Thought: LET YOUR MIND BE LIKE CLEAR WATER"
+      ]
+    },
+    {
+      "id": 351,
+      "difficulty": "hard",
+      "strategies": [
+        "hidden singles",
+        "naked pairs",
+        "naked singles",
+        "hidden pairs",
+        "pointing pairs",
+        "x wing",
+        "xy wing",
+        "skyscraper"
+      ],
+      "quotes": [
+        "Time and Rhythm: MOVE WITH NATURAL RHYTHMS"
+      ]
+    },
+    {
+      "id": 352,
+      "difficulty": "easy",
+      "strategies": [
+        "naked singles"
+      ],
+      "quotes": [
+        "Time and Rhythm: KNOW THE RIGHT TIME TO ACT"
+      ]
+    },
+    {
+      "id": 353,
+      "difficulty": "medium",
+      "strategies": [
+        "hidden singles",
+        "naked pairs",
+        "hidden pairs",
+        "pointing pairs",
+        "naked triples",
+        "hidden triples",
+        "naked singles"
+      ],
+      "quotes": [
+        "Time and Rhythm: DO NOT RUSH YOUR DESTINY"
+      ]
+    },
+    {
+      "id": 354,
+      "difficulty": "hard",
+      "strategies": [
+        "hidden singles",
+        "naked singles",
+        "hidden pairs",
+        "naked pairs",
+        "xy wing",
+        "skyscraper"
+      ],
+      "quotes": [
+        "Time and Rhythm: PRACTISE WITH DAILY CONSISTENCY"
+      ]
+    },
+    {
+      "id": 355,
+      "difficulty": "easy",
+      "strategies": [
+        "naked singles"
+      ],
+      "quotes": [
+        "Time and Rhythm: FIND FLOW IN REPETITION"
+      ]
+    },
+    {
+      "id": 356,
+      "difficulty": "medium",
+      "strategies": [
+        "hidden singles",
+        "hidden pairs",
+        "pointing pairs",
+        "hidden triples",
+        "naked singles",
+        "naked pairs",
+        "naked triples"
+      ],
+      "quotes": [
+        "Time and Rhythm: RESTORE BALANCE THROUGH ROUTINE"
+      ]
+    },
+    {
+      "id": 357,
+      "difficulty": "hard",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "x wing",
+        "xy wing",
+        "skyscraper"
+      ],
+      "quotes": [
+        "Time and Rhythm: ADJUST TO THE PACE OF OTHERS"
+      ]
+    },
+    {
+      "id": 358,
+      "difficulty": "easy",
+      "strategies": [
+        "naked singles"
+      ],
+      "quotes": [
+        "Time and Rhythm: SYNCHRONISE MIND AND MOVEMENT"
+      ]
+    },
+    {
+      "id": 359,
+      "difficulty": "medium",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "naked pairs",
+        "pointing pairs",
+        "hidden triples",
+        "hidden pairs"
+      ],
+      "quotes": [
+        "Time and Rhythm: DO NOT FIGHT THE CLOCK"
+      ]
+    },
+    {
+      "id": 360,
+      "difficulty": "hard",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "naked pairs",
+        "xy wing",
+        "skyscraper"
+      ],
+      "quotes": [
+        "Time and Rhythm: HONOUR TIME AS A TEACHER"
+      ]
+    },
+    {
+      "id": 361,
+      "difficulty": "easy",
+      "strategies": [
+        "naked singles"
+      ],
+      "quotes": [
+        "Silence and Listening: FIND WISDOM IN SILENCE"
+      ]
+    },
+    {
+      "id": 362,
+      "difficulty": "medium",
+      "strategies": [
+        "hidden singles",
+        "naked singles",
+        "naked pairs",
+        "hidden pairs",
+        "pointing pairs",
+        "hidden triples"
+      ],
+      "quotes": [
+        "Silence and Listening: LISTEN MORE THAN YOU SPEAK"
+      ]
+    },
+    {
+      "id": 363,
+      "difficulty": "hard",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "naked pairs",
+        "skyscraper",
+        "xy wing"
+      ],
+      "quotes": [
+        "Silence and Listening: HEAR WITHOUT NEEDING TO ANSWER"
+      ]
+    },
+    {
+      "id": 364,
+      "difficulty": "easy",
+      "strategies": [
+        "naked singles"
+      ],
+      "quotes": [
+        "Silence and Listening: RESPECT THE PAUSE BETWEEN WORDS"
+      ]
+    },
+    {
+      "id": 365,
+      "difficulty": "medium",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "naked pairs",
+        "hidden pairs",
+        "pointing pairs",
+        "naked triples",
+        "hidden triples"
+      ],
+      "quotes": [
+        "Silence and Listening: GIVE FULL ATTENTION TO OTHERS"
+      ]
+    },
+    {
+      "id": 366,
+      "difficulty": "hard",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "skyscraper",
+        "naked pairs"
+      ],
+      "quotes": [
+        "Silence and Listening: REFLECT BEFORE YOU REPLY"
+      ]
+    },
+    {
+      "id": 367,
+      "difficulty": "easy",
+      "strategies": [
+        "naked singles"
+      ],
+      "quotes": [
+        "Silence and Listening: SPEAK ONLY WHAT ADDS VALUE"
+      ]
+    },
+    {
+      "id": 368,
+      "difficulty": "medium",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "hidden pairs",
+        "pointing pairs",
+        "naked triples",
+        "hidden triples"
+      ],
+      "quotes": [
+        "Silence and Listening: SILENCE IS STRONGER THAN NOISE"
+      ]
+    },
+    {
+      "id": 369,
+      "difficulty": "hard",
+      "strategies": [
+        "hidden singles",
+        "naked singles",
+        "naked pairs",
+        "hidden pairs",
+        "pointing pairs",
+        "xy wing",
+        "skyscraper"
+      ],
+      "quotes": [
+        "Silence and Listening: BE COMFORTABLE IN QUIET SPACES"
+      ]
+    },
+    {
+      "id": 370,
+      "difficulty": "easy",
+      "strategies": [
+        "naked singles"
+      ],
+      "quotes": [
+        "Silence and Listening: LISTEN TO YOUR INNER VOICE"
+      ]
+    },
+    {
+      "id": 371,
+      "difficulty": "medium",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "naked pairs",
+        "hidden pairs",
+        "pointing pairs",
+        "naked triples",
+        "hidden triples"
+      ],
+      "quotes": [
+        "Order and Cleanliness: KEEP YOUR SPACE TIDY ALWAYS"
+      ]
+    },
+    {
+      "id": 372,
+      "difficulty": "hard",
+      "strategies": [
+        "hidden singles",
+        "naked pairs",
+        "naked singles",
+        "skyscraper"
+      ],
+      "quotes": [
+        "Order and Cleanliness: ORGANISE YOUR TOOLS DAILY"
+      ]
+    },
+    {
+      "id": 373,
+      "difficulty": "easy",
+      "strategies": [
+        "naked singles"
+      ],
+      "quotes": [
+        "Order and Cleanliness: MAKE TIME FOR CLEANING MINDFULLY"
+      ]
+    },
+    {
+      "id": 374,
+      "difficulty": "medium",
+      "strategies": [
+        "hidden singles",
+        "naked singles",
+        "pointing pairs",
+        "naked triples",
+        "hidden triples"
+      ],
+      "quotes": [
+        "Order and Cleanliness: RETURN EVERYTHING TO ITS PLACE"
+      ]
+    },
+    {
+      "id": 375,
+      "difficulty": "hard",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "hidden pairs",
+        "naked pairs",
+        "pointing pairs",
+        "xy wing",
+        "skyscraper"
+      ],
+      "quotes": [
+        "Order and Cleanliness: REMOVE WHAT YOU DO NOT NEED"
+      ]
+    },
+    {
+      "id": 376,
+      "difficulty": "easy",
+      "strategies": [
+        "naked singles"
+      ],
+      "quotes": [
+        "Order and Cleanliness: CLEANLINESS REFLECTS SELF-RESPECT"
+      ]
+    },
+    {
+      "id": 377,
+      "difficulty": "medium",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "naked pairs",
+        "pointing pairs",
+        "naked triples",
+        "hidden triples"
+      ],
+      "quotes": [
+        "Order and Cleanliness: ORDER CREATES INNER PEACE"
+      ]
+    },
+    {
+      "id": 378,
+      "difficulty": "hard",
+      "strategies": [
+        "hidden singles",
+        "naked singles",
+        "naked pairs",
+        "pointing pairs",
+        "x wing",
+        "xy wing",
+        "skyscraper"
+      ],
+      "quotes": [
+        "Order and Cleanliness: CULTIVATE SIMPLICITY THROUGH ORDER"
+      ]
+    },
+    {
+      "id": 379,
+      "difficulty": "easy",
+      "strategies": [
+        "naked singles"
+      ],
+      "quotes": [
+        "Order and Cleanliness: CARE FOR BELONGINGS WITH PRIDE"
+      ]
+    },
+    {
+      "id": 380,
+      "difficulty": "medium",
+      "strategies": [
+        "hidden singles",
+        "hidden pairs",
+        "pointing pairs",
+        "naked triples",
+        "naked singles",
+        "naked pairs",
+        "hidden triples"
+      ],
+      "quotes": [
+        "Order and Cleanliness: BEGIN AND END EACH DAY CLEAN"
+      ]
+    },
+    {
+      "id": 381,
+      "difficulty": "hard",
+      "strategies": [
+        "hidden singles",
+        "naked singles",
+        "naked pairs",
+        "hidden pairs",
+        "skyscraper"
+      ],
+      "quotes": [
+        "Trust and Faith: TRUST YOUR INNER COMPASS"
+      ]
+    },
+    {
+      "id": 382,
+      "difficulty": "easy",
+      "strategies": [
+        "naked singles",
+        "hidden singles"
+      ],
+      "quotes": [
+        "Trust and Faith: HAVE FAITH IN THE UNSEEN"
+      ]
+    },
+    {
+      "id": 383,
+      "difficulty": "medium",
+      "strategies": [
+        "hidden singles",
+        "naked singles",
+        "naked pairs",
+        "hidden pairs"
+      ],
+      "quotes": [
+        "Trust and Faith: BELIEVE IN OTHERS' GOOD INTENT"
+      ]
+    },
+    {
+      "id": 384,
+      "difficulty": "hard",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "hidden pairs",
+        "skyscraper"
+      ],
+      "quotes": [
+        "Trust and Faith: ACT WITH CONFIDENCE NOT DOUBT"
+      ]
+    },
+    {
+      "id": 385,
+      "difficulty": "easy",
+      "strategies": [
+        "naked singles"
+      ],
+      "quotes": [
+        "Trust and Faith: RELY ON YOUR TRAINING FULLY"
+      ]
+    },
+    {
+      "id": 386,
+      "difficulty": "medium",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "naked pairs",
+        "pointing pairs",
+        "hidden triples"
+      ],
+      "quotes": [
+        "Trust and Faith: LET GO AND TRUST THE FLOW"
+      ]
+    },
+    {
+      "id": 387,
+      "difficulty": "hard",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "naked pairs",
+        "hidden pairs",
+        "pointing pairs",
+        "x wing",
+        "xy wing",
+        "skyscraper"
+      ],
+      "quotes": [
+        "Trust and Faith: REMAIN CALM IN UNKNOWN TERRITORY"
+      ]
+    },
+    {
+      "id": 388,
+      "difficulty": "easy",
+      "strategies": [
+        "naked singles"
+      ],
+      "quotes": [
+        "Trust and Faith: BE STEADY IN BELIEF"
+      ]
+    },
+    {
+      "id": 389,
+      "difficulty": "medium",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "naked pairs",
+        "naked triples"
+      ],
+      "quotes": [
+        "Trust and Faith: CULTIVATE TRUST THROUGH ACTION"
+      ]
+    },
+    {
+      "id": 390,
+      "difficulty": "hard",
+      "strategies": [
+        "hidden singles",
+        "naked pairs",
+        "hidden pairs",
+        "pointing pairs",
+        "x wing",
+        "xy wing",
+        "skyscraper",
+        "naked singles"
+      ],
+      "quotes": [
+        "Trust and Faith: FAITH GROWS THROUGH EXPERIENCE"
+      ]
+    },
+    {
+      "id": 391,
+      "difficulty": "easy",
+      "strategies": [
+        "naked singles"
+      ],
+      "quotes": [
+        "Joy in Effort: ENJOY THE WORK ITSELF"
+      ]
+    },
+    {
+      "id": 392,
+      "difficulty": "medium",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "naked pairs",
+        "hidden pairs",
+        "pointing pairs",
+        "naked triples",
+        "hidden triples"
+      ],
+      "quotes": [
+        "Joy in Effort: FIND PLEASURE IN SMALL TASKS"
+      ]
+    },
+    {
+      "id": 393,
+      "difficulty": "hard",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "hidden pairs",
+        "naked pairs",
+        "skyscraper",
+        "pointing pairs",
+        "xy wing"
+      ],
+      "quotes": [
+        "Joy in Effort: TAKE PRIDE IN DAILY EFFORT"
+      ]
+    },
+    {
+      "id": 394,
+      "difficulty": "easy",
+      "strategies": [
+        "naked singles"
+      ],
+      "quotes": [
+        "Joy in Effort: SAVOUR THE STRUGGLE FOR GROWTH"
+      ]
+    },
+    {
+      "id": 395,
+      "difficulty": "medium",
+      "strategies": [
+        "hidden singles",
+        "naked singles",
+        "naked pairs",
+        "hidden pairs",
+        "pointing pairs",
+        "naked triples",
+        "hidden triples"
+      ],
+      "quotes": [
+        "Joy in Effort: SMILE THROUGH HARD MOMENTS"
+      ]
+    },
+    {
+      "id": 396,
+      "difficulty": "hard",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "xy wing",
+        "skyscraper"
+      ],
+      "quotes": [
+        "Joy in Effort: SEE PROGRESS IN EVERY STEP"
+      ]
+    },
+    {
+      "id": 397,
+      "difficulty": "easy",
+      "strategies": [
+        "naked singles"
+      ],
+      "quotes": [
+        "Joy in Effort: LOVE THE PROCESS MORE THAN THE PRIZE"
+      ]
+    },
+    {
+      "id": 398,
+      "difficulty": "medium",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "naked pairs",
+        "hidden pairs",
+        "naked triples",
+        "hidden triples"
+      ],
+      "quotes": [
+        "Joy in Effort: MAKE WORK AN EXPRESSION OF SPIRIT"
+      ]
+    },
+    {
+      "id": 399,
+      "difficulty": "hard",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "naked pairs",
+        "hidden pairs",
+        "pointing pairs",
+        "xy wing",
+        "skyscraper"
+      ],
+      "quotes": [
+        "Joy in Effort: LET JOY RISE IN MOTION"
+      ]
+    },
+    {
+      "id": 400,
+      "difficulty": "easy",
+      "strategies": [
+        "naked singles",
+        "hidden singles"
+      ],
+      "quotes": [
+        "Joy in Effort: EFFORT IS A GIFT TO YOURSELF"
+      ]
+    },
+    {
+      "id": 401,
+      "difficulty": "medium",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "hidden pairs",
+        "pointing pairs",
+        "hidden triples"
+      ],
+      "quotes": [
+        "Balance and Harmony: WALK THE MIDDLE PATH DAILY"
+      ]
+    },
+    {
+      "id": 402,
+      "difficulty": "hard",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "naked pairs",
+        "skyscraper",
+        "xy wing"
+      ],
+      "quotes": [
+        "Balance and Harmony: BALANCE ACTION WITH CONTEMPLATION"
+      ]
+    },
+    {
+      "id": 403,
+      "difficulty": "easy",
+      "strategies": [
+        "naked singles",
+        "hidden singles"
+      ],
+      "quotes": [
+        "Balance and Harmony: HARMONY BEGINS WITHIN YOURSELF"
+      ]
+    },
+    {
+      "id": 404,
+      "difficulty": "medium",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "hidden pairs",
+        "naked triples",
+        "hidden triples"
+      ],
+      "quotes": [
+        "Balance and Harmony: AVOID EXTREMES IN THOUGHT OR ACT"
+      ]
+    },
+    {
+      "id": 405,
+      "difficulty": "hard",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "pointing pairs",
+        "x wing",
+        "xy wing",
+        "skyscraper"
+      ],
+      "quotes": [
+        "Balance and Harmony: GIVE TIME TO BOTH WORK AND REST"
+      ]
+    },
+    {
+      "id": 406,
+      "difficulty": "easy",
+      "strategies": [
+        "naked singles"
+      ],
+      "quotes": [
+        "Balance and Harmony: RESPECT BOTH OPPOSITES AND UNITY"
+      ]
+    },
+    {
+      "id": 407,
+      "difficulty": "medium",
+      "strategies": [
+        "hidden singles",
+        "naked singles",
+        "naked pairs",
+        "hidden pairs",
+        "pointing pairs"
+      ],
+      "quotes": [
+        "Balance and Harmony: CREATE ORDER FROM SURROUNDING CHAOS"
+      ]
+    },
+    {
+      "id": 408,
+      "difficulty": "hard",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "pointing pairs",
+        "xy wing",
+        "skyscraper",
+        "hidden pairs"
+      ],
+      "quotes": [
+        "Balance and Harmony: BRING PEACE TO EVERY CONVERSATION"
+      ]
+    },
+    {
+      "id": 409,
+      "difficulty": "easy",
+      "strategies": [
+        "naked singles"
+      ],
+      "quotes": [
+        "Balance and Harmony: ALIGN YOUR VALUES AND CHOICES"
+      ]
+    },
+    {
+      "id": 410,
+      "difficulty": "medium",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "naked pairs",
+        "pointing pairs",
+        "hidden triples"
+      ],
+      "quotes": [
+        "Balance and Harmony: LET NATURE BE YOUR TEACHER"
+      ]
+    },
+    {
+      "id": 411,
+      "difficulty": "hard",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "naked pairs",
+        "pointing pairs",
+        "hidden pairs",
+        "x wing",
+        "skyscraper"
+      ],
+      "quotes": [
+        "Gratitude and Simplicity: BE THANKFUL WITHOUT EXPECTATION"
+      ]
+    },
+    {
+      "id": 412,
+      "difficulty": "easy",
+      "strategies": [
+        "naked singles"
+      ],
+      "quotes": [
+        "Gratitude and Simplicity: VALUE SMALL ACTS AND MOMENTS"
+      ]
+    },
+    {
+      "id": 413,
+      "difficulty": "medium",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "pointing pairs",
+        "naked triples",
+        "hidden triples",
+        "naked pairs"
+      ],
+      "quotes": [
+        "Gratitude and Simplicity: SIMPLICITY IS THE TRUE LUXURY"
+      ]
+    },
+    {
+      "id": 414,
+      "difficulty": "hard",
+      "strategies": [
+        "hidden singles",
+        "hidden pairs",
+        "naked singles",
+        "pointing pairs",
+        "naked pairs",
+        "xy wing",
+        "skyscraper"
+      ],
+      "quotes": [
+        "Gratitude and Simplicity: DO NOT DESIRE BEYOND YOUR NEEDS"
+      ]
+    },
+    {
+      "id": 415,
+      "difficulty": "easy",
+      "strategies": [
+        "naked singles"
+      ],
+      "quotes": [
+        "Gratitude and Simplicity: GIVE FREELY WITHOUT COUNTING COST"
+      ]
+    },
+    {
+      "id": 416,
+      "difficulty": "medium",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "naked pairs",
+        "naked triples"
+      ],
+      "quotes": [
+        "Gratitude and Simplicity: ENJOY LIFE WITHOUT OWNING IT"
+      ]
+    },
+    {
+      "id": 417,
+      "difficulty": "hard",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "hidden pairs",
+        "pointing pairs",
+        "skyscraper",
+        "xy wing"
+      ],
+      "quotes": [
+        "Gratitude and Simplicity: GRATITUDE STRENGTHENS THE SPIRIT"
+      ]
+    },
+    {
+      "id": 418,
+      "difficulty": "easy",
+      "strategies": [
+        "naked singles"
+      ],
+      "quotes": [
+        "Gratitude and Simplicity: LIVE LIGHTLY AND TRAVEL FAR"
+      ]
+    },
+    {
+      "id": 419,
+      "difficulty": "medium",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "naked pairs",
+        "pointing pairs"
+      ],
+      "quotes": [
+        "Gratitude and Simplicity: SPEAK KIND WORDS DAILY"
+      ]
+    },
+    {
+      "id": 420,
+      "difficulty": "hard",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "naked pairs",
+        "hidden pairs",
+        "pointing pairs",
+        "skyscraper",
+        "xy wing"
+      ],
+      "quotes": [
+        "Gratitude and Simplicity: APPRECIATE THE PRESENT FULLY"
+      ]
+    },
+    {
+      "id": 421,
+      "difficulty": "easy",
+      "strategies": [
+        "naked singles"
+      ],
+      "quotes": [
+        "Kindness and Compassion: ACT WITH KINDNESS IN ALL THINGS"
+      ]
+    },
+    {
+      "id": 422,
+      "difficulty": "medium",
+      "strategies": [
+        "hidden singles",
+        "hidden pairs",
+        "pointing pairs",
+        "naked triples",
+        "hidden triples",
+        "naked singles"
+      ],
+      "quotes": [
+        "Kindness and Compassion: SEE OTHERS WITH COMPASSIONATE EYES"
+      ]
+    },
+    {
+      "id": 423,
+      "difficulty": "hard",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "skyscraper",
+        "xy wing",
+        "pointing pairs",
+        "naked pairs"
+      ],
+      "quotes": [
+        "Kindness and Compassion: OFFER HELP WITHOUT SEEKING PRAISE"
+      ]
+    },
+    {
+      "id": 424,
+      "difficulty": "easy",
+      "strategies": [
+        "naked singles"
+      ],
+      "quotes": [
+        "Kindness and Compassion: LISTEN WITH THE INTENT TO UNDERSTAND"
+      ]
+    },
+    {
+      "id": 425,
+      "difficulty": "medium",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "naked pairs",
+        "hidden pairs",
+        "pointing pairs",
+        "naked triples",
+        "hidden triples"
+      ],
+      "quotes": [
+        "Kindness and Compassion: LIFT OTHERS WITHOUT EXPECTING RETURN"
+      ]
+    },
+    {
+      "id": 426,
+      "difficulty": "hard",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "naked pairs",
+        "hidden pairs",
+        "pointing pairs",
+        "xy wing",
+        "skyscraper"
+      ],
+      "quotes": [
+        "Kindness and Compassion: GIVE MERCY WHERE YOU HOLD POWER"
+      ]
+    },
+    {
+      "id": 427,
+      "difficulty": "easy",
+      "strategies": [
+        "naked singles"
+      ],
+      "quotes": [
+        "Kindness and Compassion: CHOOSE UNDERSTANDING OVER JUDGEMENT"
+      ]
+    },
+    {
+      "id": 428,
+      "difficulty": "medium",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "hidden pairs",
+        "pointing pairs",
+        "hidden triples"
+      ],
+      "quotes": [
+        "Kindness and Compassion: BE A SOURCE OF WARMTH DAILY"
+      ]
+    },
+    {
+      "id": 429,
+      "difficulty": "hard",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "naked pairs",
+        "xy wing",
+        "skyscraper",
+        "hidden pairs",
+        "pointing pairs"
+      ],
+      "quotes": [
+        "Kindness and Compassion: HEAL RIFTS THROUGH PATIENCE"
+      ]
+    },
+    {
+      "id": 430,
+      "difficulty": "easy",
+      "strategies": [
+        "naked singles",
+        "hidden singles"
+      ],
+      "quotes": [
+        "Kindness and Compassion: CARRY A GENTLE SPIRIT INSIDE"
+      ]
+    },
+    {
+      "id": 431,
+      "difficulty": "medium",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "naked pairs",
+        "hidden pairs",
+        "pointing pairs",
+        "naked triples",
+        "hidden triples"
+      ],
+      "quotes": [
+        "Community and Service: SERVE YOUR COMMUNITY WITH PRIDE"
+      ]
+    },
+    {
+      "id": 432,
+      "difficulty": "hard",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "xy wing",
+        "skyscraper"
+      ],
+      "quotes": [
+        "Community and Service: PUT OTHERS AHEAD OF YOURSELF"
+      ]
+    },
+    {
+      "id": 433,
+      "difficulty": "easy",
+      "strategies": [
+        "naked singles"
+      ],
+      "quotes": [
+        "Community and Service: ACT FOR THE GOOD OF MANY"
+      ]
+    },
+    {
+      "id": 434,
+      "difficulty": "medium",
+      "strategies": [
+        "hidden singles",
+        "naked singles",
+        "naked pairs",
+        "hidden pairs",
+        "pointing pairs",
+        "hidden triples"
+      ],
+      "quotes": [
+        "Community and Service: OFFER YOUR STRENGTH TO THE WEAK"
+      ]
+    },
+    {
+      "id": 435,
+      "difficulty": "hard",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "naked pairs",
+        "hidden pairs",
+        "pointing pairs",
+        "xy wing",
+        "skyscraper"
+      ],
+      "quotes": [
+        "Community and Service: STAND TOGETHER IN UNITY"
+      ]
+    },
+    {
+      "id": 436,
+      "difficulty": "easy",
+      "strategies": [
+        "hidden singles",
+        "naked singles"
+      ],
+      "quotes": [
+        "Community and Service: SUPPORT THOSE WHO STRUGGLE"
+      ]
+    },
+    {
+      "id": 437,
+      "difficulty": "medium",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "naked pairs",
+        "hidden pairs",
+        "pointing pairs",
+        "naked triples",
+        "hidden triples"
+      ],
+      "quotes": [
+        "Community and Service: GROW THROUGH SHARED PURPOSE"
+      ]
+    },
+    {
+      "id": 438,
+      "difficulty": "hard",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "naked pairs",
+        "pointing pairs",
+        "hidden triples",
+        "skyscraper",
+        "xy wing"
+      ],
+      "quotes": [
+        "Community and Service: CONTRIBUTE MORE THAN YOU TAKE"
+      ]
+    },
+    {
+      "id": 439,
+      "difficulty": "easy",
+      "strategies": [
+        "naked singles"
+      ],
+      "quotes": [
+        "Community and Service: TAKE CARE OF YOUR NEIGHBOURS"
+      ]
+    },
+    {
+      "id": 440,
+      "difficulty": "medium",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "naked pairs",
+        "hidden pairs",
+        "pointing pairs",
+        "naked triples",
+        "hidden triples"
+      ],
+      "quotes": [
+        "Community and Service: SEE HUMANITY AS ONE FAMILY"
+      ]
+    },
+    {
+      "id": 441,
+      "difficulty": "hard",
+      "strategies": [
+        "hidden singles",
+        "naked singles",
+        "pointing pairs",
+        "x wing",
+        "skyscraper",
+        "naked pairs"
+      ],
+      "quotes": [
+        "Integrity and Truth: NEVER HIDE FROM THE TRUTH"
+      ]
+    },
+    {
+      "id": 442,
+      "difficulty": "easy",
+      "strategies": [
+        "naked singles"
+      ],
+      "quotes": [
+        "Integrity and Truth: BE WHO YOU CLAIM TO BE"
+      ]
+    },
+    {
+      "id": 443,
+      "difficulty": "medium",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "naked pairs",
+        "pointing pairs",
+        "hidden triples"
+      ],
+      "quotes": [
+        "Integrity and Truth: LET YOUR WORD MATCH YOUR ACTION"
+      ]
+    },
+    {
+      "id": 444,
+      "difficulty": "hard",
+      "strategies": [
+        "hidden singles",
+        "naked pairs",
+        "naked singles",
+        "pointing pairs",
+        "skyscraper",
+        "xy wing"
+      ],
+      "quotes": [
+        "Integrity and Truth: STAY TRUE EVEN IN DIFFICULTY"
+      ]
+    },
+    {
+      "id": 445,
+      "difficulty": "easy",
+      "strategies": [
+        "naked singles"
+      ],
+      "quotes": [
+        "Integrity and Truth: DO NOT TWIST WORDS FOR GAIN"
+      ]
+    },
+    {
+      "id": 446,
+      "difficulty": "medium",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "naked pairs",
+        "pointing pairs",
+        "hidden triples"
+      ],
+      "quotes": [
+        "Integrity and Truth: ACT THE SAME IN LIGHT AND DARK"
+      ]
+    },
+    {
+      "id": 447,
+      "difficulty": "hard",
+      "strategies": [
+        "hidden singles",
+        "naked singles",
+        "hidden pairs",
+        "pointing pairs",
+        "x wing",
+        "skyscraper"
+      ],
+      "quotes": [
+        "Integrity and Truth: CORRECT YOURSELF QUICKLY"
+      ]
+    },
+    {
+      "id": 448,
+      "difficulty": "easy",
+      "strategies": [
+        "naked singles"
+      ],
+      "quotes": [
+        "Integrity and Truth: LIVE AS IF THE WORLD IS WATCHING"
+      ]
+    },
+    {
+      "id": 449,
+      "difficulty": "medium",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "naked pairs",
+        "pointing pairs"
+      ],
+      "quotes": [
+        "Integrity and Truth: TRUST BUILDS THROUGH HONESTY"
+      ]
+    },
+    {
+      "id": 450,
+      "difficulty": "hard",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "naked pairs",
+        "pointing pairs",
+        "skyscraper",
+        "hidden pairs"
+      ],
+      "quotes": [
+        "Integrity and Truth: UPHOLD WHAT IS RIGHT NOT EASY"
+      ]
+    },
+    {
+      "id": 451,
+      "difficulty": "easy",
+      "strategies": [
+        "naked singles",
+        "hidden singles"
+      ],
+      "quotes": [
+        "Growth and Curiosity: ASK QUESTIONS WITHOUT PRIDE"
+      ]
+    },
+    {
+      "id": 452,
+      "difficulty": "medium",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "naked pairs",
+        "hidden pairs",
+        "pointing pairs",
+        "hidden triples"
+      ],
+      "quotes": [
+        "Growth and Curiosity: STAY CURIOUS THROUGH ALL AGES"
+      ]
+    },
+    {
+      "id": 453,
+      "difficulty": "hard",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "naked pairs",
+        "x wing",
+        "xy wing",
+        "skyscraper"
+      ],
+      "quotes": [
+        "Growth and Curiosity: EXPLORE IDEAS OUTSIDE YOUR FIELD"
+      ]
+    },
+    {
+      "id": 454,
+      "difficulty": "easy",
+      "strategies": [
+        "naked singles"
+      ],
+      "quotes": [
+        "Growth and Curiosity: LEARN FROM FAILURE WITHOUT SHAME"
+      ]
+    },
+    {
+      "id": 455,
+      "difficulty": "medium",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "naked pairs",
+        "hidden pairs",
+        "pointing pairs",
+        "naked triples",
+        "hidden triples"
+      ],
+      "quotes": [
+        "Growth and Curiosity: CELEBRATE OTHERS’ WISDOM OPENLY"
+      ]
+    },
+    {
+      "id": 456,
+      "difficulty": "hard",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "naked pairs",
+        "x wing",
+        "skyscraper",
+        "xy wing"
+      ],
+      "quotes": [
+        "Growth and Curiosity: BE WILLING TO UNLEARN TOO"
+      ]
+    },
+    {
+      "id": 457,
+      "difficulty": "easy",
+      "strategies": [
+        "naked singles"
+      ],
+      "quotes": [
+        "Growth and Curiosity: GROW THROUGH CHALLENGES NOT COMFORT"
+      ]
+    },
+    {
+      "id": 458,
+      "difficulty": "medium",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "naked pairs",
+        "hidden pairs",
+        "pointing pairs",
+        "naked triples"
+      ],
+      "quotes": [
+        "Growth and Curiosity: READ DAILY FOR INSIGHT"
+      ]
+    },
+    {
+      "id": 459,
+      "difficulty": "hard",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "hidden pairs",
+        "pointing pairs",
+        "naked pairs",
+        "skyscraper"
+      ],
+      "quotes": [
+        "Growth and Curiosity: LEARN IN SILENCE AND SPEECH"
+      ]
+    },
+    {
+      "id": 460,
+      "difficulty": "easy",
+      "strategies": [
+        "naked singles"
+      ],
+      "quotes": [
+        "Growth and Curiosity: LET HUMILITY DRIVE YOUR GROWTH"
+      ]
+    },
+    {
+      "id": 461,
+      "difficulty": "medium",
+      "strategies": [
+        "hidden singles",
+        "naked pairs",
+        "hidden pairs",
+        "pointing pairs",
+        "naked triples",
+        "hidden triples",
+        "naked singles"
+      ],
+      "quotes": [
+        "Patience and Timing: WAIT FOR THE RIGHT MOMENT"
+      ]
+    },
+    {
+      "id": 462,
+      "difficulty": "hard",
+      "strategies": [
+        "hidden singles",
+        "naked singles",
+        "naked pairs",
+        "pointing pairs",
+        "hidden pairs",
+        "skyscraper",
+        "xy wing"
+      ],
+      "quotes": [
+        "Patience and Timing: DO NOT RUSH WHAT NEEDS TIME"
+      ]
+    },
+    {
+      "id": 463,
+      "difficulty": "easy",
+      "strategies": [
+        "naked singles"
+      ],
+      "quotes": [
+        "Patience and Timing: OBSERVE BEFORE YOU ACT"
+      ]
+    },
+    {
+      "id": 464,
+      "difficulty": "medium",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "naked pairs",
+        "hidden pairs",
+        "pointing pairs",
+        "hidden triples"
+      ],
+      "quotes": [
+        "Patience and Timing: LET IMPULSE PASS LIKE WIND"
+      ]
+    },
+    {
+      "id": 465,
+      "difficulty": "hard",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "hidden pairs",
+        "xy wing",
+        "skyscraper"
+      ],
+      "quotes": [
+        "Patience and Timing: RECOGNISE WHEN TO STEP BACK"
+      ]
+    },
+    {
+      "id": 466,
+      "difficulty": "easy",
+      "strategies": [
+        "naked singles"
+      ],
+      "quotes": [
+        "Patience and Timing: STAY GROUNDED IN DELAY"
+      ]
+    },
+    {
+      "id": 467,
+      "difficulty": "medium",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "naked pairs",
+        "hidden pairs",
+        "pointing pairs",
+        "naked triples",
+        "hidden triples"
+      ],
+      "quotes": [
+        "Patience and Timing: TIME REVEALS TRUE INTENTIONS"
+      ]
+    },
+    {
+      "id": 468,
+      "difficulty": "hard",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "naked pairs",
+        "skyscraper",
+        "naked triples",
+        "xy wing"
+      ],
+      "quotes": [
+        "Patience and Timing: BE PATIENT WITH OTHERS’ PACE"
+      ]
+    },
+    {
+      "id": 469,
+      "difficulty": "easy",
+      "strategies": [
+        "naked singles"
+      ],
+      "quotes": [
+        "Patience and Timing: EVERY SEASON HAS ITS PURPOSE"
+      ]
+    },
+    {
+      "id": 470,
+      "difficulty": "medium",
+      "strategies": [
+        "hidden singles",
+        "naked singles",
+        "naked pairs",
+        "hidden pairs",
+        "pointing pairs",
+        "naked triples",
+        "hidden triples"
+      ],
+      "quotes": [
+        "Patience and Timing: WISDOM WAITS WITHOUT ANGER"
+      ]
+    },
+    {
+      "id": 471,
+      "difficulty": "hard",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "pointing pairs",
+        "skyscraper"
+      ],
+      "quotes": [
+        "Creativity and Expression: CREATE SOMETHING WITH YOUR HANDS"
+      ]
+    },
+    {
+      "id": 472,
+      "difficulty": "easy",
+      "strategies": [
+        "naked singles"
+      ],
+      "quotes": [
+        "Creativity and Expression: EXPRESS YOUR TRUTH THROUGH ART"
+      ]
+    },
+    {
+      "id": 473,
+      "difficulty": "medium",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "hidden pairs",
+        "pointing pairs",
+        "hidden triples"
+      ],
+      "quotes": [
+        "Creativity and Expression: SEE LIFE AS A WORK OF BEAUTY"
+      ]
+    },
+    {
+      "id": 474,
+      "difficulty": "hard",
+      "strategies": [
+        "hidden singles",
+        "naked singles",
+        "naked pairs",
+        "pointing pairs",
+        "swordfish",
+        "skyscraper",
+        "xy wing"
+      ],
+      "quotes": [
+        "Creativity and Expression: SHARE IDEAS BOLDLY AND KINDLY"
+      ]
+    },
+    {
+      "id": 475,
+      "difficulty": "easy",
+      "strategies": [
+        "naked singles"
+      ],
+      "quotes": [
+        "Creativity and Expression: FIND INSPIRATION IN SMALL PLACES"
+      ]
+    },
+    {
+      "id": 476,
+      "difficulty": "medium",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "hidden pairs",
+        "pointing pairs",
+        "naked triples",
+        "hidden triples"
+      ],
+      "quotes": [
+        "Creativity and Expression: MAKE TIME FOR CREATIVE JOY"
+      ]
+    },
+    {
+      "id": 477,
+      "difficulty": "hard",
+      "strategies": [
+        "hidden singles",
+        "naked singles",
+        "naked pairs",
+        "pointing pairs",
+        "swordfish",
+        "xy wing"
+      ],
+      "quotes": [
+        "Creativity and Expression: USE IMAGINATION AS A TOOL"
+      ]
+    },
+    {
+      "id": 478,
+      "difficulty": "easy",
+      "strategies": [
+        "naked singles",
+        "hidden singles"
+      ],
+      "quotes": [
+        "Creativity and Expression: REFLECT YOUR SOUL IN YOUR CRAFT"
+      ]
+    },
+    {
+      "id": 479,
+      "difficulty": "medium",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "naked pairs",
+        "hidden pairs",
+        "naked triples",
+        "hidden triples"
+      ],
+      "quotes": [
+        "Creativity and Expression: CELEBRATE OTHERS' CREATIONS"
+      ]
+    },
+    {
+      "id": 480,
+      "difficulty": "hard",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "pointing pairs",
+        "xy wing",
+        "skyscraper"
+      ],
+      "quotes": [
+        "Creativity and Expression: MAKE LIFE AN ARTISTIC PRACTICE"
+      ]
+    },
+    {
+      "id": 481,
+      "difficulty": "easy",
+      "strategies": [
+        "naked singles",
+        "hidden singles"
+      ],
+      "quotes": [
+        "Joy and Lightness: SMILE FREELY WITHOUT REASON"
+      ]
+    },
+    {
+      "id": 482,
+      "difficulty": "medium",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "naked pairs",
+        "pointing pairs",
+        "hidden triples"
+      ],
+      "quotes": [
+        "Joy and Lightness: LAUGH OFTEN WITH OPEN HEART"
+      ]
+    },
+    {
+      "id": 483,
+      "difficulty": "hard",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "pointing pairs",
+        "x wing",
+        "skyscraper",
+        "naked pairs",
+        "xy wing"
+      ],
+      "quotes": [
+        "Joy and Lightness: BRING JOY WHEREVER YOU GO"
+      ]
+    },
+    {
+      "id": 484,
+      "difficulty": "easy",
+      "strategies": [
+        "naked singles"
+      ],
+      "quotes": [
+        "Joy and Lightness: DANCE EVEN WITHOUT MUSIC"
+      ]
+    },
+    {
+      "id": 485,
+      "difficulty": "medium",
+      "strategies": [
+        "hidden singles",
+        "naked singles",
+        "naked pairs",
+        "hidden pairs",
+        "pointing pairs",
+        "naked triples",
+        "hidden triples"
+      ],
+      "quotes": [
+        "Joy and Lightness: LET LIGHTNESS LIFT YOUR SPIRIT"
+      ]
+    },
+    {
+      "id": 486,
+      "difficulty": "hard",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "naked pairs",
+        "pointing pairs",
+        "swordfish",
+        "skyscraper"
+      ],
+      "quotes": [
+        "Joy and Lightness: CELEBRATE SMALL VICTORIES DAILY"
+      ]
+    },
+    {
+      "id": 487,
+      "difficulty": "easy",
+      "strategies": [
+        "naked singles"
+      ],
+      "quotes": [
+        "Joy and Lightness: SHARE HAPPINESS WITHOUT LIMIT"
+      ]
+    },
+    {
+      "id": 488,
+      "difficulty": "medium",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "naked pairs",
+        "hidden pairs",
+        "pointing pairs",
+        "naked triples",
+        "hidden triples"
+      ],
+      "quotes": [
+        "Joy and Lightness: CARRY HUMOUR AS A COMPASS"
+      ]
+    },
+    {
+      "id": 489,
+      "difficulty": "hard",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "naked pairs",
+        "hidden pairs",
+        "pointing pairs",
+        "xy wing",
+        "skyscraper"
+      ],
+      "quotes": [
+        "Joy and Lightness: FIND PLAY IN ORDINARY MOMENTS"
+      ]
+    },
+    {
+      "id": 490,
+      "difficulty": "easy",
+      "strategies": [
+        "naked singles"
+      ],
+      "quotes": [
+        "Joy and Lightness: BRIGHTEN THE ROOM WITH PRESENCE"
+      ]
+    },
+    {
+      "id": 491,
+      "difficulty": "medium",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "naked pairs",
+        "hidden triples"
+      ],
+      "quotes": [
+        "Environment and Nature: WALK AMONG TREES REGULARLY"
+      ]
+    },
+    {
+      "id": 492,
+      "difficulty": "hard",
+      "strategies": [
+        "hidden singles",
+        "pointing pairs",
+        "naked singles",
+        "x wing",
+        "xy wing",
+        "skyscraper"
+      ],
+      "quotes": [
+        "Environment and Nature: RESPECT THE EARTH AS SACRED"
+      ]
+    },
+    {
+      "id": 493,
+      "difficulty": "easy",
+      "strategies": [
+        "naked singles"
+      ],
+      "quotes": [
+        "Environment and Nature: LEAVE NO TRACE BEHIND"
+      ]
+    },
+    {
+      "id": 494,
+      "difficulty": "medium",
+      "strategies": [
+        "hidden singles",
+        "naked singles",
+        "naked pairs",
+        "pointing pairs",
+        "hidden triples"
+      ],
+      "quotes": [
+        "Environment and Nature: LISTEN TO THE WIND FOR WISDOM"
+      ]
+    },
+    {
+      "id": 495,
+      "difficulty": "hard",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "pointing pairs",
+        "naked triples",
+        "x wing",
+        "skyscraper"
+      ],
+      "quotes": [
+        "Environment and Nature: CARE FOR ANIMALS WITHOUT NEED"
+      ]
+    },
+    {
+      "id": 496,
+      "difficulty": "easy",
+      "strategies": [
+        "naked singles"
+      ],
+      "quotes": [
+        "Environment and Nature: DO NOT WASTE WATER OR FIRE"
+      ]
+    },
+    {
+      "id": 497,
+      "difficulty": "medium",
+      "strategies": [
+        "hidden singles",
+        "naked singles",
+        "naked pairs",
+        "hidden pairs",
+        "naked triples",
+        "hidden triples"
+      ],
+      "quotes": [
+        "Environment and Nature: HONOUR CYCLES OF THE MOON"
+      ]
+    },
+    {
+      "id": 498,
+      "difficulty": "hard",
+      "strategies": [
+        "hidden singles",
+        "naked singles",
+        "x wing",
+        "xy wing"
+      ],
+      "quotes": [
+        "Environment and Nature: PLANT WHEREVER YOU HAVE SPACE"
+      ]
+    },
+    {
+      "id": 499,
+      "difficulty": "easy",
+      "strategies": [
+        "naked singles"
+      ],
+      "quotes": [
+        "Environment and Nature: FEEL THE SEASONS IN YOUR BONES"
+      ]
+    },
+    {
+      "id": 500,
+      "difficulty": "medium",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "naked pairs",
+        "pointing pairs",
+        "naked triples",
+        "hidden triples"
+      ],
+      "quotes": [
+        "Environment and Nature: LEARN FROM NATURE’S BALANCE"
+      ]
+    },
+    {
+      "id": 501,
+      "difficulty": "hard",
+      "strategies": [
+        "hidden singles",
+        "hidden pairs",
+        "pointing pairs",
+        "naked singles",
+        "naked pairs",
+        "xy wing",
+        "skyscraper"
+      ],
+      "quotes": [
+        "Resilience and Endurance: STAND FIRM IN DIFFICULT TIMES"
+      ]
+    },
+    {
+      "id": 502,
+      "difficulty": "easy",
+      "strategies": [
+        "naked singles"
+      ],
+      "quotes": [
+        "Resilience and Endurance: DO NOT YIELD TO DISCOURAGEMENT"
+      ]
+    },
+    {
+      "id": 503,
+      "difficulty": "medium",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "naked pairs",
+        "hidden pairs",
+        "pointing pairs",
+        "hidden triples"
+      ],
+      "quotes": [
+        "Resilience and Endurance: ENDURE WITHOUT COMPLAINT OR PRIDE"
+      ]
+    },
+    {
+      "id": 504,
+      "difficulty": "hard",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "naked pairs",
+        "pointing pairs",
+        "swordfish",
+        "skyscraper",
+        "xy wing"
+      ],
+      "quotes": [
+        "Resilience and Endurance: RISING AGAIN IS TRUE STRENGTH"
+      ]
+    },
+    {
+      "id": 505,
+      "difficulty": "easy",
+      "strategies": [
+        "naked singles"
+      ],
+      "quotes": [
+        "Resilience and Endurance: SEE CHALLENGES AS STEPPING STONES"
+      ]
+    },
+    {
+      "id": 506,
+      "difficulty": "medium",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "hidden pairs",
+        "pointing pairs",
+        "naked triples",
+        "hidden triples"
+      ],
+      "quotes": [
+        "Resilience and Endurance: LET YOUR RESOLVE BE UNBREAKABLE"
+      ]
+    },
+    {
+      "id": 507,
+      "difficulty": "hard",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "pointing pairs",
+        "xy wing",
+        "skyscraper"
+      ],
+      "quotes": [
+        "Resilience and Endurance: KEEP GOING EVEN WHEN SMALL"
+      ]
+    },
+    {
+      "id": 508,
+      "difficulty": "easy",
+      "strategies": [
+        "naked singles"
+      ],
+      "quotes": [
+        "Resilience and Endurance: STRENGTH GROWS THROUGH STRUGGLE"
+      ]
+    },
+    {
+      "id": 509,
+      "difficulty": "medium",
+      "strategies": [
+        "hidden singles",
+        "naked singles",
+        "pointing pairs",
+        "hidden triples"
+      ],
+      "quotes": [
+        "Resilience and Endurance: FIND POWER IN CONSISTENCY"
+      ]
+    },
+    {
+      "id": 510,
+      "difficulty": "hard",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "naked pairs",
+        "skyscraper",
+        "xy wing"
+      ],
+      "quotes": [
+        "Resilience and Endurance: MOVE FORWARD ONE STEP AT A TIME"
+      ]
+    },
+    {
+      "id": 511,
+      "difficulty": "easy",
+      "strategies": [
+        "naked singles"
+      ],
+      "quotes": [
+        "Leadership and Influence: LEAD THROUGH YOUR ACTIONS"
+      ]
+    },
+    {
+      "id": 512,
+      "difficulty": "medium",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "naked pairs",
+        "pointing pairs",
+        "naked triples"
+      ],
+      "quotes": [
+        "Leadership and Influence: SERVE THOSE YOU WISH TO GUIDE"
+      ]
+    },
+    {
+      "id": 513,
+      "difficulty": "hard",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "naked pairs",
+        "pointing pairs",
+        "skyscraper"
+      ],
+      "quotes": [
+        "Leadership and Influence: INSPIRE NOT THROUGH WORDS ALONE"
+      ]
+    },
+    {
+      "id": 514,
+      "difficulty": "easy",
+      "strategies": [
+        "naked singles"
+      ],
+      "quotes": [
+        "Leadership and Influence: LISTEN TO YOUR FOLLOWERS' VOICES"
+      ]
+    },
+    {
+      "id": 515,
+      "difficulty": "medium",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "naked pairs",
+        "hidden pairs",
+        "pointing pairs",
+        "hidden triples"
+      ],
+      "quotes": [
+        "Leadership and Influence: BE HUMBLE IN POSITION OF POWER"
+      ]
+    },
+    {
+      "id": 516,
+      "difficulty": "hard",
+      "strategies": [
+        "hidden singles",
+        "naked singles",
+        "pointing pairs",
+        "skyscraper",
+        "xy wing"
+      ],
+      "quotes": [
+        "Leadership and Influence: MODEL THE BEHAVIOUR YOU EXPECT"
+      ]
+    },
+    {
+      "id": 517,
+      "difficulty": "easy",
+      "strategies": [
+        "naked singles"
+      ],
+      "quotes": [
+        "Leadership and Influence: STRENGTHEN OTHERS TO STAND STRONG"
+      ]
+    },
+    {
+      "id": 518,
+      "difficulty": "medium",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "pointing pairs",
+        "naked triples"
+      ],
+      "quotes": [
+        "Leadership and Influence: EARN TRUST THROUGH CONSISTENCY"
+      ]
+    },
+    {
+      "id": 519,
+      "difficulty": "hard",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "pointing pairs",
+        "x wing",
+        "skyscraper",
+        "naked pairs",
+        "hidden pairs"
+      ],
+      "quotes": [
+        "Leadership and Influence: MAKE DECISIONS WITH WISDOM"
+      ]
+    },
+    {
+      "id": 520,
+      "difficulty": "easy",
+      "strategies": [
+        "naked singles"
+      ],
+      "quotes": [
+        "Leadership and Influence: SHARE SUCCESS WITH YOUR TEAM"
+      ]
+    },
+    {
+      "id": 521,
+      "difficulty": "medium",
+      "strategies": [
+        "hidden singles",
+        "naked singles",
+        "naked pairs",
+        "hidden pairs",
+        "pointing pairs",
+        "naked triples",
+        "hidden triples"
+      ],
+      "quotes": [
+        "Mindfulness and Awareness: BE AWARE OF YOUR BREATH ALWAYS"
+      ]
+    },
+    {
+      "id": 522,
+      "difficulty": "hard",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "pointing pairs",
+        "skyscraper"
+      ],
+      "quotes": [
+        "Mindfulness and Awareness: NOTICE SMALL CHANGES IN RHYTHM"
+      ]
+    },
+    {
+      "id": 523,
+      "difficulty": "easy",
+      "strategies": [
+        "naked singles"
+      ],
+      "quotes": [
+        "Mindfulness and Awareness: PAUSE BEFORE EVERY DECISION"
+      ]
+    },
+    {
+      "id": 524,
+      "difficulty": "medium",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "naked pairs",
+        "hidden pairs",
+        "pointing pairs",
+        "hidden triples"
+      ],
+      "quotes": [
+        "Mindfulness and Awareness: FEEL THE GROUND BENEATH YOUR FEET"
+      ]
+    },
+    {
+      "id": 525,
+      "difficulty": "hard",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "hidden pairs",
+        "pointing pairs",
+        "skyscraper",
+        "xy wing"
+      ],
+      "quotes": [
+        "Mindfulness and Awareness: WATCH WITHOUT NEEDING TO JUDGE"
+      ]
+    },
+    {
+      "id": 526,
+      "difficulty": "easy",
+      "strategies": [
+        "naked singles"
+      ],
+      "quotes": [
+        "Mindfulness and Awareness: HEAR THE UNSAID IN CONVERSATION"
+      ]
+    },
+    {
+      "id": 527,
+      "difficulty": "medium",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "naked pairs",
+        "hidden pairs",
+        "naked triples",
+        "hidden triples"
+      ],
+      "quotes": [
+        "Mindfulness and Awareness: SEE WHAT IS HIDDEN IN PLAIN VIEW"
+      ]
+    },
+    {
+      "id": 528,
+      "difficulty": "hard",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "pointing pairs",
+        "x wing",
+        "skyscraper"
+      ],
+      "quotes": [
+        "Mindfulness and Awareness: KNOW YOUR EMOTIONS WITHOUT HIDING"
+      ]
+    },
+    {
+      "id": 529,
+      "difficulty": "easy",
+      "strategies": [
+        "naked singles"
+      ],
+      "quotes": [
+        "Mindfulness and Awareness: RETURN TO THE PRESENT WHEN LOST"
+      ]
+    },
+    {
+      "id": 530,
+      "difficulty": "medium",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "naked pairs",
+        "hidden pairs",
+        "pointing pairs",
+        "hidden triples"
+      ],
+      "quotes": [
+        "Mindfulness and Awareness: ATTENTION IS THE ROOT OF WISDOM"
+      ]
+    },
+    {
+      "id": 531,
+      "difficulty": "hard",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "naked pairs",
+        "hidden pairs",
+        "pointing pairs",
+        "xy wing",
+        "skyscraper"
+      ],
+      "quotes": [
+        "Forgiveness and Letting Go: FORGIVE EVEN WHEN NOT ASKED"
+      ]
+    },
+    {
+      "id": 532,
+      "difficulty": "easy",
+      "strategies": [
+        "naked singles"
+      ],
+      "quotes": [
+        "Forgiveness and Letting Go: DO NOT CARRY OLD GRUDGES"
+      ]
+    },
+    {
+      "id": 533,
+      "difficulty": "medium",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "naked pairs",
+        "pointing pairs",
+        "hidden triples",
+        "hidden pairs"
+      ],
+      "quotes": [
+        "Forgiveness and Letting Go: RELEASE WHAT NO LONGER SERVES"
+      ]
+    },
+    {
+      "id": 534,
+      "difficulty": "hard",
+      "strategies": [
+        "hidden singles",
+        "naked singles",
+        "pointing pairs",
+        "skyscraper",
+        "naked pairs"
+      ],
+      "quotes": [
+        "Forgiveness and Letting Go: LET GO TO GAIN TRUE PEACE"
+      ]
+    },
+    {
+      "id": 535,
+      "difficulty": "easy",
+      "strategies": [
+        "naked singles"
+      ],
+      "quotes": [
+        "Forgiveness and Letting Go: MAKE PEACE WITH PAST MISTAKES"
+      ]
+    },
+    {
+      "id": 536,
+      "difficulty": "medium",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "naked pairs",
+        "pointing pairs",
+        "hidden triples"
+      ],
+      "quotes": [
+        "Forgiveness and Letting Go: UNDERSTAND BEFORE YOU CONDEMN"
+      ]
+    },
+    {
+      "id": 537,
+      "difficulty": "hard",
+      "strategies": [
+        "hidden singles",
+        "naked singles",
+        "naked pairs",
+        "pointing pairs",
+        "skyscraper"
+      ],
+      "quotes": [
+        "Forgiveness and Letting Go: OFFER YOURSELF COMPASSION TOO"
+      ]
+    },
+    {
+      "id": 538,
+      "difficulty": "easy",
+      "strategies": [
+        "naked singles"
+      ],
+      "quotes": [
+        "Forgiveness and Letting Go: CLEAR YOUR HEART OF HEAVINESS"
+      ]
+    },
+    {
+      "id": 539,
+      "difficulty": "medium",
+      "strategies": [
+        "hidden singles",
+        "naked singles",
+        "naked pairs",
+        "hidden pairs"
+      ],
+      "quotes": [
+        "Forgiveness and Letting Go: FORGIVENESS IS A SIGN OF STRENGTH"
+      ]
+    },
+    {
+      "id": 540,
+      "difficulty": "hard",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "naked pairs",
+        "pointing pairs",
+        "skyscraper"
+      ],
+      "quotes": [
+        "Forgiveness and Letting Go: START EACH DAY WITH A CLEAN SLATE"
+      ]
+    },
+    {
+      "id": 541,
+      "difficulty": "easy",
+      "strategies": [
+        "naked singles"
+      ],
+      "quotes": [
+        "Clarity and Simplicity in Thought: THINK IN SIMPLE STRAIGHT LINES"
+      ]
+    },
+    {
+      "id": 542,
+      "difficulty": "medium",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "naked pairs",
+        "hidden pairs",
+        "pointing pairs",
+        "naked triples",
+        "hidden triples"
+      ],
+      "quotes": [
+        "Clarity and Simplicity in Thought: REMOVE UNNECESSARY THOUGHTS"
+      ]
+    },
+    {
+      "id": 543,
+      "difficulty": "hard",
+      "strategies": [
+        "hidden singles",
+        "hidden pairs",
+        "pointing pairs",
+        "naked singles",
+        "naked triples",
+        "xy wing",
+        "skyscraper"
+      ],
+      "quotes": [
+        "Clarity and Simplicity in Thought: SPEAK ONLY WHEN NEEDED"
+      ]
+    },
+    {
+      "id": 544,
+      "difficulty": "easy",
+      "strategies": [
+        "naked singles"
+      ],
+      "quotes": [
+        "Clarity and Simplicity in Thought: MAKE YOUR WORDS CLEAR AND CLEAN"
+      ]
+    },
+    {
+      "id": 545,
+      "difficulty": "medium",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "naked pairs",
+        "hidden pairs",
+        "naked triples",
+        "hidden triples"
+      ],
+      "quotes": [
+        "Clarity and Simplicity in Thought: SEE THROUGH COMPLEXITY TO TRUTH"
+      ]
+    },
+    {
+      "id": 546,
+      "difficulty": "hard",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "pointing pairs",
+        "xy wing",
+        "skyscraper"
+      ],
+      "quotes": [
+        "Clarity and Simplicity in Thought: FOCUS ON ONE IDEA AT A TIME"
+      ]
+    },
+    {
+      "id": 547,
+      "difficulty": "easy",
+      "strategies": [
+        "naked singles"
+      ],
+      "quotes": [
+        "Clarity and Simplicity in Thought: SIMPLIFY YOUR PLANS AND INTENTIONS"
+      ]
+    },
+    {
+      "id": 548,
+      "difficulty": "medium",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "naked pairs",
+        "hidden pairs"
+      ],
+      "quotes": [
+        "Clarity and Simplicity in Thought: REDUCE TO WHAT IS ESSENTIAL"
+      ]
+    },
+    {
+      "id": 549,
+      "difficulty": "hard",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "naked pairs",
+        "hidden pairs",
+        "pointing pairs",
+        "swordfish",
+        "skyscraper"
+      ],
+      "quotes": [
+        "Clarity and Simplicity in Thought: CLARITY IS BORN OF STILLNESS"
+      ]
+    },
+    {
+      "id": 550,
+      "difficulty": "easy",
+      "strategies": [
+        "naked singles"
+      ],
+      "quotes": [
+        "Clarity and Simplicity in Thought: LET YOUR MIND BE LIKE CLEAR WATER"
+      ]
+    },
+    {
+      "id": 551,
+      "difficulty": "medium",
+      "strategies": [
+        "hidden singles",
+        "naked singles",
+        "naked pairs",
+        "pointing pairs",
+        "naked triples",
+        "hidden triples"
+      ],
+      "quotes": [
+        "Time and Rhythm: MOVE WITH NATURAL RHYTHMS"
+      ]
+    },
+    {
+      "id": 552,
+      "difficulty": "hard",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "skyscraper",
+        "xy wing"
+      ],
+      "quotes": [
+        "Time and Rhythm: KNOW THE RIGHT TIME TO ACT"
+      ]
+    },
+    {
+      "id": 553,
+      "difficulty": "easy",
+      "strategies": [
+        "naked singles"
+      ],
+      "quotes": [
+        "Time and Rhythm: DO NOT RUSH YOUR DESTINY"
+      ]
+    },
+    {
+      "id": 554,
+      "difficulty": "medium",
+      "strategies": [
+        "hidden singles",
+        "naked singles",
+        "naked pairs",
+        "pointing pairs",
+        "naked triples",
+        "hidden triples"
+      ],
+      "quotes": [
+        "Time and Rhythm: PRACTISE WITH DAILY CONSISTENCY"
+      ]
+    },
+    {
+      "id": 555,
+      "difficulty": "hard",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "naked pairs",
+        "pointing pairs",
+        "xy wing",
+        "skyscraper"
+      ],
+      "quotes": [
+        "Time and Rhythm: FIND FLOW IN REPETITION"
+      ]
+    },
+    {
+      "id": 556,
+      "difficulty": "easy",
+      "strategies": [
+        "naked singles"
+      ],
+      "quotes": [
+        "Time and Rhythm: RESTORE BALANCE THROUGH ROUTINE"
+      ]
+    },
+    {
+      "id": 557,
+      "difficulty": "medium",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "pointing pairs",
+        "hidden triples",
+        "hidden pairs",
+        "naked triples"
+      ],
+      "quotes": [
+        "Time and Rhythm: ADJUST TO THE PACE OF OTHERS"
+      ]
+    },
+    {
+      "id": 558,
+      "difficulty": "hard",
+      "strategies": [
+        "hidden singles",
+        "hidden pairs",
+        "naked singles",
+        "naked pairs",
+        "pointing pairs",
+        "xy wing",
+        "skyscraper"
+      ],
+      "quotes": [
+        "Time and Rhythm: SYNCHRONISE MIND AND MOVEMENT"
+      ]
+    },
+    {
+      "id": 559,
+      "difficulty": "easy",
+      "strategies": [
+        "naked singles"
+      ],
+      "quotes": [
+        "Time and Rhythm: DO NOT FIGHT THE CLOCK"
+      ]
+    },
+    {
+      "id": 560,
+      "difficulty": "medium",
+      "strategies": [
+        "hidden singles",
+        "naked pairs",
+        "hidden pairs",
+        "pointing pairs",
+        "hidden triples",
+        "naked singles"
+      ],
+      "quotes": [
+        "Time and Rhythm: HONOUR TIME AS A TEACHER"
+      ]
+    },
+    {
+      "id": 561,
+      "difficulty": "hard",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "naked pairs",
+        "xy wing",
+        "skyscraper"
+      ],
+      "quotes": [
+        "Silence and Listening: FIND WISDOM IN SILENCE"
+      ]
+    },
+    {
+      "id": 562,
+      "difficulty": "easy",
+      "strategies": [
+        "naked singles"
+      ],
+      "quotes": [
+        "Silence and Listening: LISTEN MORE THAN YOU SPEAK"
+      ]
+    },
+    {
+      "id": 563,
+      "difficulty": "medium",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "naked pairs",
+        "hidden pairs",
+        "naked triples",
+        "hidden triples"
+      ],
+      "quotes": [
+        "Silence and Listening: HEAR WITHOUT NEEDING TO ANSWER"
+      ]
+    },
+    {
+      "id": 564,
+      "difficulty": "hard",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "hidden pairs",
+        "x wing",
+        "xy wing",
+        "skyscraper"
+      ],
+      "quotes": [
+        "Silence and Listening: RESPECT THE PAUSE BETWEEN WORDS"
+      ]
+    },
+    {
+      "id": 565,
+      "difficulty": "easy",
+      "strategies": [
+        "naked singles",
+        "hidden singles"
+      ],
+      "quotes": [
+        "Silence and Listening: GIVE FULL ATTENTION TO OTHERS"
+      ]
+    },
+    {
+      "id": 566,
+      "difficulty": "medium",
+      "strategies": [
+        "hidden singles",
+        "naked singles",
+        "naked pairs",
+        "hidden pairs",
+        "pointing pairs",
+        "hidden triples"
+      ],
+      "quotes": [
+        "Silence and Listening: REFLECT BEFORE YOU REPLY"
+      ]
+    },
+    {
+      "id": 567,
+      "difficulty": "hard",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "pointing pairs",
+        "x wing",
+        "skyscraper",
+        "xy wing"
+      ],
+      "quotes": [
+        "Silence and Listening: SPEAK ONLY WHAT ADDS VALUE"
+      ]
+    },
+    {
+      "id": 568,
+      "difficulty": "easy",
+      "strategies": [
+        "naked singles",
+        "hidden singles"
+      ],
+      "quotes": [
+        "Silence and Listening: SILENCE IS STRONGER THAN NOISE"
+      ]
+    },
+    {
+      "id": 569,
+      "difficulty": "medium",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "naked pairs",
+        "hidden pairs",
+        "pointing pairs",
+        "hidden triples"
+      ],
+      "quotes": [
+        "Silence and Listening: BE COMFORTABLE IN QUIET SPACES"
+      ]
+    },
+    {
+      "id": 570,
+      "difficulty": "hard",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "pointing pairs",
+        "hidden pairs",
+        "xy wing",
+        "skyscraper",
+        "swordfish"
+      ],
+      "quotes": [
+        "Silence and Listening: LISTEN TO YOUR INNER VOICE"
+      ]
+    },
+    {
+      "id": 571,
+      "difficulty": "easy",
+      "strategies": [
+        "naked singles"
+      ],
+      "quotes": [
+        "Order and Cleanliness: KEEP YOUR SPACE TIDY ALWAYS"
+      ]
+    },
+    {
+      "id": 572,
+      "difficulty": "medium",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "naked pairs",
+        "hidden pairs",
+        "pointing pairs",
+        "naked triples",
+        "hidden triples"
+      ],
+      "quotes": [
+        "Order and Cleanliness: ORGANISE YOUR TOOLS DAILY"
+      ]
+    },
+    {
+      "id": 573,
+      "difficulty": "hard",
+      "strategies": [
+        "hidden singles",
+        "naked singles",
+        "pointing pairs",
+        "skyscraper",
+        "hidden pairs"
+      ],
+      "quotes": [
+        "Order and Cleanliness: MAKE TIME FOR CLEANING MINDFULLY"
+      ]
+    },
+    {
+      "id": 574,
+      "difficulty": "easy",
+      "strategies": [
+        "naked singles"
+      ],
+      "quotes": [
+        "Order and Cleanliness: RETURN EVERYTHING TO ITS PLACE"
+      ]
+    },
+    {
+      "id": 575,
+      "difficulty": "medium",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "pointing pairs",
+        "naked triples",
+        "hidden triples"
+      ],
+      "quotes": [
+        "Order and Cleanliness: REMOVE WHAT YOU DO NOT NEED"
+      ]
+    },
+    {
+      "id": 576,
+      "difficulty": "hard",
+      "strategies": [
+        "hidden singles",
+        "naked singles",
+        "naked pairs",
+        "skyscraper",
+        "xy wing"
+      ],
+      "quotes": [
+        "Order and Cleanliness: CLEANLINESS REFLECTS SELF-RESPECT"
+      ]
+    },
+    {
+      "id": 577,
+      "difficulty": "easy",
+      "strategies": [
+        "naked singles"
+      ],
+      "quotes": [
+        "Order and Cleanliness: ORDER CREATES INNER PEACE"
+      ]
+    },
+    {
+      "id": 578,
+      "difficulty": "medium",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "naked pairs",
+        "pointing pairs"
+      ],
+      "quotes": [
+        "Order and Cleanliness: CULTIVATE SIMPLICITY THROUGH ORDER"
+      ]
+    },
+    {
+      "id": 579,
+      "difficulty": "hard",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "hidden pairs",
+        "pointing pairs",
+        "xy wing",
+        "skyscraper"
+      ],
+      "quotes": [
+        "Order and Cleanliness: CARE FOR BELONGINGS WITH PRIDE"
+      ]
+    },
+    {
+      "id": 580,
+      "difficulty": "easy",
+      "strategies": [
+        "naked singles"
+      ],
+      "quotes": [
+        "Order and Cleanliness: BEGIN AND END EACH DAY CLEAN"
+      ]
+    },
+    {
+      "id": 581,
+      "difficulty": "medium",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "naked pairs",
+        "hidden pairs",
+        "pointing pairs"
+      ],
+      "quotes": [
+        "Trust and Faith: TRUST YOUR INNER COMPASS"
+      ]
+    },
+    {
+      "id": 582,
+      "difficulty": "hard",
+      "strategies": [
+        "hidden singles",
+        "naked pairs",
+        "pointing pairs",
+        "hidden triples",
+        "x wing",
+        "skyscraper",
+        "naked singles",
+        "naked triples"
+      ],
+      "quotes": [
+        "Trust and Faith: HAVE FAITH IN THE UNSEEN"
+      ]
+    },
+    {
+      "id": 583,
+      "difficulty": "easy",
+      "strategies": [
+        "naked singles",
+        "hidden singles"
+      ],
+      "quotes": [
+        "Trust and Faith: BELIEVE IN OTHERS' GOOD INTENT"
+      ]
+    },
+    {
+      "id": 584,
+      "difficulty": "medium",
+      "strategies": [
+        "hidden singles",
+        "naked singles",
+        "naked pairs",
+        "hidden pairs",
+        "pointing pairs",
+        "hidden triples"
+      ],
+      "quotes": [
+        "Trust and Faith: ACT WITH CONFIDENCE NOT DOUBT"
+      ]
+    },
+    {
+      "id": 585,
+      "difficulty": "hard",
+      "strategies": [
+        "hidden singles",
+        "naked singles",
+        "x wing",
+        "swordfish",
+        "xy wing",
+        "skyscraper"
+      ],
+      "quotes": [
+        "Trust and Faith: RELY ON YOUR TRAINING FULLY"
+      ]
+    },
+    {
+      "id": 586,
+      "difficulty": "easy",
+      "strategies": [
+        "naked singles"
+      ],
+      "quotes": [
+        "Trust and Faith: LET GO AND TRUST THE FLOW"
+      ]
+    },
+    {
+      "id": 587,
+      "difficulty": "medium",
+      "strategies": [
+        "hidden singles",
+        "naked pairs",
+        "hidden pairs",
+        "naked triples",
+        "hidden triples",
+        "naked singles"
+      ],
+      "quotes": [
+        "Trust and Faith: REMAIN CALM IN UNKNOWN TERRITORY"
+      ]
+    },
+    {
+      "id": 588,
+      "difficulty": "hard",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "pointing pairs",
+        "skyscraper"
+      ],
+      "quotes": [
+        "Trust and Faith: BE STEADY IN BELIEF"
+      ]
+    },
+    {
+      "id": 589,
+      "difficulty": "easy",
+      "strategies": [
+        "naked singles"
+      ],
+      "quotes": [
+        "Trust and Faith: CULTIVATE TRUST THROUGH ACTION"
+      ]
+    },
+    {
+      "id": 590,
+      "difficulty": "medium",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "pointing pairs"
+      ],
+      "quotes": [
+        "Trust and Faith: FAITH GROWS THROUGH EXPERIENCE"
+      ]
+    },
+    {
+      "id": 591,
+      "difficulty": "hard",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "swordfish",
+        "xy wing",
+        "skyscraper"
+      ],
+      "quotes": [
+        "Joy in Effort: ENJOY THE WORK ITSELF"
+      ]
+    },
+    {
+      "id": 592,
+      "difficulty": "easy",
+      "strategies": [
+        "naked singles"
+      ],
+      "quotes": [
+        "Joy in Effort: FIND PLEASURE IN SMALL TASKS"
+      ]
+    },
+    {
+      "id": 593,
+      "difficulty": "medium",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "naked pairs",
+        "hidden pairs",
+        "pointing pairs",
+        "hidden triples"
+      ],
+      "quotes": [
+        "Joy in Effort: TAKE PRIDE IN DAILY EFFORT"
+      ]
+    },
+    {
+      "id": 594,
+      "difficulty": "hard",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "naked pairs",
+        "x wing",
+        "skyscraper"
+      ],
+      "quotes": [
+        "Joy in Effort: SAVOUR THE STRUGGLE FOR GROWTH"
+      ]
+    },
+    {
+      "id": 595,
+      "difficulty": "easy",
+      "strategies": [
+        "naked singles"
+      ],
+      "quotes": [
+        "Joy in Effort: SMILE THROUGH HARD MOMENTS"
+      ]
+    },
+    {
+      "id": 596,
+      "difficulty": "medium",
+      "strategies": [
+        "hidden singles",
+        "hidden pairs",
+        "pointing pairs",
+        "naked triples",
+        "hidden triples",
+        "naked singles"
+      ],
+      "quotes": [
+        "Joy in Effort: SEE PROGRESS IN EVERY STEP"
+      ]
+    },
+    {
+      "id": 597,
+      "difficulty": "hard",
+      "strategies": [
+        "hidden singles",
+        "pointing pairs",
+        "xy wing",
+        "skyscraper",
+        "naked singles"
+      ],
+      "quotes": [
+        "Joy in Effort: LOVE THE PROCESS MORE THAN THE PRIZE"
+      ]
+    },
+    {
+      "id": 598,
+      "difficulty": "easy",
+      "strategies": [
+        "naked singles"
+      ],
+      "quotes": [
+        "Joy in Effort: MAKE WORK AN EXPRESSION OF SPIRIT"
+      ]
+    },
+    {
+      "id": 599,
+      "difficulty": "medium",
+      "strategies": [
+        "naked singles",
+        "hidden singles",
+        "naked pairs",
+        "pointing pairs",
+        "naked triples",
+        "hidden triples"
+      ],
+      "quotes": [
+        "Joy in Effort: LET JOY RISE IN MOTION"
+      ]
+    },
+    {
+      "id": 600,
+      "difficulty": "hard",
+      "strategies": [
+        "hidden singles",
+        "hidden pairs",
+        "naked singles",
+        "pointing pairs",
+        "xy wing",
+        "skyscraper",
+        "naked pairs",
+        "swordfish"
+      ],
+      "quotes": [
+        "Joy in Effort: EFFORT IS A GIFT TO YOURSELF"
+      ]
+    }
+  ]
+}
