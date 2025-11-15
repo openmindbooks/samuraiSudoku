@@ -1,0 +1,117 @@
+{
+  "id": 371,
+  "difficulty": "medium",
+  "puzzle": [
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      7,
+      3,
+      2,
+      0
+    ],
+    [
+      3,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      9,
+      0
+    ],
+    [
+      7,
+      0,
+      8,
+      3,
+      0,
+      6,
+      5,
+      0,
+      1
+    ],
+    [
+      0,
+      0,
+      6,
+      0,
+      0,
+      3,
+      2,
+      0,
+      4
+    ],
+    [
+      0,
+      0,
+      0,
+      8,
+      6,
+      9,
+      7,
+      1,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      3,
+      0,
+      0,
+      8,
+      0,
+      0,
+      9
+    ],
+    [
+      5,
+      7,
+      0,
+      2,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  ],
+  "strategies": [
+    "naked singles",
+    "hidden singles",
+    "naked pairs",
+    "hidden pairs",
+    "pointing pairs",
+    "naked triples",
+    "hidden triples"
+  ],
+  "quotes": [
+    "Order and Cleanliness: KEEP YOUR SPACE TIDY ALWAYS"
+  ]
+}
