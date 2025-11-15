@@ -1,0 +1,117 @@
+{
+  "id": 531,
+  "difficulty": "hard",
+  "puzzle": [
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      4,
+      0,
+      7
+    ],
+    [
+      0,
+      0,
+      0,
+      3,
+      4,
+      7,
+      0,
+      0,
+      0
+    ],
+    [
+      3,
+      0,
+      0,
+      2,
+      9,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      5,
+      0,
+      0,
+      2,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      4,
+      0,
+      0,
+      8,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      9,
+      0,
+      0,
+      0,
+      0,
+      6,
+      0
+    ],
+    [
+      0,
+      8,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      6,
+      0,
+      0,
+      5,
+      2,
+      3,
+      7,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      2,
+      0,
+      0,
+      8,
+      6,
+      0,
+      1
+    ]
+  ],
+  "strategies": [
+    "naked singles",
+    "hidden singles",
+    "naked pairs",
+    "hidden pairs",
+    "pointing pairs",
+    "xy wing",
+    "skyscraper"
+  ],
+  "quotes": [
+    "Forgiveness and Letting Go: FORGIVE EVEN WHEN NOT ASKED"
+  ]
+}
