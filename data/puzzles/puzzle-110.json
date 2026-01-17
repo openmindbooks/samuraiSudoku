@@ -1,0 +1,116 @@
+{
+  "id": 110,
+  "difficulty": "medium",
+  "puzzle": [
+    [
+      0,
+      0,
+      8,
+      6,
+      0,
+      7,
+      3,
+      0,
+      2
+    ],
+    [
+      3,
+      4,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      4,
+      7
+    ],
+    [
+      9,
+      3,
+      4,
+      7,
+      0,
+      0,
+      0,
+      0,
+      8
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      3
+    ],
+    [
+      1,
+      2,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      2,
+      0,
+      0,
+      6,
+      0,
+      8,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      2,
+      5,
+      0,
+      0,
+      0,
+      6
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      7,
+      8,
+      2,
+      0,
+      0
+    ]
+  ],
+  "strategies": [
+    "naked singles",
+    "hidden singles",
+    "naked pairs",
+    "pointing pairs",
+    "naked triples",
+    "hidden triples"
+  ],
+  "quotes": [
+    "Resilience and Endurance: MOVE FORWARD ONE STEP AT A TIME"
+  ]
+}

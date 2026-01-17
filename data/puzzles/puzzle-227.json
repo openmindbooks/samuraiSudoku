@@ -1,0 +1,117 @@
+{
+  "id": 227,
+  "difficulty": "medium",
+  "puzzle": [
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      4,
+      8,
+      0,
+      6
+    ],
+    [
+      5,
+      8,
+      2,
+      1,
+      0,
+      0,
+      7,
+      0,
+      0
+    ],
+    [
+      6,
+      0,
+      0,
+      0,
+      2,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      7,
+      2
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      6,
+      3,
+      0
+    ],
+    [
+      4,
+      0,
+      0,
+      7,
+      0,
+      0,
+      0,
+      0,
+      9
+    ],
+    [
+      9,
+      3,
+      7,
+      0,
+      0,
+      1,
+      0,
+      6,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      4,
+      0,
+      0,
+      0,
+      7
+    ],
+    [
+      0,
+      0,
+      6,
+      0,
+      0,
+      0,
+      9,
+      8,
+      0
+    ]
+  ],
+  "strategies": [
+    "hidden singles",
+    "naked singles",
+    "naked pairs",
+    "hidden pairs",
+    "pointing pairs",
+    "naked triples",
+    "hidden triples"
+  ],
+  "quotes": [
+    "Kindness and Compassion: CHOOSE UNDERSTANDING OVER JUDGEMENT"
+  ]
+}

@@ -1,0 +1,64 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <!-- Prevent caching of the index page -->
+    <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate" />
+    <meta http-equiv="Pragma" content="no-cache" />
+    <meta http-equiv="Expires" content="0" />
+    <title>Summorai Sudoku</title>
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Summorai Sudoku" />
+    <meta property="og:description" content="Play and share your Sudoku results. How fast can you solve it?" />
+    <meta property="og:url" content="https://openmindbooks.github.io/samuraiSudoku/play" />
+    <link rel="icon" type="image/x-icon" sizes="any" href="/samuraiSudoku/docs/logo.ico" />
+    <link rel="shortcut icon" type="image/x-icon" href="/samuraiSudoku/docs/logo.ico" />
+    <link rel="icon" type="image/jpeg" href="/samuraiSudoku/docs/logo.jpg" />
+    <link rel="apple-touch-icon" href="/samuraiSudoku/docs/logo.jpg" />
+    <link rel="preload" href="/samuraiSudoku/assets/numbers/1.svg" as="image" type="image/svg+xml" />
+    <link rel="preload" href="/samuraiSudoku/assets/numbers/2.svg" as="image" type="image/svg+xml" />
+    <link rel="preload" href="/samuraiSudoku/assets/numbers/3.svg" as="image" type="image/svg+xml" />
+    <link rel="preload" href="/samuraiSudoku/assets/numbers/4.svg" as="image" type="image/svg+xml" />
+    <link rel="preload" href="/samuraiSudoku/assets/numbers/5.svg" as="image" type="image/svg+xml" />
+    <link rel="preload" href="/samuraiSudoku/assets/numbers/6.svg" as="image" type="image/svg+xml" />
+    <link rel="preload" href="/samuraiSudoku/assets/numbers/7.svg" as="image" type="image/svg+xml" />
+    <link rel="preload" href="/samuraiSudoku/assets/numbers/8.svg" as="image" type="image/svg+xml" />
+    <link rel="preload" href="/samuraiSudoku/assets/numbers/9.svg" as="image" type="image/svg+xml" />
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-8VZ0ZT8NRV"></script>
+    
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag() { dataLayer.push(arguments); }
+      
+      gtag('js', new Date());
+      gtag('config', 'G-8VZ0ZT8NRV', {
+        storage: 'none',               // disables cookies entirely
+        anonymize_ip: true,            // hides IP addresses
+        allow_google_signals: false,   // prevents cross-site linking
+        allow_enhanced_measurement: false,
+        send_page_view: false          // manual control of page tracking
+      });
+    </script>
+    <script type="module" crossorigin src="/samuraiSudoku/assets/index-D8bisaId.js"></script>
+    <link rel="modulepreload" crossorigin href="/samuraiSudoku/assets/vendor-react-BWIdPPIU.js">
+    <link rel="modulepreload" crossorigin href="/samuraiSudoku/assets/vendor-router-C972P0gS.js">
+    <link rel="modulepreload" crossorigin href="/samuraiSudoku/assets/vendor-other-DzItJgT-.js">
+    <link rel="stylesheet" crossorigin href="/samuraiSudoku/assets/index-BabkMNE5.css">
+  
+    <script>
+      // GitHub Pages SPA redirect handling
+      // Captures the URL path and redirects to index.html with path as query parameter
+      (function() {
+        var redirect = sessionStorage.redirect;
+        delete sessionStorage.redirect;
+        if (redirect && redirect !== location.href) {
+          history.replaceState(null, null, redirect);
+        }
+      })();
+    </script>
+  </head>
+  <body>
+    <div id="root"></div>
+  </body>
+</html>
