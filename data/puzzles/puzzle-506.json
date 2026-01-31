@@ -1,0 +1,116 @@
+{
+  "id": 506,
+  "difficulty": "medium",
+  "puzzle": [
+    [
+      4,
+      1,
+      0,
+      0,
+      0,
+      9,
+      7,
+      0,
+      2
+    ],
+    [
+      8,
+      0,
+      0,
+      0,
+      0,
+      0,
+      4,
+      1,
+      0
+    ],
+    [
+      2,
+      0,
+      7,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      7,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      5
+    ],
+    [
+      0,
+      2,
+      0,
+      3,
+      7,
+      1,
+      0,
+      4,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      2,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      6,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      4,
+      2,
+      5,
+      8,
+      0
+    ],
+    [
+      9,
+      5,
+      0,
+      0,
+      0,
+      7,
+      0,
+      0,
+      0
+    ]
+  ],
+  "strategies": [
+    "naked singles",
+    "hidden singles",
+    "hidden pairs",
+    "pointing pairs",
+    "naked triples",
+    "hidden triples"
+  ],
+  "quotes": [
+    "Resilience and Endurance: LET YOUR RESOLVE BE UNBREAKABLE"
+  ]
+}

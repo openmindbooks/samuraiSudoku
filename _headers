@@ -1,0 +1,36 @@
+# Cache control for static assets
+# This file is used by Netlify, Vercel, and similar platforms
+# GitHub Pages does not support _headers, but this provides future compatibility
+
+# Banner ad images - cache for 1 day (86400 seconds) - bug-6
+/docs/bannerAd.jpg
+  Cache-Control: public, max-age=86400, must-revalidate
+/docs/bannerAd1.jpg
+  Cache-Control: public, max-age=86400, must-revalidate
+/docs/bannerAd2.jpg
+  Cache-Control: public, max-age=86400, must-revalidate
+/docs/bannerAd3.jpg
+  Cache-Control: public, max-age=86400, must-revalidate
+/docs/bannerAd4.jpg
+  Cache-Control: public, max-age=86400, must-revalidate
+/docs/bannerAd5.jpg
+  Cache-Control: public, max-age=86400, must-revalidate
+
+# Other docs - cache for 1 day
+/docs/*
+  Cache-Control: public, max-age=86400, must-revalidate
+
+# Data files - cache for 1 hour to allow quick updates
+/data/*
+  Cache-Control: public, max-age=3600, must-revalidate
+
+# JS and CSS - cache for 1 year (they have hashed filenames)
+/assets/*.js
+  Cache-Control: public, max-age=31536000, immutable
+
+/assets/*.css
+  Cache-Control: public, max-age=31536000, immutable
+
+# HTML - no cache (always get fresh)
+/*.html
+  Cache-Control: no-cache, no-store, must-revalidate
