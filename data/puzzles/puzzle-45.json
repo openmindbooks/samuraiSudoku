@@ -1,0 +1,118 @@
+{
+  "id": 45,
+  "difficulty": "hard",
+  "puzzle": [
+    [
+      8,
+      0,
+      0,
+      4,
+      0,
+      3,
+      0,
+      0,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      9,
+      5,
+      0,
+      0,
+      6,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      7,
+      0,
+      5
+    ],
+    [
+      4,
+      0,
+      9,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      9,
+      8,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      6
+    ],
+    [
+      0,
+      5,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      2,
+      7,
+      0,
+      0,
+      6,
+      0,
+      0,
+      4
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      2,
+      0,
+      3,
+      1,
+      0
+    ]
+  ],
+  "strategies": [
+    "naked singles",
+    "hidden singles",
+    "naked pairs",
+    "hidden pairs",
+    "pointing pairs",
+    "x wing",
+    "swordfish",
+    "skyscraper"
+  ],
+  "quotes": [
+    "Integrity and Truth: DO NOT TWIST WORDS FOR GAIN"
+  ]
+}
