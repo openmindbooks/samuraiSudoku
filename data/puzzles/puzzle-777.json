@@ -1,0 +1,122 @@
+{
+  "id": 777,
+  "difficulty": "hard",
+  "puzzle": [
+    [
+      0,
+      9,
+      0,
+      0,
+      3,
+      0,
+      0,
+      0,
+      6
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      0,
+      2,
+      0,
+      9,
+      0
+    ],
+    [
+      0,
+      3,
+      6,
+      9,
+      0,
+      1,
+      0,
+      7,
+      0
+    ],
+    [
+      1,
+      0,
+      0,
+      0,
+      4,
+      0,
+      0,
+      5,
+      0
+    ],
+    [
+      0,
+      0,
+      5,
+      0,
+      0,
+      0,
+      3,
+      0,
+      0
+    ],
+    [
+      0,
+      7,
+      0,
+      0,
+      8,
+      0,
+      0,
+      0,
+      2
+    ],
+    [
+      0,
+      1,
+      0,
+      7,
+      0,
+      8,
+      6,
+      3,
+      0
+    ],
+    [
+      0,
+      2,
+      0,
+      5,
+      0,
+      0,
+      9,
+      0,
+      0
+    ],
+    [
+      6,
+      0,
+      0,
+      0,
+      9,
+      0,
+      0,
+      2,
+      0
+    ]
+  ],
+  "strategies": [
+    "naked singles",
+    "hidden singles",
+    "pointing pairs",
+    "box line reduction",
+    "finned x wing",
+    "als xz",
+    "naked pairs",
+    "nishio forcing chains",
+    "hidden pairs",
+    "xy wing",
+    "xyz wing",
+    "xy chain"
+  ],
+  "quotes": [
+    "Order and Cleanliness: LEAVE NO TASK HALF UNDONE"
+  ]
+}

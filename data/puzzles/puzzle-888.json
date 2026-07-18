@@ -1,0 +1,121 @@
+{
+  "id": 888,
+  "difficulty": "hard",
+  "puzzle": [
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      8,
+      1,
+      0,
+      9,
+      0,
+      5,
+      0,
+      0,
+      0
+    ],
+    [
+      5,
+      0,
+      9,
+      3,
+      7,
+      0,
+      0,
+      0,
+      8
+    ],
+    [
+      0,
+      0,
+      7,
+      2,
+      0,
+      0,
+      0,
+      8,
+      0
+    ],
+    [
+      0,
+      8,
+      0,
+      0,
+      4,
+      0,
+      0,
+      9,
+      0
+    ],
+    [
+      0,
+      9,
+      0,
+      0,
+      0,
+      7,
+      6,
+      0,
+      0
+    ],
+    [
+      2,
+      0,
+      0,
+      0,
+      8,
+      3,
+      7,
+      0,
+      9
+    ],
+    [
+      0,
+      0,
+      0,
+      7,
+      0,
+      1,
+      0,
+      2,
+      3
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  ],
+  "strategies": [
+    "naked singles",
+    "hidden singles",
+    "pointing pairs",
+    "simple colouring",
+    "nishio forcing chains",
+    "als xz",
+    "x cycle",
+    "box line reduction",
+    "finned swordfish",
+    "hidden pairs",
+    "xy chain"
+  ],
+  "quotes": [
+    "Joy and Lightness: SHARE THE GLADNESS YOU FIND"
+  ]
+}

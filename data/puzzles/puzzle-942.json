@@ -1,0 +1,121 @@
+{
+  "id": 942,
+  "difficulty": "hard",
+  "puzzle": [
+    [
+      0,
+      0,
+      0,
+      9,
+      0,
+      0,
+      0,
+      0,
+      2
+    ],
+    [
+      0,
+      2,
+      0,
+      4,
+      0,
+      0,
+      0,
+      0,
+      6
+    ],
+    [
+      0,
+      5,
+      0,
+      0,
+      0,
+      2,
+      1,
+      3,
+      0
+    ],
+    [
+      0,
+      8,
+      6,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      2,
+      0,
+      0,
+      5,
+      0,
+      1,
+      0,
+      0,
+      3
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      2,
+      6,
+      0
+    ],
+    [
+      0,
+      4,
+      3,
+      1,
+      0,
+      0,
+      0,
+      9,
+      0
+    ],
+    [
+      7,
+      0,
+      0,
+      0,
+      0,
+      4,
+      0,
+      5,
+      0
+    ],
+    [
+      1,
+      0,
+      0,
+      0,
+      0,
+      7,
+      0,
+      0,
+      0
+    ]
+  ],
+  "strategies": [
+    "hidden singles",
+    "naked pairs",
+    "naked singles",
+    "pointing pairs",
+    "box line reduction",
+    "x cycle",
+    "nishio forcing chains",
+    "hidden pairs",
+    "finned x wing",
+    "xy wing",
+    "xy chain"
+  ],
+  "quotes": [
+    "Clarity and Simplicity in Thought: NAME THE PROBLEM EXACTLY"
+  ]
+}

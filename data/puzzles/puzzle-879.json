@@ -1,0 +1,120 @@
+{
+  "id": 879,
+  "difficulty": "hard",
+  "puzzle": [
+    [
+      0,
+      9,
+      0,
+      3,
+      0,
+      0,
+      0,
+      7,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      9,
+      0,
+      6,
+      8,
+      0
+    ],
+    [
+      5,
+      0,
+      0,
+      0,
+      0,
+      6,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      2,
+      0,
+      0,
+      0,
+      0,
+      3,
+      4
+    ],
+    [
+      1,
+      0,
+      0,
+      0,
+      7,
+      0,
+      0,
+      0,
+      5
+    ],
+    [
+      3,
+      8,
+      0,
+      0,
+      0,
+      0,
+      9,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      5,
+      0,
+      0,
+      0,
+      0,
+      8
+    ],
+    [
+      0,
+      2,
+      1,
+      0,
+      8,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      3,
+      0,
+      0,
+      0,
+      1,
+      0,
+      4,
+      0
+    ]
+  ],
+  "strategies": [
+    "hidden singles",
+    "pointing pairs",
+    "box line reduction",
+    "als xz",
+    "x cycle",
+    "nishio forcing chains",
+    "naked pairs",
+    "naked singles",
+    "xyz wing",
+    "xy chain"
+  ],
+  "quotes": [
+    "Creativity and Expression: PLAY BEFORE YOU PERFECT"
+  ]
+}

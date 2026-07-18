@@ -1,0 +1,119 @@
+{
+  "id": 827,
+  "difficulty": "medium",
+  "puzzle": [
+    [
+      0,
+      0,
+      7,
+      6,
+      0,
+      0,
+      5,
+      0,
+      2
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      4
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      8,
+      7,
+      9,
+      3
+    ],
+    [
+      0,
+      0,
+      6,
+      2,
+      0,
+      0,
+      0,
+      0,
+      9
+    ],
+    [
+      9,
+      0,
+      0,
+      3,
+      7,
+      5,
+      0,
+      0,
+      6
+    ],
+    [
+      5,
+      0,
+      0,
+      0,
+      0,
+      9,
+      3,
+      0,
+      0
+    ],
+    [
+      8,
+      2,
+      1,
+      5,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      6,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      7,
+      0,
+      9,
+      0,
+      0,
+      6,
+      1,
+      0,
+      0
+    ]
+  ],
+  "strategies": [
+    "naked singles",
+    "hidden singles",
+    "naked pairs",
+    "box line reduction",
+    "pointing pairs",
+    "x wing",
+    "simple colouring",
+    "hidden pairs",
+    "xy chain"
+  ],
+  "quotes": [
+    "Kindness and Compassion: BE GENTLE WITH YOUR OWN MISTAKES"
+  ]
+}

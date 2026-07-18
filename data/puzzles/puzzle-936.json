@@ -1,0 +1,124 @@
+{
+  "id": 936,
+  "difficulty": "hard",
+  "puzzle": [
+    [
+      6,
+      1,
+      9,
+      0,
+      0,
+      0,
+      5,
+      4,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      5,
+      9,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      4,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      2,
+      0,
+      0,
+      7,
+      0,
+      0,
+      4
+    ],
+    [
+      9,
+      0,
+      1,
+      0,
+      3,
+      0,
+      7,
+      0,
+      6
+    ],
+    [
+      5,
+      0,
+      0,
+      2,
+      0,
+      0,
+      3,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      2,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      8,
+      4,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      9,
+      7,
+      0,
+      0,
+      0,
+      4,
+      8,
+      3
+    ]
+  ],
+  "strategies": [
+    "hidden singles",
+    "naked pairs",
+    "pointing pairs",
+    "box line reduction",
+    "xy wing",
+    "finned x wing",
+    "als xz",
+    "x cycle",
+    "nishio forcing chains",
+    "naked singles",
+    "xy chain",
+    "finned swordfish",
+    "xyz wing",
+    "x wing"
+  ],
+  "quotes": [
+    "Forgiveness and Letting Go: MAKE PEACE WITH WHAT ENDED"
+  ]
+}

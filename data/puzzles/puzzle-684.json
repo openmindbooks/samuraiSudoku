@@ -1,0 +1,121 @@
+{
+  "id": 684,
+  "difficulty": "hard",
+  "puzzle": [
+    [
+      0,
+      1,
+      6,
+      0,
+      0,
+      9,
+      7,
+      0,
+      8
+    ],
+    [
+      0,
+      0,
+      8,
+      0,
+      6,
+      7,
+      0,
+      0,
+      0
+    ],
+    [
+      4,
+      0,
+      0,
+      8,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      7,
+      0,
+      0,
+      0,
+      3,
+      0,
+      0,
+      6,
+      0
+    ],
+    [
+      8,
+      0,
+      4,
+      0,
+      0,
+      0,
+      1,
+      0,
+      3
+    ],
+    [
+      0,
+      3,
+      0,
+      0,
+      8,
+      0,
+      0,
+      0,
+      7
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      8,
+      0,
+      0,
+      2
+    ],
+    [
+      0,
+      0,
+      0,
+      9,
+      5,
+      0,
+      6,
+      0,
+      0
+    ],
+    [
+      9,
+      0,
+      5,
+      2,
+      0,
+      0,
+      3,
+      8,
+      0
+    ]
+  ],
+  "strategies": [
+    "hidden singles",
+    "naked pairs",
+    "naked singles",
+    "pointing pairs",
+    "x wing",
+    "finned x wing",
+    "nishio forcing chains",
+    "hidden pairs",
+    "als xz",
+    "xy wing",
+    "simple colouring"
+  ],
+  "quotes": [
+    "Joy and Lightness: LET GOOD NEWS TRAVEL THROUGH YOU"
+  ]
+}

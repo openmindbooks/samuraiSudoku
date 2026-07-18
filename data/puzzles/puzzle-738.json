@@ -1,0 +1,119 @@
+{
+  "id": 738,
+  "difficulty": "hard",
+  "puzzle": [
+    [
+      9,
+      0,
+      0,
+      0,
+      1,
+      8,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      6,
+      3,
+      9,
+      0,
+      0
+    ],
+    [
+      6,
+      3,
+      0,
+      0,
+      0,
+      7,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      7,
+      0,
+      0,
+      0,
+      0,
+      2,
+      9,
+      0
+    ],
+    [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      3
+    ],
+    [
+      0,
+      4,
+      2,
+      0,
+      0,
+      0,
+      0,
+      7,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      3,
+      0,
+      0,
+      0,
+      2,
+      9
+    ],
+    [
+      0,
+      0,
+      9,
+      7,
+      2,
+      0,
+      5,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      6,
+      5,
+      0,
+      0,
+      0,
+      8
+    ]
+  ],
+  "strategies": [
+    "hidden singles",
+    "naked pairs",
+    "pointing pairs",
+    "als xz",
+    "box line reduction",
+    "nishio forcing chains",
+    "naked singles",
+    "xyz wing",
+    "simple colouring"
+  ],
+  "quotes": [
+    "Forgiveness and Letting Go: FORGIVE YOURSELF FIRST"
+  ]
+}

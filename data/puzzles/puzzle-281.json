@@ -1,0 +1,117 @@
+{
+  "id": 281,
+  "difficulty": "medium",
+  "puzzle": [
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      4,
+      0,
+      3
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      5,
+      8
+    ],
+    [
+      6,
+      4,
+      3,
+      0,
+      8,
+      0,
+      0,
+      0,
+      1
+    ],
+    [
+      0,
+      5,
+      2,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      7,
+      0,
+      8,
+      0,
+      0,
+      0,
+      6,
+      9,
+      0
+    ],
+    [
+      0,
+      6,
+      0,
+      0,
+      7,
+      5,
+      1,
+      0,
+      2
+    ],
+    [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      3,
+      0,
+      9,
+      0,
+      0,
+      0,
+      0,
+      7
+    ],
+    [
+      0,
+      0,
+      0,
+      4,
+      0,
+      1,
+      5,
+      0,
+      9
+    ]
+  ],
+  "strategies": [
+    "naked singles",
+    "hidden singles",
+    "naked pairs",
+    "pointing pairs",
+    "naked triples",
+    "hidden triples",
+    "hidden pairs"
+  ],
+  "quotes": [
+    "Joy and Lightness: SMILE FREELY WITHOUT REASON"
+  ]
+}

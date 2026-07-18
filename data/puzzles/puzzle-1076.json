@@ -1,0 +1,117 @@
+{
+  "id": 1076,
+  "difficulty": "medium",
+  "puzzle": [
+    [
+      0,
+      0,
+      9,
+      0,
+      0,
+      6,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      8,
+      0,
+      0,
+      7,
+      0,
+      0,
+      9,
+      0
+    ],
+    [
+      3,
+      1,
+      0,
+      0,
+      0,
+      0,
+      4,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      4,
+      0,
+      0,
+      5,
+      0,
+      0,
+      2
+    ],
+    [
+      5,
+      0,
+      1,
+      0,
+      8,
+      0,
+      7,
+      0,
+      4
+    ],
+    [
+      8,
+      0,
+      0,
+      6,
+      0,
+      0,
+      9,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      8,
+      0,
+      0,
+      0,
+      0,
+      7,
+      1
+    ],
+    [
+      0,
+      9,
+      0,
+      0,
+      4,
+      0,
+      0,
+      5,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      5,
+      0,
+      0,
+      2,
+      0,
+      0
+    ]
+  ],
+  "strategies": [
+    "hidden singles",
+    "pointing pairs",
+    "naked singles",
+    "box line reduction",
+    "x wing",
+    "xy wing",
+    "naked pairs"
+  ],
+  "quotes": [
+    "Creativity and Expression: KEEP THE FIRST SPARK ALIVE"
+  ]
+}

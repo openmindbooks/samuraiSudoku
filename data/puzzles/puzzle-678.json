@@ -1,0 +1,122 @@
+{
+  "id": 678,
+  "difficulty": "hard",
+  "puzzle": [
+    [
+      0,
+      6,
+      3,
+      0,
+      0,
+      7,
+      0,
+      0,
+      2
+    ],
+    [
+      8,
+      0,
+      0,
+      0,
+      2,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      6,
+      0,
+      1,
+      7,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      7,
+      0,
+      0,
+      1,
+      9,
+      0
+    ],
+    [
+      7,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      6
+    ],
+    [
+      0,
+      1,
+      4,
+      0,
+      0,
+      9,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      9,
+      5,
+      0,
+      3,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      9,
+      0,
+      0,
+      0,
+      5
+    ],
+    [
+      5,
+      0,
+      0,
+      1,
+      0,
+      0,
+      6,
+      2,
+      0
+    ]
+  ],
+  "strategies": [
+    "hidden singles",
+    "pointing pairs",
+    "box line reduction",
+    "x wing",
+    "naked pairs",
+    "finned swordfish",
+    "nishio forcing chains",
+    "als xz",
+    "naked singles",
+    "hidden pairs",
+    "xy wing",
+    "xy chain"
+  ],
+  "quotes": [
+    "Creativity and Expression: SHOW THE WORK NOT THE POLISH"
+  ]
+}

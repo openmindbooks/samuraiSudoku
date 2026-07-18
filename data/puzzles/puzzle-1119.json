@@ -1,0 +1,123 @@
+{
+  "id": 1119,
+  "difficulty": "hard",
+  "puzzle": [
+    [
+      2,
+      0,
+      0,
+      0,
+      8,
+      9,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      8,
+      0,
+      0,
+      6,
+      0,
+      7,
+      9,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      8
+    ],
+    [
+      0,
+      0,
+      3,
+      0,
+      0,
+      7,
+      0,
+      0,
+      4
+    ],
+    [
+      0,
+      0,
+      0,
+      3,
+      0,
+      5,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      0,
+      0,
+      6,
+      0,
+      0,
+      2,
+      0,
+      0
+    ],
+    [
+      6,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      2,
+      0
+    ],
+    [
+      0,
+      4,
+      7,
+      0,
+      3,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      8,
+      7,
+      0,
+      0,
+      0,
+      9
+    ]
+  ],
+  "strategies": [
+    "hidden singles",
+    "pointing pairs",
+    "hidden triples",
+    "xyz wing",
+    "finned x wing",
+    "nishio forcing chains",
+    "naked singles",
+    "naked pairs",
+    "box line reduction",
+    "xy chain",
+    "als xz",
+    "naked triples",
+    "xy wing"
+  ],
+  "quotes": [
+    "Leadership and Influence: KEEP YOUR CALM IN THE STORM"
+  ]
+}

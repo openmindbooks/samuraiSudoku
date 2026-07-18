@@ -1,0 +1,119 @@
+{
+  "id": 618,
+  "difficulty": "hard",
+  "puzzle": [
+    [
+      1,
+      7,
+      0,
+      0,
+      0,
+      8,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      4,
+      6
+    ],
+    [
+      5,
+      0,
+      9,
+      4,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      7,
+      0,
+      0,
+      5,
+      0,
+      0,
+      2
+    ],
+    [
+      0,
+      2,
+      0,
+      6,
+      4,
+      1,
+      0,
+      5,
+      0
+    ],
+    [
+      4,
+      0,
+      0,
+      7,
+      0,
+      0,
+      8,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      4,
+      3,
+      0,
+      5
+    ],
+    [
+      9,
+      4,
+      0,
+      0,
+      5,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      8,
+      4
+    ]
+  ],
+  "strategies": [
+    "hidden singles",
+    "naked pairs",
+    "naked singles",
+    "pointing pairs",
+    "x wing",
+    "finned x wing",
+    "als xz",
+    "xy chain",
+    "xy wing"
+  ],
+  "quotes": [
+    "Gratitude and Simplicity: LET GO OF WHAT WEIGHS NOTHING"
+  ]
+}
