@@ -1,0 +1,124 @@
+{
+  "id": 1155,
+  "difficulty": "hard",
+  "puzzle": [
+    [
+      0,
+      0,
+      0,
+      4,
+      3,
+      0,
+      0,
+      0,
+      9
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      7,
+      0,
+      2,
+      3,
+      0
+    ],
+    [
+      0,
+      3,
+      0,
+      0,
+      0,
+      5,
+      0,
+      0,
+      0
+    ],
+    [
+      7,
+      5,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      4
+    ],
+    [
+      0,
+      0,
+      6,
+      0,
+      0,
+      0,
+      5,
+      0,
+      0
+    ],
+    [
+      1,
+      0,
+      0,
+      0,
+      0,
+      8,
+      0,
+      9,
+      6
+    ],
+    [
+      0,
+      0,
+      0,
+      3,
+      0,
+      0,
+      0,
+      8,
+      0
+    ],
+    [
+      0,
+      6,
+      7,
+      0,
+      8,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      4,
+      0,
+      0,
+      0,
+      9,
+      7,
+      0,
+      0,
+      0
+    ]
+  ],
+  "strategies": [
+    "naked singles",
+    "hidden singles",
+    "pointing pairs",
+    "x cycle",
+    "finned x wing",
+    "finned swordfish",
+    "nishio forcing chains",
+    "box line reduction",
+    "naked pairs",
+    "x wing",
+    "als xz",
+    "hidden pairs",
+    "xy chain",
+    "xy wing"
+  ],
+  "quotes": [
+    "Time and Rhythm: LET THE PAUSE DO ITS WORK"
+  ]
+}

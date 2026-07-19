@@ -1,0 +1,120 @@
+{
+  "id": 635,
+  "difficulty": "medium",
+  "puzzle": [
+    [
+      0,
+      0,
+      4,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      9,
+      0,
+      0,
+      7,
+      0,
+      0,
+      0,
+      6
+    ],
+    [
+      3,
+      0,
+      0,
+      0,
+      2,
+      0,
+      0,
+      5,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      9,
+      8,
+      0,
+      4,
+      0,
+      5
+    ],
+    [
+      0,
+      0,
+      3,
+      7,
+      0,
+      2,
+      8,
+      0,
+      0
+    ],
+    [
+      5,
+      0,
+      9,
+      0,
+      1,
+      3,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      2,
+      0,
+      0,
+      6,
+      0,
+      0,
+      0,
+      7
+    ],
+    [
+      9,
+      0,
+      0,
+      0,
+      4,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      5,
+      0,
+      0
+    ]
+  ],
+  "strategies": [
+    "naked singles",
+    "hidden singles",
+    "naked pairs",
+    "hidden pairs",
+    "box line reduction",
+    "x wing",
+    "simple colouring",
+    "naked triples",
+    "pointing pairs",
+    "nishio forcing chains"
+  ],
+  "quotes": [
+    "Community and Service: BUILD WHAT OUTLASTS YOU"
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "id": 945,
+  "difficulty": "hard",
+  "puzzle": [
+    [
+      5,
+      0,
+      1,
+      0,
+      0,
+      0,
+      8,
+      0,
+      0
+    ],
+    [
+      4,
+      0,
+      0,
+      0,
+      6,
+      9,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      9,
+      0,
+      1,
+      0,
+      0,
+      2,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      6,
+      0,
+      0,
+      7,
+      0,
+      8,
+      0
+    ],
+    [
+      7,
+      0,
+      0,
+      8,
+      3,
+      1,
+      0,
+      0,
+      2
+    ],
+    [
+      0,
+      8,
+      0,
+      6,
+      0,
+      0,
+      5,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      2,
+      0,
+      0,
+      6,
+      0,
+      5,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      7,
+      4,
+      0,
+      0,
+      0,
+      8
+    ],
+    [
+      0,
+      0,
+      4,
+      0,
+      0,
+      0,
+      7,
+      0,
+      3
+    ]
+  ],
+  "strategies": [
+    "hidden singles",
+    "pointing pairs",
+    "box line reduction",
+    "als xz",
+    "hidden pairs",
+    "nishio forcing chains",
+    "naked singles",
+    "naked pairs"
+  ],
+  "quotes": [
+    "Clarity and Simplicity in Thought: WRITE IT DOWN AND SEE IT"
+  ]
+}

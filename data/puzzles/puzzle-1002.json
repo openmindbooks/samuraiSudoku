@@ -1,0 +1,118 @@
+{
+  "id": 1002,
+  "difficulty": "hard",
+  "puzzle": [
+    [
+      0,
+      0,
+      7,
+      6,
+      2,
+      5,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      6,
+      1,
+      0,
+      0,
+      8,
+      0,
+      0
+    ],
+    [
+      1,
+      5,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      9,
+      3,
+      0,
+      5,
+      0,
+      0,
+      0,
+      0,
+      2
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      8,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      5,
+      0,
+      0,
+      0,
+      0,
+      7,
+      0,
+      8,
+      9
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      4,
+      7
+    ],
+    [
+      0,
+      0,
+      9,
+      0,
+      0,
+      3,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      4,
+      5,
+      1,
+      6,
+      0,
+      0
+    ]
+  ],
+  "strategies": [
+    "hidden singles",
+    "pointing pairs",
+    "box line reduction",
+    "x cycle",
+    "als xz",
+    "nishio forcing chains",
+    "naked triples",
+    "naked singles"
+  ],
+  "quotes": [
+    "Balance and Harmony: LET EFFORT AND EASE TAKE TURNS"
+  ]
+}

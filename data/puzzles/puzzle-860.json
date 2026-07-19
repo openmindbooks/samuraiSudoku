@@ -1,0 +1,118 @@
+{
+  "id": 860,
+  "difficulty": "medium",
+  "puzzle": [
+    [
+      5,
+      0,
+      0,
+      0,
+      0,
+      0,
+      4,
+      0,
+      2
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      9,
+      0,
+      5,
+      0,
+      0
+    ],
+    [
+      4,
+      3,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      3,
+      0,
+      7,
+      0,
+      0,
+      1
+    ],
+    [
+      0,
+      4,
+      0,
+      1,
+      0,
+      8,
+      0,
+      9,
+      0
+    ],
+    [
+      7,
+      0,
+      0,
+      2,
+      0,
+      9,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      7,
+      0,
+      0,
+      0,
+      0,
+      5,
+      8
+    ],
+    [
+      0,
+      0,
+      6,
+      0,
+      1,
+      0,
+      9,
+      0,
+      0
+    ],
+    [
+      3,
+      0,
+      4,
+      0,
+      0,
+      0,
+      0,
+      0,
+      7
+    ]
+  ],
+  "strategies": [
+    "hidden singles",
+    "pointing pairs",
+    "xy wing",
+    "als xz",
+    "naked singles",
+    "nishio forcing chains",
+    "hidden pairs",
+    "xy chain"
+  ],
+  "quotes": [
+    "Growth and Curiosity: GROW WHERE YOU ARE PLANTED"
+  ]
+}
