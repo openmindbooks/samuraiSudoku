@@ -1,0 +1,121 @@
+{
+  "id": 1122,
+  "difficulty": "hard",
+  "puzzle": [
+    [
+      8,
+      0,
+      3,
+      0,
+      2,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      5,
+      6,
+      0,
+      0,
+      0,
+      8,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      4,
+      0,
+      3,
+      8
+    ],
+    [
+      0,
+      7,
+      0,
+      0,
+      4,
+      5,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      9,
+      0,
+      0,
+      0,
+      4,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      8,
+      3,
+      0,
+      0,
+      2,
+      0
+    ],
+    [
+      6,
+      8,
+      0,
+      4,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      2,
+      0,
+      0,
+      0,
+      7,
+      9
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      7,
+      0,
+      8,
+      0,
+      4
+    ]
+  ],
+  "strategies": [
+    "hidden singles",
+    "pointing pairs",
+    "finned x wing",
+    "box line reduction",
+    "finned swordfish",
+    "als xz",
+    "nishio forcing chains",
+    "naked singles",
+    "naked pairs",
+    "xy chain",
+    "unique rectangle"
+  ],
+  "quotes": [
+    "Mindfulness and Awareness: BREATHE BEFORE YOU ANSWER"
+  ]
+}

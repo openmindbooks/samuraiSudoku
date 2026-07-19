@@ -1,0 +1,119 @@
+{
+  "id": 1049,
+  "difficulty": "medium",
+  "puzzle": [
+    [
+      0,
+      7,
+      2,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      5,
+      3,
+      0,
+      6,
+      7,
+      8,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      0,
+      0,
+      0,
+      2,
+      4,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      8,
+      0,
+      0,
+      5,
+      0,
+      0,
+      9
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      5,
+      0
+    ],
+    [
+      9,
+      0,
+      0,
+      4,
+      0,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      3,
+      8,
+      0,
+      0,
+      0,
+      4
+    ],
+    [
+      0,
+      0,
+      0,
+      7,
+      4,
+      9,
+      0,
+      6,
+      8
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      9,
+      7,
+      0
+    ]
+  ],
+  "strategies": [
+    "hidden singles",
+    "pointing pairs",
+    "naked quads",
+    "naked singles",
+    "nishio forcing chains",
+    "box line reduction",
+    "naked pairs",
+    "xy chain",
+    "als xz"
+  ],
+  "quotes": [
+    "Integrity and Truth: OWN THE PART THAT IS YOURS"
+  ]
+}

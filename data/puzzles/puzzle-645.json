@@ -1,0 +1,121 @@
+{
+  "id": 645,
+  "difficulty": "hard",
+  "puzzle": [
+    [
+      5,
+      0,
+      2,
+      0,
+      6,
+      0,
+      3,
+      4,
+      0
+    ],
+    [
+      0,
+      0,
+      4,
+      3,
+      0,
+      0,
+      1,
+      0,
+      8
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      2,
+      0,
+      0,
+      0,
+      3,
+      8,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      6,
+      0,
+      1,
+      0,
+      5,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      6,
+      9,
+      0,
+      0,
+      0,
+      2
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      5,
+      0
+    ],
+    [
+      8,
+      0,
+      5,
+      0,
+      0,
+      6,
+      4,
+      0,
+      0
+    ],
+    [
+      0,
+      9,
+      3,
+      0,
+      4,
+      0,
+      8,
+      0,
+      7
+    ]
+  ],
+  "strategies": [
+    "naked singles",
+    "hidden singles",
+    "naked pairs",
+    "pointing pairs",
+    "swordfish",
+    "finned x wing",
+    "box line reduction",
+    "als xz",
+    "hidden pairs",
+    "finned swordfish",
+    "nishio forcing chains"
+  ],
+  "quotes": [
+    "Integrity and Truth: LET YOUR WORD NEED NO PROOF"
+  ]
+}

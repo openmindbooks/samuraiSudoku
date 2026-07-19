@@ -1,0 +1,120 @@
+{
+  "id": 717,
+  "difficulty": "hard",
+  "puzzle": [
+    [
+      6,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      8,
+      2
+    ],
+    [
+      7,
+      0,
+      5,
+      8,
+      0,
+      0,
+      6,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      7,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      8,
+      5,
+      0,
+      0
+    ],
+    [
+      0,
+      5,
+      0,
+      0,
+      0,
+      0,
+      0,
+      3,
+      0
+    ],
+    [
+      0,
+      0,
+      3,
+      9,
+      7,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      6,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      7,
+      0,
+      0,
+      3,
+      1,
+      0,
+      8
+    ],
+    [
+      8,
+      4,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      9
+    ]
+  ],
+  "strategies": [
+    "hidden singles",
+    "naked pairs",
+    "pointing pairs",
+    "als xz",
+    "xy chain",
+    "finned x wing",
+    "finned swordfish",
+    "unique rectangle",
+    "nishio forcing chains",
+    "naked singles"
+  ],
+  "quotes": [
+    "Leadership and Influence: POWER IS BORROWED NOT OWNED"
+  ]
+}

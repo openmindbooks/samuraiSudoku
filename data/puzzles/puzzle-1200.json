@@ -1,0 +1,120 @@
+{
+  "id": 1200,
+  "difficulty": "hard",
+  "puzzle": [
+    [
+      7,
+      1,
+      0,
+      0,
+      0,
+      8,
+      0,
+      0,
+      6
+    ],
+    [
+      2,
+      0,
+      4,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      6,
+      0,
+      3,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      3,
+      9,
+      5,
+      7,
+      0,
+      2,
+      0,
+      0
+    ],
+    [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      7
+    ],
+    [
+      0,
+      0,
+      7,
+      0,
+      1,
+      2,
+      4,
+      3,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      9,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      4
+    ],
+    [
+      8,
+      0,
+      0,
+      4,
+      0,
+      0,
+      0,
+      7,
+      5
+    ]
+  ],
+  "strategies": [
+    "hidden singles",
+    "naked pairs",
+    "naked singles",
+    "pointing pairs",
+    "hidden triples",
+    "als xz",
+    "nishio forcing chains",
+    "x cycle",
+    "simple colouring",
+    "xy chain"
+  ],
+  "quotes": [
+    "Joy in Effort: FINISH AND FEEL THE GLADNESS"
+  ]
+}

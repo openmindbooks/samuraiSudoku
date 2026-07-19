@@ -1,0 +1,122 @@
+{
+  "id": 816,
+  "difficulty": "hard",
+  "puzzle": [
+    [
+      4,
+      0,
+      0,
+      1,
+      0,
+      0,
+      6,
+      0,
+      3
+    ],
+    [
+      0,
+      0,
+      5,
+      0,
+      2,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      0,
+      3,
+      0,
+      9,
+      0
+    ],
+    [
+      9,
+      0,
+      4,
+      0,
+      7,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      4,
+      0,
+      2
+    ],
+    [
+      0,
+      3,
+      0,
+      2,
+      0,
+      0,
+      0,
+      7,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      8,
+      0,
+      5,
+      0,
+      0
+    ],
+    [
+      8,
+      0,
+      6,
+      0,
+      0,
+      7,
+      0,
+      0,
+      4
+    ]
+  ],
+  "strategies": [
+    "hidden singles",
+    "hidden pairs",
+    "naked pairs",
+    "pointing pairs",
+    "box line reduction",
+    "naked triples",
+    "x cycle",
+    "finned swordfish",
+    "als xz",
+    "nishio forcing chains",
+    "xy chain",
+    "naked singles"
+  ],
+  "quotes": [
+    "Gratitude and Simplicity: SMALL GIFTS DESERVE FULL THANKS"
+  ]
+}

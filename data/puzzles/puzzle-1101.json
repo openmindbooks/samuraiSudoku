@@ -1,0 +1,119 @@
+{
+  "id": 1101,
+  "difficulty": "hard",
+  "puzzle": [
+    [
+      4,
+      5,
+      0,
+      0,
+      0,
+      9,
+      0,
+      0,
+      0
+    ],
+    [
+      7,
+      0,
+      0,
+      0,
+      0,
+      0,
+      6,
+      0,
+      4
+    ],
+    [
+      0,
+      2,
+      0,
+      0,
+      4,
+      0,
+      0,
+      9,
+      0
+    ],
+    [
+      3,
+      0,
+      8,
+      0,
+      0,
+      6,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      6,
+      0,
+      0,
+      0,
+      0,
+      0,
+      8,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      3,
+      0,
+      6
+    ],
+    [
+      0,
+      9,
+      0,
+      0,
+      2,
+      0,
+      0,
+      3,
+      0
+    ],
+    [
+      1,
+      0,
+      4,
+      0,
+      0,
+      0,
+      0,
+      0,
+      7
+    ],
+    [
+      0,
+      0,
+      0,
+      3,
+      0,
+      0,
+      0,
+      1,
+      9
+    ]
+  ],
+  "strategies": [
+    "hidden singles",
+    "pointing pairs",
+    "box line reduction",
+    "nishio forcing chains",
+    "naked pairs",
+    "naked triples",
+    "als xz",
+    "unique rectangle",
+    "naked singles"
+  ],
+  "quotes": [
+    "Resilience and Endurance: BEND SO YOU DO NOT BREAK"
+  ]
+}
