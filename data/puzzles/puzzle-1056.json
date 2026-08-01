@@ -1,0 +1,119 @@
+{
+  "id": 1056,
+  "difficulty": "hard",
+  "puzzle": [
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      7,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      2,
+      0,
+      0,
+      1,
+      0,
+      0,
+      9
+    ],
+    [
+      9,
+      0,
+      8,
+      0,
+      0,
+      3,
+      6,
+      4,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      6,
+      9,
+      0,
+      0,
+      0,
+      5
+    ],
+    [
+      0,
+      0,
+      1,
+      3,
+      0,
+      5,
+      2,
+      0,
+      0
+    ],
+    [
+      6,
+      0,
+      0,
+      0,
+      1,
+      2,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      4,
+      9,
+      8,
+      0,
+      0,
+      1,
+      0,
+      2
+    ],
+    [
+      8,
+      0,
+      0,
+      1,
+      0,
+      0,
+      3,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      7,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  ],
+  "strategies": [
+    "naked singles",
+    "hidden singles",
+    "pointing pairs",
+    "naked pairs",
+    "x cycle",
+    "nishio forcing chains",
+    "hidden triples",
+    "als xz",
+    "xy wing"
+  ],
+  "quotes": [
+    "Growth and Curiosity: STRETCH JUST PAST YOUR REACH"
+  ]
+}

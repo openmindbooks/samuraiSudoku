@@ -1,0 +1,118 @@
+{
+  "id": 983,
+  "difficulty": "medium",
+  "puzzle": [
+    [
+      0,
+      0,
+      0,
+      0,
+      7,
+      0,
+      0,
+      2,
+      0
+    ],
+    [
+      6,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      3,
+      2,
+      0,
+      0,
+      4,
+      5,
+      0,
+      0
+    ],
+    [
+      0,
+      9,
+      1,
+      0,
+      2,
+      3,
+      0,
+      0,
+      7
+    ],
+    [
+      0,
+      6,
+      7,
+      4,
+      0,
+      9,
+      2,
+      3,
+      0
+    ],
+    [
+      3,
+      0,
+      0,
+      8,
+      1,
+      0,
+      9,
+      6,
+      0
+    ],
+    [
+      0,
+      0,
+      6,
+      2,
+      0,
+      0,
+      3,
+      8,
+      0
+    ],
+    [
+      0,
+      0,
+      3,
+      0,
+      0,
+      0,
+      0,
+      0,
+      9
+    ],
+    [
+      0,
+      8,
+      0,
+      0,
+      3,
+      0,
+      0,
+      0,
+      0
+    ]
+  ],
+  "strategies": [
+    "naked singles",
+    "hidden singles",
+    "naked pairs",
+    "hidden pairs",
+    "box line reduction",
+    "simple colouring",
+    "als xz",
+    "x cycle"
+  ],
+  "quotes": [
+    "Trust and Faith: GIVE TRUST BEFORE IT IS EARNED"
+  ]
+}

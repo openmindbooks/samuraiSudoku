@@ -1,0 +1,123 @@
+{
+  "id": 807,
+  "difficulty": "hard",
+  "puzzle": [
+    [
+      9,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      6,
+      0,
+      4,
+      0,
+      1,
+      0,
+      3,
+      0
+    ],
+    [
+      0,
+      5,
+      0,
+      0,
+      9,
+      0,
+      2,
+      0,
+      0
+    ],
+    [
+      0,
+      8,
+      2,
+      0,
+      0,
+      3,
+      4,
+      0,
+      0
+    ],
+    [
+      3,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      9
+    ],
+    [
+      0,
+      0,
+      5,
+      6,
+      0,
+      0,
+      3,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      9,
+      0,
+      4,
+      0,
+      0,
+      6,
+      0
+    ],
+    [
+      0,
+      3,
+      0,
+      5,
+      0,
+      8,
+      0,
+      9,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      5,
+      0,
+      3
+    ]
+  ],
+  "strategies": [
+    "hidden singles",
+    "pointing pairs",
+    "xyz wing",
+    "x cycle",
+    "finned swordfish",
+    "nishio forcing chains",
+    "naked pairs",
+    "finned x wing",
+    "naked singles",
+    "x wing",
+    "hidden pairs",
+    "xy wing",
+    "simple colouring"
+  ],
+  "quotes": [
+    "Balance and Harmony: MAKE ROOM FOR WHAT OPPOSES YOU"
+  ]
+}

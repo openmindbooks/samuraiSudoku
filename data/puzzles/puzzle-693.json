@@ -1,0 +1,121 @@
+{
+  "id": 693,
+  "difficulty": "hard",
+  "puzzle": [
+    [
+      8,
+      0,
+      0,
+      0,
+      0,
+      0,
+      7,
+      0,
+      4
+    ],
+    [
+      0,
+      0,
+      2,
+      0,
+      1,
+      0,
+      0,
+      8,
+      0
+    ],
+    [
+      0,
+      4,
+      0,
+      8,
+      0,
+      0,
+      0,
+      0,
+      6
+    ],
+    [
+      0,
+      0,
+      3,
+      0,
+      0,
+      5,
+      0,
+      7,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      6,
+      0,
+      3,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      5,
+      0,
+      4,
+      0,
+      0,
+      2,
+      0,
+      0
+    ],
+    [
+      2,
+      0,
+      0,
+      0,
+      0,
+      8,
+      0,
+      3,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      3,
+      0,
+      9,
+      0,
+      0
+    ],
+    [
+      3,
+      0,
+      9,
+      0,
+      0,
+      0,
+      0,
+      0,
+      2
+    ]
+  ],
+  "strategies": [
+    "hidden singles",
+    "naked singles",
+    "naked pairs",
+    "pointing pairs",
+    "nishio forcing chains",
+    "finned x wing",
+    "xy wing",
+    "xy chain",
+    "als xz",
+    "box line reduction",
+    "xyz wing"
+  ],
+  "quotes": [
+    "Environment and Nature: LEAVE THE WILD PLACES WILD"
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "id": 1125,
+  "difficulty": "hard",
+  "puzzle": [
+    [
+      0,
+      0,
+      0,
+      0,
+      8,
+      0,
+      0,
+      0,
+      6
+    ],
+    [
+      0,
+      0,
+      3,
+      0,
+      0,
+      0,
+      2,
+      7,
+      4
+    ],
+    [
+      1,
+      0,
+      0,
+      4,
+      0,
+      0,
+      0,
+      3,
+      0
+    ],
+    [
+      0,
+      0,
+      9,
+      3,
+      0,
+      0,
+      0,
+      8,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      2,
+      0,
+      5,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      0,
+      8,
+      4,
+      0,
+      0
+    ],
+    [
+      0,
+      6,
+      0,
+      0,
+      0,
+      4,
+      0,
+      0,
+      9
+    ],
+    [
+      3,
+      9,
+      8,
+      0,
+      0,
+      0,
+      5,
+      0,
+      0
+    ],
+    [
+      7,
+      0,
+      0,
+      0,
+      5,
+      0,
+      0,
+      0,
+      0
+    ]
+  ],
+  "strategies": [
+    "hidden singles",
+    "hidden pairs",
+    "pointing pairs",
+    "xyz wing",
+    "box line reduction",
+    "xy chain",
+    "simple colouring",
+    "x wing",
+    "als xz",
+    "naked singles",
+    "naked pairs"
+  ],
+  "quotes": [
+    "Mindfulness and Awareness: WATCH THE THOUGHT WITHOUT OBEYING"
+  ]
+}

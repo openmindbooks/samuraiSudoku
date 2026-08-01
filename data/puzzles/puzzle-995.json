@@ -1,0 +1,120 @@
+{
+  "id": 995,
+  "difficulty": "medium",
+  "puzzle": [
+    [
+      0,
+      0,
+      7,
+      9,
+      0,
+      2,
+      0,
+      0,
+      0
+    ],
+    [
+      8,
+      0,
+      0,
+      0,
+      0,
+      4,
+      0,
+      0,
+      1
+    ],
+    [
+      5,
+      9,
+      0,
+      0,
+      0,
+      7,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      9,
+      0,
+      0,
+      0,
+      0,
+      8,
+      6
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      3,
+      6,
+      0,
+      0,
+      0,
+      0,
+      5,
+      4,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      2,
+      0,
+      0,
+      0,
+      3,
+      7
+    ],
+    [
+      9,
+      0,
+      0,
+      6,
+      0,
+      0,
+      0,
+      0,
+      4
+    ],
+    [
+      0,
+      0,
+      0,
+      7,
+      0,
+      1,
+      2,
+      0,
+      0
+    ]
+  ],
+  "strategies": [
+    "hidden singles",
+    "naked singles",
+    "naked pairs",
+    "hidden pairs",
+    "pointing pairs",
+    "box line reduction",
+    "xy wing",
+    "finned x wing",
+    "als xz",
+    "nishio forcing chains"
+  ],
+  "quotes": [
+    "Joy in Effort: TAKE PRIDE IN UNSEEN WORK"
+  ]
+}
