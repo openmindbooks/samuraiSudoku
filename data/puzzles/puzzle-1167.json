@@ -1,0 +1,120 @@
+{
+  "id": 1167,
+  "difficulty": "hard",
+  "puzzle": [
+    [
+      6,
+      8,
+      0,
+      0,
+      0,
+      7,
+      2,
+      0,
+      0
+    ],
+    [
+      5,
+      1,
+      0,
+      0,
+      0,
+      0,
+      3,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      4,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      8,
+      5,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      2,
+      0,
+      0,
+      0,
+      0,
+      0,
+      5,
+      0
+    ],
+    [
+      0,
+      0,
+      5,
+      9,
+      3,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      6,
+      9,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      8,
+      0,
+      0,
+      0,
+      0,
+      3,
+      2
+    ],
+    [
+      0,
+      0,
+      7,
+      3,
+      0,
+      0,
+      0,
+      4,
+      1
+    ]
+  ],
+  "strategies": [
+    "hidden singles",
+    "pointing pairs",
+    "box line reduction",
+    "simple colouring",
+    "als xz",
+    "nishio forcing chains",
+    "naked singles",
+    "naked pairs",
+    "hidden pairs",
+    "naked triples"
+  ],
+  "quotes": [
+    "Silence and Listening: THE STILL MIND HEARS FURTHEST"
+  ]
+}

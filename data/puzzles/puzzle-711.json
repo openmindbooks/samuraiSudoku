@@ -1,0 +1,122 @@
+{
+  "id": 711,
+  "difficulty": "hard",
+  "puzzle": [
+    [
+      9,
+      0,
+      0,
+      4,
+      0,
+      0,
+      0,
+      0,
+      5
+    ],
+    [
+      0,
+      4,
+      1,
+      0,
+      8,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      8,
+      0,
+      6,
+      3,
+      0,
+      0,
+      0
+    ],
+    [
+      6,
+      9,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      3
+    ],
+    [
+      0,
+      5,
+      3,
+      0,
+      0,
+      0,
+      8,
+      4,
+      0
+    ],
+    [
+      8,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      7,
+      6
+    ],
+    [
+      0,
+      0,
+      0,
+      8,
+      9,
+      0,
+      7,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      3,
+      0,
+      6,
+      1,
+      0
+    ],
+    [
+      4,
+      0,
+      0,
+      0,
+      0,
+      7,
+      0,
+      0,
+      8
+    ]
+  ],
+  "strategies": [
+    "hidden singles",
+    "pointing pairs",
+    "box line reduction",
+    "nishio forcing chains",
+    "hidden triples",
+    "xyz wing",
+    "xy wing",
+    "naked singles",
+    "hidden pairs",
+    "finned x wing",
+    "als xz",
+    "xy chain"
+  ],
+  "quotes": [
+    "Leadership and Influence: GO FIRST WHERE IT IS HARD"
+  ]
+}

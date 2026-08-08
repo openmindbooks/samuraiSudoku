@@ -1,0 +1,122 @@
+{
+  "id": 1104,
+  "difficulty": "hard",
+  "puzzle": [
+    [
+      1,
+      3,
+      0,
+      4,
+      0,
+      2,
+      0,
+      0,
+      5
+    ],
+    [
+      0,
+      0,
+      5,
+      0,
+      0,
+      8,
+      1,
+      2,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      6,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      0,
+      5,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      8,
+      4,
+      7,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      3,
+      0,
+      0,
+      0,
+      5,
+      0
+    ],
+    [
+      0,
+      9,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      4,
+      3,
+      5,
+      0,
+      0,
+      2,
+      0,
+      0
+    ],
+    [
+      8,
+      0,
+      0,
+      2,
+      0,
+      1,
+      0,
+      9,
+      4
+    ]
+  ],
+  "strategies": [
+    "hidden singles",
+    "box line reduction",
+    "x wing",
+    "x cycle",
+    "als xz",
+    "nishio forcing chains",
+    "pointing pairs",
+    "simple colouring",
+    "naked pairs",
+    "xy chain",
+    "xy wing",
+    "naked singles"
+  ],
+  "quotes": [
+    "Resilience and Endurance: REST IS PART OF THE CLIMB"
+  ]
+}

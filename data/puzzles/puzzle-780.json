@@ -1,0 +1,123 @@
+{
+  "id": 780,
+  "difficulty": "hard",
+  "puzzle": [
+    [
+      0,
+      0,
+      4,
+      0,
+      0,
+      9,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      9,
+      0,
+      0,
+      3,
+      0,
+      6,
+      0,
+      0
+    ],
+    [
+      2,
+      0,
+      0,
+      5,
+      0,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      8,
+      0,
+      0,
+      1,
+      0,
+      0,
+      4,
+      0,
+      2
+    ],
+    [
+      0,
+      6,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      1,
+      0,
+      3,
+      0,
+      0,
+      2,
+      0,
+      0,
+      6
+    ],
+    [
+      0,
+      0,
+      5,
+      0,
+      0,
+      7,
+      0,
+      0,
+      4
+    ],
+    [
+      0,
+      0,
+      7,
+      0,
+      5,
+      0,
+      0,
+      8,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      4,
+      0,
+      0,
+      9,
+      0,
+      0
+    ]
+  ],
+  "strategies": [
+    "naked singles",
+    "naked pairs",
+    "x wing",
+    "nishio forcing chains",
+    "xyz wing",
+    "hidden singles",
+    "finned swordfish",
+    "als xz",
+    "pointing pairs",
+    "xy chain",
+    "hidden pairs",
+    "finned x wing",
+    "xy wing"
+  ],
+  "quotes": [
+    "Order and Cleanliness: CARE SHOWS IN THE DETAILS"
+  ]
+}

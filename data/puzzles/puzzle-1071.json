@@ -1,0 +1,121 @@
+{
+  "id": 1071,
+  "difficulty": "hard",
+  "puzzle": [
+    [
+      5,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      2,
+      0
+    ],
+    [
+      0,
+      1,
+      6,
+      0,
+      0,
+      8,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      3,
+      0,
+      6,
+      9,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      2,
+      0,
+      0,
+      0,
+      0,
+      6,
+      5
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      8,
+      5,
+      0,
+      0,
+      0,
+      0,
+      3,
+      0,
+      0
+    ],
+    [
+      0,
+      7,
+      0,
+      1,
+      5,
+      0,
+      4,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      9,
+      0,
+      0,
+      7,
+      3,
+      0
+    ],
+    [
+      0,
+      9,
+      0,
+      7,
+      0,
+      0,
+      0,
+      0,
+      2
+    ]
+  ],
+  "strategies": [
+    "naked singles",
+    "hidden singles",
+    "pointing pairs",
+    "hidden pairs",
+    "naked pairs",
+    "simple colouring",
+    "als xz",
+    "nishio forcing chains",
+    "box line reduction",
+    "xy wing",
+    "xyz wing"
+  ],
+  "quotes": [
+    "Creativity and Expression: BEGIN BEFORE YOU FEEL READY"
+  ]
+}

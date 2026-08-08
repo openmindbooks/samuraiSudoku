@@ -1,0 +1,123 @@
+{
+  "id": 906,
+  "difficulty": "hard",
+  "puzzle": [
+    [
+      4,
+      0,
+      0,
+      0,
+      6,
+      0,
+      0,
+      0,
+      8
+    ],
+    [
+      0,
+      0,
+      1,
+      3,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      8,
+      0,
+      0,
+      0,
+      7,
+      0,
+      9,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      6,
+      5,
+      0,
+      0
+    ],
+    [
+      1,
+      9,
+      0,
+      0,
+      0,
+      0,
+      0,
+      2,
+      6
+    ],
+    [
+      0,
+      0,
+      6,
+      7,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      7,
+      0,
+      9,
+      0,
+      0,
+      0,
+      8,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      2,
+      4,
+      0,
+      0
+    ],
+    [
+      3,
+      0,
+      0,
+      0,
+      8,
+      0,
+      0,
+      0,
+      5
+    ]
+  ],
+  "strategies": [
+    "hidden singles",
+    "hidden pairs",
+    "pointing pairs",
+    "x wing",
+    "naked singles",
+    "als xz",
+    "box line reduction",
+    "finned swordfish",
+    "xy chain",
+    "x cycle",
+    "finned x wing",
+    "nishio forcing chains",
+    "naked pairs"
+  ],
+  "quotes": [
+    "Resilience and Endurance: SCARS ARE PROOF OF HEALING"
+  ]
+}

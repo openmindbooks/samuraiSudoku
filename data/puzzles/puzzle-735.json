@@ -1,0 +1,120 @@
+{
+  "id": 735,
+  "difficulty": "hard",
+  "puzzle": [
+    [
+      3,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      9,
+      5,
+      0,
+      0,
+      0,
+      2,
+      0,
+      0,
+      0
+    ],
+    [
+      2,
+      0,
+      6,
+      1,
+      3,
+      0,
+      5,
+      0,
+      0
+    ],
+    [
+      8,
+      0,
+      0,
+      0,
+      7,
+      1,
+      0,
+      2,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      2,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      7,
+      0,
+      5,
+      9,
+      0,
+      0,
+      0,
+      8
+    ],
+    [
+      0,
+      0,
+      3,
+      0,
+      6,
+      8,
+      1,
+      0,
+      7
+    ],
+    [
+      0,
+      0,
+      0,
+      7,
+      0,
+      0,
+      0,
+      5,
+      6
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      2
+    ]
+  ],
+  "strategies": [
+    "hidden singles",
+    "naked pairs",
+    "pointing pairs",
+    "x cycle",
+    "nishio forcing chains",
+    "xyz wing",
+    "naked singles",
+    "hidden pairs",
+    "xy chain",
+    "finned x wing"
+  ],
+  "quotes": [
+    "Forgiveness and Letting Go: LET THE LAST WORD GO"
+  ]
+}

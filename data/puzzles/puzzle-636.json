@@ -1,0 +1,117 @@
+{
+  "id": 636,
+  "difficulty": "hard",
+  "puzzle": [
+    [
+      6,
+      0,
+      0,
+      7,
+      0,
+      0,
+      0,
+      3,
+      4
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      2,
+      9,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      7,
+      0,
+      0,
+      4,
+      0,
+      2,
+      0,
+      0,
+      6
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      4,
+      0
+    ],
+    [
+      3,
+      0,
+      0,
+      9,
+      0,
+      1,
+      0,
+      0,
+      8
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      8,
+      5,
+      7,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      2,
+      4,
+      0,
+      0,
+      0,
+      3,
+      0,
+      0,
+      9
+    ]
+  ],
+  "strategies": [
+    "hidden singles",
+    "hidden pairs",
+    "pointing pairs",
+    "nishio forcing chains",
+    "naked singles",
+    "naked pairs",
+    "x cycle"
+  ],
+  "quotes": [
+    "Community and Service: STRONG ROOTS HOLD MANY BRANCHES"
+  ]
+}

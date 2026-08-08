@@ -1,0 +1,9 @@
+# Samurai Sudoku
+# Discourage bulk scraping of the generated solution data.
+# NOTE: robots.txt is only authoritative at a domain ROOT. On GitHub Pages
+# project sites (openmindbooks.github.io/samuraiSudoku/) this file serves under
+# a subpath and most crawlers will NOT honor it — for full effect, place an
+# equivalent robots.txt in the root openmindbooks.github.io Pages repo.
+User-agent: *
+Disallow: /samuraiSudoku/data/
+Disallow: /data/

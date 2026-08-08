@@ -1,0 +1,118 @@
+{
+  "id": 819,
+  "difficulty": "hard",
+  "puzzle": [
+    [
+      8,
+      0,
+      0,
+      3,
+      0,
+      0,
+      0,
+      0,
+      2
+    ],
+    [
+      0,
+      6,
+      0,
+      0,
+      0,
+      5,
+      4,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      5,
+      0,
+      0,
+      0,
+      0,
+      0,
+      7
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      5,
+      0,
+      0,
+      3,
+      4
+    ],
+    [
+      0,
+      3,
+      0,
+      6,
+      2,
+      8,
+      0,
+      1,
+      0
+    ],
+    [
+      5,
+      1,
+      0,
+      0,
+      9,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      4,
+      0,
+      0,
+      0,
+      0,
+      0,
+      8,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      9,
+      0,
+      0,
+      0,
+      7,
+      0
+    ],
+    [
+      2,
+      0,
+      0,
+      0,
+      0,
+      7,
+      0,
+      0,
+      1
+    ]
+  ],
+  "strategies": [
+    "naked singles",
+    "hidden singles",
+    "pointing pairs",
+    "als xz",
+    "nishio forcing chains",
+    "naked pairs",
+    "box line reduction",
+    "xy wing"
+  ],
+  "quotes": [
+    "Gratitude and Simplicity: FIND RICHES IN A QUIET HOUR"
+  ]
+}

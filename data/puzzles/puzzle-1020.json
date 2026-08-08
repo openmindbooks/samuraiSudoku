@@ -1,0 +1,118 @@
+{
+  "id": 1020,
+  "difficulty": "hard",
+  "puzzle": [
+    [
+      0,
+      6,
+      0,
+      0,
+      0,
+      9,
+      0,
+      2,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      4,
+      0,
+      0,
+      7,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      3,
+      9,
+      4
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      7,
+      0,
+      5,
+      0
+    ],
+    [
+      0,
+      1,
+      8,
+      5,
+      0,
+      3,
+      2,
+      7,
+      0
+    ],
+    [
+      0,
+      2,
+      0,
+      6,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      2,
+      9,
+      3,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      7,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      5,
+      0,
+      2,
+      0,
+      0,
+      0,
+      4,
+      0
+    ]
+  ],
+  "strategies": [
+    "hidden singles",
+    "hidden pairs",
+    "pointing pairs",
+    "x cycle",
+    "als xz",
+    "nishio forcing chains",
+    "naked singles",
+    "xy chain"
+  ],
+  "quotes": [
+    "Gratitude and Simplicity: PRAISE BEFORE YOU ASK"
+  ]
+}

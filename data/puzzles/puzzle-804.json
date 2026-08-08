@@ -1,0 +1,117 @@
+{
+  "id": 804,
+  "difficulty": "hard",
+  "puzzle": [
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      5,
+      7,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      7,
+      0,
+      0,
+      9
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      4,
+      9,
+      0,
+      0,
+      6
+    ],
+    [
+      0,
+      2,
+      0,
+      0,
+      0,
+      0,
+      3,
+      0,
+      0
+    ],
+    [
+      6,
+      4,
+      0,
+      2,
+      0,
+      8,
+      0,
+      9,
+      5
+    ],
+    [
+      0,
+      0,
+      5,
+      0,
+      0,
+      0,
+      0,
+      2,
+      0
+    ],
+    [
+      1,
+      0,
+      0,
+      4,
+      8,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      2,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      8,
+      6,
+      9,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  ],
+  "strategies": [
+    "hidden singles",
+    "hidden pairs",
+    "pointing pairs",
+    "als xz",
+    "box line reduction",
+    "nishio forcing chains",
+    "naked singles"
+  ],
+  "quotes": [
+    "Balance and Harmony: MEET EACH DAY WITH EVEN FOOTING"
+  ]
+}
